@@ -1,0 +1,25 @@
+# Environments and generated local state
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.runtime/
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+
+# Downloaded research data and regenerable feature caches
+data/raw/
+data/features/
+data/*.zip
+data/*.partial
+uploads/
+
+# Operating-system/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

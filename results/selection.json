@@ -1,0 +1,58 @@
+{
+  "GMM": {
+    "config_id": "GMM_combined_1",
+    "family": "GMM",
+    "features": "combined",
+    "components": 1,
+    "mean_fold_balanced_accuracy": 0.6169376693766938,
+    "std_fold_balanced_accuracy": 0.017753521772994413,
+    "refit_epochs": null,
+    "pooled_oof_metrics": {
+      "balanced_accuracy": 0.61643709825528,
+      "macro_f1": 0.5106096451319382,
+      "sensitivity": 0.3884297520661157,
+      "specificity": 0.8444444444444444,
+      "roc_auc": 0.6203856749311294,
+      "accuracy": 0.5120481927710844,
+      "n": 166,
+      "confusion_matrix": [
+        [
+          38,
+          7
+        ],
+        [
+          74,
+          47
+        ]
+      ]
+    }
+  },
+  "DNN": {
+    "config_id": "DNN_combined_0.4",
+    "family": "DNN",
+    "features": "combined",
+    "dropout": 0.4,
+    "mean_fold_balanced_accuracy": 0.5760501355013551,
+    "std_fold_balanced_accuracy": 0.02895447888275427,
+    "refit_epochs": 17,
+    "pooled_oof_metrics": {
+      "balanced_accuracy": 0.5750229568411387,
+      "macro_f1": 0.5608465608465608,
+      "sensitivity": 0.6611570247933884,
+      "specificity": 0.4888888888888889,
+      "roc_auc": 0.5656565656565656,
+      "accuracy": 0.6144578313253012,
+      "n": 166,
+      "confusion_matrix": [
+        [
+          22,
+          23
+        ],
+        [
+          41,
+          80
+        ]
+      ]
+    }
+  }
+}

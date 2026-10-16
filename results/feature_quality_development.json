@@ -1,0 +1,1330 @@
+[
+  {
+    "record_id": "voice001",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice002",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice003",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice005",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice006",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice007",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice008",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice009",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice010",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice011",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice012",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice013",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice014",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice017",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice018",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice021",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice025",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice027",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice028",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice029",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice030",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice031",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice032",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice033",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice035",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice036",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice037",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice038",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.9932432432432432,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice043",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice044",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice045",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice046",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice047",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice048",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice049",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice050",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice051",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice052",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice053",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice055",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice056",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice057",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice058",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice059",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice060",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice061",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice062",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice063",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice065",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice066",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice068",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice071",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice072",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice073",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice074",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice075",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice077",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice078",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice080",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice083",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice085",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice086",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice087",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice088",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice089",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice090",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice091",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice092",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice093",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.972972972972973,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice094",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.4155405405405405,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice095",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice096",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice097",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice098",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice099",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice100",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice101",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice102",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.6824324324324325,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice104",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice105",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice106",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice109",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice110",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.9932432432432432,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice111",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice113",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.19256756756756757,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice114",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice115",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice116",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.5675675675675675,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice117",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.21283783783783783,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice118",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice119",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice120",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.9358108108108109,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice121",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice122",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice123",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice124",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.831081081081081,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice125",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice126",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice127",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice129",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice130",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.9391891891891891,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice131",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice133",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice134",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice135",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice136",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice137",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice138",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice139",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice140",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice141",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.15878378378378377,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice143",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice145",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.38175675675675674,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice146",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice147",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice148",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.9054054054054054,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice150",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice151",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice152",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice154",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice155",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice156",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice157",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice158",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice159",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice160",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice161",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.8918918918918919,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice162",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.06418918918918919,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice163",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.7094594594594594,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice164",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice166",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.956081081081081,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice167",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice168",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.8817567567567568,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice169",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.8716216216216216,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice170",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.9594594594594594,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice171",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.9966216216216216,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice172",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice173",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice174",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.033783783783783786,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice175",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice176",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice177",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice178",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice179",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice180",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice181",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice182",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice183",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice184",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice185",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice187",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.8986486486486487,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice188",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice189",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.9898648648648649,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice190",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice191",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice192",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice193",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice194",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice196",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice198",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice199",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice200",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice201",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 0.8141891891891891,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice204",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice206",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  },
+  {
+    "record_id": "voice207",
+    "measurement_failures": [],
+    "missing_quality_features": [],
+    "voiced_frame_fraction": 1.0,
+    "status": "usable",
+    "scope": "Signal checks do not verify vowel identity or clinical recording suitability."
+  }
+]

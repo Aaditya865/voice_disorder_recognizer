@@ -1,0 +1,22 @@
+* text=auto
+* whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.sh text eol=lf
+*.cmd text eol=crlf
+*.wav binary
+*.mp3 binary
+*.png binary
+*.pptx binary
+*.joblib binary
+
+# Frozen scientific hashes cover exact bytes, including original line endings.
+data/** -text
+models/** -text
+results/** -text
+voice_review/** -text
+requirements-lock.txt -text

@@ -1,0 +1,350 @@
+[
+  {
+    "family": "GMM",
+    "fold": 0,
+    "epochs": null,
+    "metrics": {
+      "balanced_accuracy": 0.49613375130616505,
+      "confusion_matrix": [
+        [
+          3,
+          12,
+          0
+        ],
+        [
+          0,
+          10,
+          1
+        ],
+        [
+          7,
+          11,
+          11
+        ]
+      ],
+      "report": {
+        "Healthy": {
+          "precision": 0.3,
+          "recall": 0.2,
+          "f1-score": 0.24,
+          "support": 15.0
+        },
+        "Laryngeal (laryngitis-labelled)": {
+          "precision": 0.30303030303030304,
+          "recall": 0.9090909090909091,
+          "f1-score": 0.45454545454545453,
+          "support": 11.0
+        },
+        "Other pathology": {
+          "precision": 0.9166666666666666,
+          "recall": 0.3793103448275862,
+          "f1-score": 0.5365853658536586,
+          "support": 29.0
+        },
+        "accuracy": 0.43636363636363634,
+        "macro avg": {
+          "precision": 0.5065656565656566,
+          "recall": 0.49613375130616505,
+          "f1-score": 0.4103769401330377,
+          "support": 55.0
+        },
+        "weighted avg": {
+          "precision": 0.6257575757575757,
+          "recall": 0.43636363636363634,
+          "f1-score": 0.4392904656319291,
+          "support": 55.0
+        }
+      }
+    }
+  },
+  {
+    "family": "GMM",
+    "fold": 1,
+    "epochs": null,
+    "metrics": {
+      "balanced_accuracy": 0.5529914529914529,
+      "confusion_matrix": [
+        [
+          7,
+          3,
+          5
+        ],
+        [
+          4,
+          7,
+          3
+        ],
+        [
+          6,
+          2,
+          18
+        ]
+      ],
+      "report": {
+        "Healthy": {
+          "precision": 0.4117647058823529,
+          "recall": 0.4666666666666667,
+          "f1-score": 0.4375,
+          "support": 15.0
+        },
+        "Laryngeal (laryngitis-labelled)": {
+          "precision": 0.5833333333333334,
+          "recall": 0.5,
+          "f1-score": 0.5384615384615384,
+          "support": 14.0
+        },
+        "Other pathology": {
+          "precision": 0.6923076923076923,
+          "recall": 0.6923076923076923,
+          "f1-score": 0.6923076923076923,
+          "support": 26.0
+        },
+        "accuracy": 0.5818181818181818,
+        "macro avg": {
+          "precision": 0.5624685771744595,
+          "recall": 0.5529914529914529,
+          "f1-score": 0.5560897435897436,
+          "support": 55.0
+        },
+        "weighted avg": {
+          "precision": 0.5880570409982174,
+          "recall": 0.5818181818181818,
+          "f1-score": 0.5836538461538462,
+          "support": 55.0
+        }
+      }
+    }
+  },
+  {
+    "family": "GMM",
+    "fold": 2,
+    "epochs": null,
+    "metrics": {
+      "balanced_accuracy": 0.5491129785247432,
+      "confusion_matrix": [
+        [
+          7,
+          7,
+          1
+        ],
+        [
+          1,
+          6,
+          0
+        ],
+        [
+          10,
+          13,
+          11
+        ]
+      ],
+      "report": {
+        "Healthy": {
+          "precision": 0.3888888888888889,
+          "recall": 0.4666666666666667,
+          "f1-score": 0.42424242424242425,
+          "support": 15.0
+        },
+        "Laryngeal (laryngitis-labelled)": {
+          "precision": 0.23076923076923078,
+          "recall": 0.8571428571428571,
+          "f1-score": 0.36363636363636365,
+          "support": 7.0
+        },
+        "Other pathology": {
+          "precision": 0.9166666666666666,
+          "recall": 0.3235294117647059,
+          "f1-score": 0.4782608695652174,
+          "support": 34.0
+        },
+        "accuracy": 0.42857142857142855,
+        "macro avg": {
+          "precision": 0.5121082621082621,
+          "recall": 0.5491129785247432,
+          "f1-score": 0.4220465524813351,
+          "support": 56.0
+        },
+        "weighted avg": {
+          "precision": 0.6895604395604396,
+          "recall": 0.42857142857142855,
+          "f1-score": 0.4494635798983625,
+          "support": 56.0
+        }
+      }
+    }
+  },
+  {
+    "family": "DNN",
+    "fold": 0,
+    "epochs": 15,
+    "metrics": {
+      "balanced_accuracy": 0.4120515499825845,
+      "confusion_matrix": [
+        [
+          5,
+          6,
+          4
+        ],
+        [
+          0,
+          5,
+          6
+        ],
+        [
+          10,
+          6,
+          13
+        ]
+      ],
+      "report": {
+        "Healthy": {
+          "precision": 0.3333333333333333,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.3333333333333333,
+          "support": 15.0
+        },
+        "Laryngeal (laryngitis-labelled)": {
+          "precision": 0.29411764705882354,
+          "recall": 0.45454545454545453,
+          "f1-score": 0.35714285714285715,
+          "support": 11.0
+        },
+        "Other pathology": {
+          "precision": 0.5652173913043478,
+          "recall": 0.4482758620689655,
+          "f1-score": 0.5,
+          "support": 29.0
+        },
+        "accuracy": 0.41818181818181815,
+        "macro avg": {
+          "precision": 0.3975561238988348,
+          "recall": 0.4120515499825845,
+          "f1-score": 0.3968253968253968,
+          "support": 55.0
+        },
+        "weighted avg": {
+          "precision": 0.44775633573587537,
+          "recall": 0.41818181818181815,
+          "f1-score": 0.425974025974026,
+          "support": 55.0
+        }
+      }
+    }
+  },
+  {
+    "family": "DNN",
+    "fold": 1,
+    "epochs": 13,
+    "metrics": {
+      "balanced_accuracy": 0.39584859584859583,
+      "confusion_matrix": [
+        [
+          1,
+          4,
+          10
+        ],
+        [
+          2,
+          6,
+          6
+        ],
+        [
+          3,
+          5,
+          18
+        ]
+      ],
+      "report": {
+        "Healthy": {
+          "precision": 0.16666666666666666,
+          "recall": 0.06666666666666667,
+          "f1-score": 0.09523809523809523,
+          "support": 15.0
+        },
+        "Laryngeal (laryngitis-labelled)": {
+          "precision": 0.4,
+          "recall": 0.42857142857142855,
+          "f1-score": 0.41379310344827586,
+          "support": 14.0
+        },
+        "Other pathology": {
+          "precision": 0.5294117647058824,
+          "recall": 0.6923076923076923,
+          "f1-score": 0.6,
+          "support": 26.0
+        },
+        "accuracy": 0.45454545454545453,
+        "macro avg": {
+          "precision": 0.36535947712418304,
+          "recall": 0.39584859584859583,
+          "f1-score": 0.36967706622879043,
+          "support": 55.0
+        },
+        "weighted avg": {
+          "precision": 0.3975401069518717,
+          "recall": 0.45454545454545453,
+          "f1-score": 0.41493954321540527,
+          "support": 55.0
+        }
+      }
+    }
+  },
+  {
+    "family": "DNN",
+    "fold": 2,
+    "epochs": 14,
+    "metrics": {
+      "balanced_accuracy": 0.37217553688141924,
+      "confusion_matrix": [
+        [
+          2,
+          5,
+          8
+        ],
+        [
+          1,
+          4,
+          2
+        ],
+        [
+          6,
+          14,
+          14
+        ]
+      ],
+      "report": {
+        "Healthy": {
+          "precision": 0.2222222222222222,
+          "recall": 0.13333333333333333,
+          "f1-score": 0.16666666666666666,
+          "support": 15.0
+        },
+        "Laryngeal (laryngitis-labelled)": {
+          "precision": 0.17391304347826086,
+          "recall": 0.5714285714285714,
+          "f1-score": 0.26666666666666666,
+          "support": 7.0
+        },
+        "Other pathology": {
+          "precision": 0.5833333333333334,
+          "recall": 0.4117647058823529,
+          "f1-score": 0.4827586206896552,
+          "support": 34.0
+        },
+        "accuracy": 0.35714285714285715,
+        "macro avg": {
+          "precision": 0.32648953301127215,
+          "recall": 0.37217553688141924,
+          "f1-score": 0.3053639846743295,
+          "support": 56.0
+        },
+        "weighted avg": {
+          "precision": 0.43542960662525887,
+          "recall": 0.35714285714285715,
+          "f1-score": 0.3710796387520526,
+          "support": 56.0
+        }
+      }
+    }
+  }
+]

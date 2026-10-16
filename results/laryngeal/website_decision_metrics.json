@@ -1,0 +1,144 @@
+{
+  "GMM": {
+    "confusion_matrix": [
+      [
+        38,
+        0,
+        6,
+        1
+      ],
+      [
+        26,
+        2,
+        4,
+        0
+      ],
+      [
+        48,
+        1,
+        39,
+        1
+      ]
+    ],
+    "rows": [
+      "Healthy",
+      "Laryngeal (laryngitis-labelled)",
+      "Other pathology"
+    ],
+    "columns": [
+      "Healthy",
+      "Laryngeal (laryngitis-labelled)",
+      "Other pathology",
+      "Unresolved pathological"
+    ],
+    "per_class": {
+      "Healthy": {
+        "precision": 0.3392857142857143,
+        "recall": 0.8444444444444444,
+        "f1-score": 0.4840764331210191,
+        "support": 45.0
+      },
+      "Laryngeal (laryngitis-labelled)": {
+        "precision": 0.6666666666666666,
+        "recall": 0.0625,
+        "f1-score": 0.11428571428571428,
+        "support": 32.0
+      },
+      "Other pathology": {
+        "precision": 0.7959183673469388,
+        "recall": 0.43820224719101125,
+        "f1-score": 0.5652173913043478,
+        "support": 89.0
+      },
+      "micro avg": {
+        "precision": 0.4817073170731707,
+        "recall": 0.4759036144578313,
+        "f1-score": 0.47878787878787876,
+        "support": 166.0
+      },
+      "macro avg": {
+        "precision": 0.6006235827664399,
+        "recall": 0.4483822305451519,
+        "f1-score": 0.3878598462370271,
+        "support": 166.0
+      },
+      "weighted avg": {
+        "precision": 0.6472164166871567,
+        "recall": 0.4759036144578313,
+        "f1-score": 0.45629476008238357,
+        "support": 166.0
+      }
+    }
+  },
+  "DNN": {
+    "confusion_matrix": [
+      [
+        22,
+        7,
+        15,
+        1
+      ],
+      [
+        6,
+        11,
+        13,
+        2
+      ],
+      [
+        35,
+        13,
+        38,
+        3
+      ]
+    ],
+    "rows": [
+      "Healthy",
+      "Laryngeal (laryngitis-labelled)",
+      "Other pathology"
+    ],
+    "columns": [
+      "Healthy",
+      "Laryngeal (laryngitis-labelled)",
+      "Other pathology",
+      "Unresolved pathological"
+    ],
+    "per_class": {
+      "Healthy": {
+        "precision": 0.3492063492063492,
+        "recall": 0.4888888888888889,
+        "f1-score": 0.4074074074074074,
+        "support": 45.0
+      },
+      "Laryngeal (laryngitis-labelled)": {
+        "precision": 0.3548387096774194,
+        "recall": 0.34375,
+        "f1-score": 0.3492063492063492,
+        "support": 32.0
+      },
+      "Other pathology": {
+        "precision": 0.5757575757575758,
+        "recall": 0.42696629213483145,
+        "f1-score": 0.49032258064516127,
+        "support": 89.0
+      },
+      "micro avg": {
+        "precision": 0.44375,
+        "recall": 0.42771084337349397,
+        "f1-score": 0.43558282208588955,
+        "support": 166.0
+      },
+      "macro avg": {
+        "precision": 0.4266008782137815,
+        "recall": 0.41986839367457346,
+        "f1-score": 0.4156454457529726,
+        "support": 166.0
+      },
+      "weighted avg": {
+        "precision": 0.47175631726739387,
+        "recall": 0.42771084337349397,
+        "f1-score": 0.44064244689973403,
+        "support": 166.0
+      }
+    }
+  }
+}

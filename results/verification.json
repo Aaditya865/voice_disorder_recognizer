@@ -1,0 +1,12 @@
+{
+  "automated_tests_passed": 31,
+  "executed_notebook_cells": 7,
+  "development_records": 166,
+  "sealed_test_records": 42,
+  "test_features_extracted": 0,
+  "frozen_hashes_verified": 22,
+  "metric_recomputation": "passed",
+  "seed_runs_per_model": 4,
+  "original_models_and_partitions_unchanged": true,
+  "unseen_demo_reproduces_saved_oof_predictions": true
+}

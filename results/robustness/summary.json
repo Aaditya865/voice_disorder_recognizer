@@ -1,0 +1,194 @@
+{
+  "status": "DEVELOPMENT ONLY; no seed selection",
+  "summary": {
+    "DNN": {
+      "runs": 4,
+      "balanced_accuracy_mean": 0.5674012855831038,
+      "balanced_accuracy_sd": 0.026184274182385742,
+      "balanced_accuracy_min": 0.5315886134067953,
+      "balanced_accuracy_max": 0.5941230486685032,
+      "records_with_label_changes": 73,
+      "records": 166
+    },
+    "GMM": {
+      "runs": 4,
+      "balanced_accuracy_mean": 0.61643709825528,
+      "balanced_accuracy_sd": 0.0,
+      "balanced_accuracy_min": 0.61643709825528,
+      "balanced_accuracy_max": 0.61643709825528,
+      "records_with_label_changes": 0,
+      "records": 166
+    }
+  },
+  "runs": [
+    {
+      "model": "DNN",
+      "seed": 2026,
+      "balanced_accuracy": 0.5750229568411387,
+      "macro_f1": 0.5608465608465608,
+      "sensitivity": 0.6611570247933884,
+      "specificity": 0.4888888888888889,
+      "roc_auc": 0.5656565656565656,
+      "accuracy": 0.6144578313253012,
+      "n": 166,
+      "confusion_matrix": [
+        [
+          22,
+          23
+        ],
+        [
+          41,
+          80
+        ]
+      ]
+    },
+    {
+      "model": "DNN",
+      "seed": 12026,
+      "balanced_accuracy": 0.5941230486685032,
+      "macro_f1": 0.5896892655367232,
+      "sensitivity": 0.743801652892562,
+      "specificity": 0.4444444444444444,
+      "roc_auc": 0.5988980716253443,
+      "accuracy": 0.6626506024096386,
+      "n": 166,
+      "confusion_matrix": [
+        [
+          20,
+          25
+        ],
+        [
+          31,
+          90
+        ]
+      ]
+    },
+    {
+      "model": "DNN",
+      "seed": 22026,
+      "balanced_accuracy": 0.5315886134067953,
+      "macro_f1": 0.5317889674943358,
+      "sensitivity": 0.7520661157024794,
+      "specificity": 0.3111111111111111,
+      "roc_auc": 0.5722681359044995,
+      "accuracy": 0.6325301204819277,
+      "n": 166,
+      "confusion_matrix": [
+        [
+          14,
+          31
+        ],
+        [
+          30,
+          91
+        ]
+      ]
+    },
+    {
+      "model": "DNN",
+      "seed": 32026,
+      "balanced_accuracy": 0.5688705234159779,
+      "macro_f1": 0.5111641256942632,
+      "sensitivity": 0.47107438016528924,
+      "specificity": 0.6666666666666666,
+      "roc_auc": 0.5700642791551883,
+      "accuracy": 0.5240963855421686,
+      "n": 166,
+      "confusion_matrix": [
+        [
+          30,
+          15
+        ],
+        [
+          64,
+          57
+        ]
+      ]
+    },
+    {
+      "model": "GMM",
+      "seed": 2026,
+      "balanced_accuracy": 0.61643709825528,
+      "macro_f1": 0.5106096451319382,
+      "sensitivity": 0.3884297520661157,
+      "specificity": 0.8444444444444444,
+      "roc_auc": 0.6203856749311294,
+      "accuracy": 0.5120481927710844,
+      "n": 166,
+      "confusion_matrix": [
+        [
+          38,
+          7
+        ],
+        [
+          74,
+          47
+        ]
+      ]
+    },
+    {
+      "model": "GMM",
+      "seed": 12026,
+      "balanced_accuracy": 0.61643709825528,
+      "macro_f1": 0.5106096451319382,
+      "sensitivity": 0.3884297520661157,
+      "specificity": 0.8444444444444444,
+      "roc_auc": 0.6203856749311294,
+      "accuracy": 0.5120481927710844,
+      "n": 166,
+      "confusion_matrix": [
+        [
+          38,
+          7
+        ],
+        [
+          74,
+          47
+        ]
+      ]
+    },
+    {
+      "model": "GMM",
+      "seed": 22026,
+      "balanced_accuracy": 0.61643709825528,
+      "macro_f1": 0.5106096451319382,
+      "sensitivity": 0.3884297520661157,
+      "specificity": 0.8444444444444444,
+      "roc_auc": 0.6203856749311294,
+      "accuracy": 0.5120481927710844,
+      "n": 166,
+      "confusion_matrix": [
+        [
+          38,
+          7
+        ],
+        [
+          74,
+          47
+        ]
+      ]
+    },
+    {
+      "model": "GMM",
+      "seed": 32026,
+      "balanced_accuracy": 0.61643709825528,
+      "macro_f1": 0.5106096451319382,
+      "sensitivity": 0.3884297520661157,
+      "specificity": 0.8444444444444444,
+      "roc_auc": 0.6203856749311294,
+      "accuracy": 0.5120481927710844,
+      "n": 166,
+      "confusion_matrix": [
+        [
+          38,
+          7
+        ],
+        [
+          74,
+          47
+        ]
+      ]
+    }
+  ],
+  "limitations": "Four seed runs are descriptive; standard deviations are not confidence intervals. Selection bias remains."
+}

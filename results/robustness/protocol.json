@@ -1,0 +1,23 @@
+{
+  "purpose": "Training randomness sensitivity, not additional model selection",
+  "original_seed": 2026,
+  "repeat_seeds": [
+    12026,
+    22026,
+    32026
+  ],
+  "fold_seed_rule": "base seed + zero-based fold index",
+  "fixed": "Original development folds, selected architecture/features, threshold zero",
+  "varied": "Initialization, minibatch order and internal early-stopping subset; not outer partitions",
+  "reporting": "Show every run. Do not choose the best seed or change saved demonstration models.",
+  "interpretation": "Four seed runs are descriptive; standard deviations are not confidence intervals. Selection bias remains.",
+  "files": {
+    "data\\splits.json": "83ae4ab59f05936de469dada0096c61e1c58f19aa77f2d198c00df8ce5c15537",
+    "results\\selection.json": "2efdece10d0ff543c02e6a3b02e78ad5e1fd16a29162bac9da8d52c9425a907c",
+    "results\\development_predictions.csv": "39f21804310054b4141b9a9f5d3aa0ca35723f7241504eb02810dce635e83336",
+    "models\\gmm.joblib": "586cab5ca61b7543a0fd2b81a869eee0b3fd793da7315b07b97903ab993fe684",
+    "models\\dnn.joblib": "9aac41479e31eaade6860efecab5c3a616037dcc8f049fe1bf84f64a00b222b0",
+    "voice_review\\models.py": "22b670df63c5133b6f08ede1d889afd596da107328557d16f1951c0cd84c561f",
+    "voice_review\\robustness.py": "759da8c21739ec9bcff4f032fba479ca3c8af1c459e16816f429946d7e997920"
+  }
+}

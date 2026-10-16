@@ -1,0 +1,76 @@
+{
+  "selection": {
+    "GMM": {
+      "config_id": "GMM_combined_1",
+      "family": "GMM",
+      "features": "combined",
+      "components": 1,
+      "mean_fold_balanced_accuracy": 0.6169376693766938,
+      "std_fold_balanced_accuracy": 0.017753521772994413,
+      "refit_epochs": null,
+      "pooled_oof_metrics": {
+        "balanced_accuracy": 0.61643709825528,
+        "macro_f1": 0.5106096451319382,
+        "sensitivity": 0.3884297520661157,
+        "specificity": 0.8444444444444444,
+        "roc_auc": 0.6203856749311294,
+        "accuracy": 0.5120481927710844,
+        "n": 166,
+        "confusion_matrix": [
+          [
+            38,
+            7
+          ],
+          [
+            74,
+            47
+          ]
+        ]
+      }
+    },
+    "DNN": {
+      "config_id": "DNN_combined_0.4",
+      "family": "DNN",
+      "features": "combined",
+      "dropout": 0.4,
+      "mean_fold_balanced_accuracy": 0.5760501355013551,
+      "std_fold_balanced_accuracy": 0.02895447888275427,
+      "refit_epochs": 17,
+      "pooled_oof_metrics": {
+        "balanced_accuracy": 0.5750229568411387,
+        "macro_f1": 0.5608465608465608,
+        "sensitivity": 0.6611570247933884,
+        "specificity": 0.4888888888888889,
+        "roc_auc": 0.5656565656565656,
+        "accuracy": 0.6144578313253012,
+        "n": 166,
+        "confusion_matrix": [
+          [
+            22,
+            23
+          ],
+          [
+            41,
+            80
+          ]
+        ]
+      }
+    }
+  },
+  "files": {
+    "data\\splits.json": "83ae4ab59f05936de469dada0096c61e1c58f19aa77f2d198c00df8ce5c15537",
+    "data\\manifest.csv": "e3cc07ca4d48f814256761285d27000725d976babe03e7114b72f6df20c145ad",
+    "data\\feature_spec.json": "b0ba7d1cb7f6ae5d865adaa2a29cb99be2be50c7772676303480534a2c9e8792",
+    "models\\gmm.joblib": "586cab5ca61b7543a0fd2b81a869eee0b3fd793da7315b07b97903ab993fe684",
+    "models\\dnn.joblib": "9aac41479e31eaade6860efecab5c3a616037dcc8f049fe1bf84f64a00b222b0",
+    "results\\selection.json": "2efdece10d0ff543c02e6a3b02e78ad5e1fd16a29162bac9da8d52c9425a907c",
+    "requirements-lock.txt": "cbcf3b856237b89ed1bf658feb8d9056ff5a89a9c734d65220a04a25add9f4bd",
+    "voice_review\\__init__.py": "043fce9bbe690ecfe13caefb89c61af1f269c3af7469e16708533eeb46110275",
+    "voice_review\\data.py": "46494e33e4d2c6bce3c23dede0f5933c9f2c7cae8447ac76072d6d8cad6e1b04",
+    "voice_review\\experiment.py": "d07b81e7a97c4c0ea3fb2747f8f5550c0f99681beb4023786211b4b88650b0b1",
+    "voice_review\\features.py": "f7ff2d3a1990a43dd2018819d1311eb26b481d3e51e81ca0b6e1dc0d3339eed3",
+    "voice_review\\metrics.py": "3206cb5cbaf1ce096e9d3199672836e56f9f96413e3c013d8bd96f1323a0312b",
+    "voice_review\\models.py": "22b670df63c5133b6f08ede1d889afd596da107328557d16f1951c0cd84c561f",
+    "voice_review\\reporting.py": "0bf980165973dfe6f3aa3f6fe4fcec9ea74c3e94c81759787cffa4171f6a7067"
+  }
+}

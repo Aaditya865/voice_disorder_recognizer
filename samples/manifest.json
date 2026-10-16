@@ -1,0 +1,80 @@
+[
+  {
+    "filename": "healthy_voice002.wav",
+    "record_id": "voice002",
+    "dataset_diagnosis": "healthy",
+    "dataset_group": "Healthy",
+    "sha256": "7d1919bb52763a93c4c8103e48aae3e11f62fca95e0a4c26dc740573844e92e7",
+    "audio_hash": "d1174bba15bf027324c66bc359438084b2916a723ef847427bec993606fbc443",
+    "validation_fold": 2,
+    "measured_predictions": {
+      "GMM": {
+        "result": "Healthy",
+        "raw_score": -9.838354110717773,
+        "model_score": 0.9999466377758026,
+        "subtype": "Not assigned by the binary result",
+        "three_class_result": "Healthy"
+      },
+      "DNN": {
+        "result": "Healthy",
+        "raw_score": -0.22560077905654907,
+        "model_score": 0.5561621953356539,
+        "subtype": "Not assigned by the binary result",
+        "three_class_result": "Laryngeal (laryngitis-labelled)"
+      }
+    },
+    "analysis_seconds": 0.7592871999950148
+  },
+  {
+    "filename": "pathological_voice003.wav",
+    "record_id": "voice003",
+    "dataset_diagnosis": "hyperkinetic dysphonia (nodule)",
+    "dataset_group": "Other pathology",
+    "sha256": "8707b8f6034d13abf802bfa31dda2c6080e4e0dcec3ac74ed9e4b3e0b41e9a93",
+    "audio_hash": "00674152111b9e2d786e60a0ea8a929fa8c72603ee766ef1c87b53b7c7856437",
+    "validation_fold": 0,
+    "measured_predictions": {
+      "GMM": {
+        "result": "Pathological",
+        "raw_score": 2.305164337158203,
+        "model_score": 0.9093038449692867,
+        "subtype": "LARYNGEAL \u2014 laryngitis-labelled group",
+        "three_class_result": "Laryngeal (laryngitis-labelled)"
+      },
+      "DNN": {
+        "result": "Pathological",
+        "raw_score": 5.848259925842285,
+        "model_score": 0.9971233840331748,
+        "subtype": "LARYNGEAL \u2014 laryngitis-labelled group",
+        "three_class_result": "Laryngeal (laryngitis-labelled)"
+      }
+    },
+    "analysis_seconds": 0.22275260000606067
+  },
+  {
+    "filename": "laryngeal_voice008.wav",
+    "record_id": "voice008",
+    "dataset_diagnosis": "reflux laryngitis",
+    "dataset_group": "Laryngeal (laryngitis-labelled)",
+    "sha256": "67a7dcaca4b56f630997dc02cfc0d6fa9704868081824abbe0ef1fef14a3a854",
+    "audio_hash": "6f608fcf9afa99931d55c08a103fc982a740c8f3f6fec6e55cdf3f4812c45a06",
+    "validation_fold": 0,
+    "measured_predictions": {
+      "GMM": {
+        "result": "Healthy",
+        "raw_score": -5.122797012329102,
+        "model_score": 0.9940759720055367,
+        "subtype": "Not assigned by the binary result",
+        "three_class_result": "Laryngeal (laryngitis-labelled)"
+      },
+      "DNN": {
+        "result": "Pathological",
+        "raw_score": 6.1460371017456055,
+        "model_score": 0.9978626248417373,
+        "subtype": "LARYNGEAL \u2014 laryngitis-labelled group",
+        "three_class_result": "Laryngeal (laryngitis-labelled)"
+      }
+    },
+    "analysis_seconds": 0.22016290000465233
+  }
+]

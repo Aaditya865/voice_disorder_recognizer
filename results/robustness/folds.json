@@ -1,0 +1,452 @@
+[
+  {
+    "model": "GMM",
+    "seed": 12026,
+    "fold": 0,
+    "epochs": null,
+    "metrics": {
+      "balanced_accuracy": 0.6416666666666666,
+      "macro_f1": 0.509090909090909,
+      "sensitivity": 0.35,
+      "specificity": 0.9333333333333333,
+      "roc_auc": 0.6316666666666667,
+      "accuracy": 0.509090909090909,
+      "n": 55,
+      "confusion_matrix": [
+        [
+          14,
+          1
+        ],
+        [
+          26,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "model": "GMM",
+    "seed": 12026,
+    "fold": 1,
+    "epochs": null,
+    "metrics": {
+      "balanced_accuracy": 0.6083333333333334,
+      "macro_f1": 0.5609163484901076,
+      "sensitivity": 0.55,
+      "specificity": 0.6666666666666666,
+      "roc_auc": 0.585,
+      "accuracy": 0.5818181818181818,
+      "n": 55,
+      "confusion_matrix": [
+        [
+          10,
+          5
+        ],
+        [
+          18,
+          22
+        ]
+      ]
+    }
+  },
+  {
+    "model": "GMM",
+    "seed": 12026,
+    "fold": 2,
+    "epochs": null,
+    "metrics": {
+      "balanced_accuracy": 0.6008130081300813,
+      "macro_f1": 0.4448353054045411,
+      "sensitivity": 0.2682926829268293,
+      "specificity": 0.9333333333333333,
+      "roc_auc": 0.6227642276422765,
+      "accuracy": 0.44642857142857145,
+      "n": 56,
+      "confusion_matrix": [
+        [
+          14,
+          1
+        ],
+        [
+          30,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "model": "GMM",
+    "seed": 22026,
+    "fold": 0,
+    "epochs": null,
+    "metrics": {
+      "balanced_accuracy": 0.6416666666666666,
+      "macro_f1": 0.509090909090909,
+      "sensitivity": 0.35,
+      "specificity": 0.9333333333333333,
+      "roc_auc": 0.6316666666666667,
+      "accuracy": 0.509090909090909,
+      "n": 55,
+      "confusion_matrix": [
+        [
+          14,
+          1
+        ],
+        [
+          26,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "model": "GMM",
+    "seed": 22026,
+    "fold": 1,
+    "epochs": null,
+    "metrics": {
+      "balanced_accuracy": 0.6083333333333334,
+      "macro_f1": 0.5609163484901076,
+      "sensitivity": 0.55,
+      "specificity": 0.6666666666666666,
+      "roc_auc": 0.585,
+      "accuracy": 0.5818181818181818,
+      "n": 55,
+      "confusion_matrix": [
+        [
+          10,
+          5
+        ],
+        [
+          18,
+          22
+        ]
+      ]
+    }
+  },
+  {
+    "model": "GMM",
+    "seed": 22026,
+    "fold": 2,
+    "epochs": null,
+    "metrics": {
+      "balanced_accuracy": 0.6008130081300813,
+      "macro_f1": 0.4448353054045411,
+      "sensitivity": 0.2682926829268293,
+      "specificity": 0.9333333333333333,
+      "roc_auc": 0.6227642276422765,
+      "accuracy": 0.44642857142857145,
+      "n": 56,
+      "confusion_matrix": [
+        [
+          14,
+          1
+        ],
+        [
+          30,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "model": "GMM",
+    "seed": 32026,
+    "fold": 0,
+    "epochs": null,
+    "metrics": {
+      "balanced_accuracy": 0.6416666666666666,
+      "macro_f1": 0.509090909090909,
+      "sensitivity": 0.35,
+      "specificity": 0.9333333333333333,
+      "roc_auc": 0.6316666666666667,
+      "accuracy": 0.509090909090909,
+      "n": 55,
+      "confusion_matrix": [
+        [
+          14,
+          1
+        ],
+        [
+          26,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "model": "GMM",
+    "seed": 32026,
+    "fold": 1,
+    "epochs": null,
+    "metrics": {
+      "balanced_accuracy": 0.6083333333333334,
+      "macro_f1": 0.5609163484901076,
+      "sensitivity": 0.55,
+      "specificity": 0.6666666666666666,
+      "roc_auc": 0.585,
+      "accuracy": 0.5818181818181818,
+      "n": 55,
+      "confusion_matrix": [
+        [
+          10,
+          5
+        ],
+        [
+          18,
+          22
+        ]
+      ]
+    }
+  },
+  {
+    "model": "GMM",
+    "seed": 32026,
+    "fold": 2,
+    "epochs": null,
+    "metrics": {
+      "balanced_accuracy": 0.6008130081300813,
+      "macro_f1": 0.4448353054045411,
+      "sensitivity": 0.2682926829268293,
+      "specificity": 0.9333333333333333,
+      "roc_auc": 0.6227642276422765,
+      "accuracy": 0.44642857142857145,
+      "n": 56,
+      "confusion_matrix": [
+        [
+          14,
+          1
+        ],
+        [
+          30,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "model": "DNN",
+    "seed": 12026,
+    "fold": 0,
+    "epochs": 15,
+    "metrics": {
+      "balanced_accuracy": 0.5833333333333333,
+      "macro_f1": 0.5743034055727554,
+      "sensitivity": 0.7,
+      "specificity": 0.4666666666666667,
+      "roc_auc": 0.535,
+      "accuracy": 0.6363636363636364,
+      "n": 55,
+      "confusion_matrix": [
+        [
+          7,
+          8
+        ],
+        [
+          12,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "model": "DNN",
+    "seed": 12026,
+    "fold": 1,
+    "epochs": 18,
+    "metrics": {
+      "balanced_accuracy": 0.6583333333333333,
+      "macro_f1": 0.6646341463414633,
+      "sensitivity": 0.85,
+      "specificity": 0.4666666666666667,
+      "roc_auc": 0.6983333333333333,
+      "accuracy": 0.7454545454545455,
+      "n": 55,
+      "confusion_matrix": [
+        [
+          7,
+          8
+        ],
+        [
+          6,
+          34
+        ]
+      ]
+    }
+  },
+  {
+    "model": "DNN",
+    "seed": 12026,
+    "fold": 2,
+    "epochs": 16,
+    "metrics": {
+      "balanced_accuracy": 0.5414634146341464,
+      "macro_f1": 0.5354449472096531,
+      "sensitivity": 0.6829268292682927,
+      "specificity": 0.4,
+      "roc_auc": 0.5463414634146342,
+      "accuracy": 0.6071428571428571,
+      "n": 56,
+      "confusion_matrix": [
+        [
+          6,
+          9
+        ],
+        [
+          13,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "model": "DNN",
+    "seed": 22026,
+    "fold": 0,
+    "epochs": 15,
+    "metrics": {
+      "balanced_accuracy": 0.5166666666666666,
+      "macro_f1": 0.515224358974359,
+      "sensitivity": 0.7,
+      "specificity": 0.3333333333333333,
+      "roc_auc": 0.5316666666666667,
+      "accuracy": 0.6,
+      "n": 55,
+      "confusion_matrix": [
+        [
+          5,
+          10
+        ],
+        [
+          12,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "model": "DNN",
+    "seed": 22026,
+    "fold": 1,
+    "epochs": 5,
+    "metrics": {
+      "balanced_accuracy": 0.5,
+      "macro_f1": 0.42105263157894735,
+      "sensitivity": 1.0,
+      "specificity": 0.0,
+      "roc_auc": 0.6766666666666667,
+      "accuracy": 0.7272727272727273,
+      "n": 55,
+      "confusion_matrix": [
+        [
+          0,
+          15
+        ],
+        [
+          0,
+          40
+        ]
+      ]
+    }
+  },
+  {
+    "model": "DNN",
+    "seed": 22026,
+    "fold": 2,
+    "epochs": 16,
+    "metrics": {
+      "balanced_accuracy": 0.5804878048780489,
+      "macro_f1": 0.5428571428571428,
+      "sensitivity": 0.5609756097560976,
+      "specificity": 0.6,
+      "roc_auc": 0.5626016260162602,
+      "accuracy": 0.5714285714285714,
+      "n": 56,
+      "confusion_matrix": [
+        [
+          9,
+          6
+        ],
+        [
+          18,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "model": "DNN",
+    "seed": 32026,
+    "fold": 0,
+    "epochs": 15,
+    "metrics": {
+      "balanced_accuracy": 0.525,
+      "macro_f1": 0.5180952380952382,
+      "sensitivity": 0.65,
+      "specificity": 0.4,
+      "roc_auc": 0.5633333333333334,
+      "accuracy": 0.5818181818181818,
+      "n": 55,
+      "confusion_matrix": [
+        [
+          6,
+          9
+        ],
+        [
+          14,
+          26
+        ]
+      ]
+    }
+  },
+  {
+    "model": "DNN",
+    "seed": 32026,
+    "fold": 1,
+    "epochs": 1,
+    "metrics": {
+      "balanced_accuracy": 0.5833333333333334,
+      "macro_f1": 0.45436507936507936,
+      "sensitivity": 0.3,
+      "specificity": 0.8666666666666667,
+      "roc_auc": 0.585,
+      "accuracy": 0.45454545454545453,
+      "n": 55,
+      "confusion_matrix": [
+        [
+          13,
+          2
+        ],
+        [
+          28,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "model": "DNN",
+    "seed": 32026,
+    "fold": 2,
+    "epochs": 11,
+    "metrics": {
+      "balanced_accuracy": 0.5983739837398374,
+      "macro_f1": 0.5260416666666666,
+      "sensitivity": 0.4634146341463415,
+      "specificity": 0.7333333333333333,
+      "roc_auc": 0.6276422764227642,
+      "accuracy": 0.5357142857142857,
+      "n": 56,
+      "confusion_matrix": [
+        [
+          11,
+          4
+        ],
+        [
+          22,
+          19
+        ]
+      ]
+    }
+  }
+]

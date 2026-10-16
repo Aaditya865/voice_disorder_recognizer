@@ -1,0 +1,17 @@
+{
+  "files": {
+    "models\\laryngeal\\dnn.joblib": "c662f1c88c9a8c55ee5a2b1dc805f1ddeb0b885cc136e4bba06bd97d7d3f708e",
+    "models\\laryngeal\\dnn_fold0.joblib": "d5e4aa5907e1a1de22f4b967064667b042cb3a573b7f262fb2d0c2aabc2a9452",
+    "models\\laryngeal\\dnn_fold1.joblib": "7574b900a962ff0d47500612b096161da858c629853c1112aab1affb04e94269",
+    "models\\laryngeal\\dnn_fold2.joblib": "62f69c11c09aa7a7ff6691aa56d0d676d932a4d81ef0d3faeb70c945cb0e25a7",
+    "models\\laryngeal\\gmm.joblib": "a7b0484b98e3fbd68fb041ea9b6a576556eefd16ef535cc0d43240114cdcd1f9",
+    "models\\laryngeal\\gmm_fold0.joblib": "dca1b97a750f7e5f1155d8a40d0cfb9a700527e294ce94a922b222d7bc6d41a5",
+    "models\\laryngeal\\gmm_fold1.joblib": "3757d751875ff259ce4d90371c3cdf18ca9c97a6475262e4029a568c1dd6a6ba",
+    "models\\laryngeal\\gmm_fold2.joblib": "5bdab07d959b98781e72e9489f6fc8e7f32dadbcff53b21439579e03c92c932f",
+    "voice_review\\laryngeal.py": "18f56752244996c4cca30a04736f447096be4f7c99cdebd44e5d03b4e8b98f49",
+    "voice_review\\features.py": "f7ff2d3a1990a43dd2018819d1311eb26b481d3e51e81ca0b6e1dc0d3339eed3",
+    "voice_review\\models.py": "22b670df63c5133b6f08ede1d889afd596da107328557d16f1951c0cd84c561f",
+    "data\\splits.json": "83ae4ab59f05936de469dada0096c61e1c58f19aa77f2d198c00df8ce5c15537",
+    "results\\laryngeal\\protocol.json": "54ba545823a18c43b2dac02832584c71df5ddbe40b61095b38f907691a01052c"
+  }
+}

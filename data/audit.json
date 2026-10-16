@@ -1,0 +1,43 @@
+{
+  "records": 208,
+  "included": 208,
+  "label_counts_all": {
+    "1": 151,
+    "0": 57
+  },
+  "diagnoses": {
+    "healthy": 57,
+    "hyperkinetic dysphonia": 43,
+    "reflux laryngitis": 38,
+    "hypokinetic dysphonia": 22,
+    "hyperkinetic dysphonia (prolapse)": 9,
+    "hypokinetic dysphonia (glottic insufficiency)": 7,
+    "hyperkinetic dysphonia (polyps)": 6,
+    "hyperkinetic dysphonia (nodule)": 5,
+    "hypokinetic dysphonia (vocal fold paralysis)": 4,
+    "hyperkinetic dysphonia (reinke's edema)": 3,
+    "hyperkinetic dysphonia (cordite)": 1,
+    "hypokinetic dysphonia (spasmodic dysphonia)": 1,
+    "hypokinetic dysphonia (conversion dysphonia)": 1,
+    "hyperkinetic dysphonia (vocal fold prolapse)": 1,
+    "hypokinetic dysphonia (dysphonia by chordal groove)": 1,
+    "hypokinetic dysphonia (laryngitis)": 1,
+    "hypokinetic dysphonia (bilateral vocal fold)": 1,
+    "hyperkinetic dysphonia  (rigid vocal fold)": 1,
+    "hypokinetic dysphonia (extraglottic air leak)": 1,
+    "hyperkinetic dysphonia (adduction deficit)": 1,
+    "hypokinetic dysphonia (presbiphonia)": 1,
+    "hyperkinetic dysphonia (vocal fold nodules)": 1,
+    "hyperkinetic dysphonia (vocal fold paralysis)": 1,
+    "hypokinetic dysphonia (adduction deficit)": 1
+  },
+  "exclusions": [],
+  "identity_basis": "PhysioNet describes one acquired vowel recording per subject. Release record IDs are used as participant proxies; no independent cross-session person identifier is provided. Exact/gain-normalized duplicate crops are checked, but identity cannot be independently reverified.",
+  "label_mapping": "0 = healthy/normal; 1 = all supplied pathological diagnoses. Original strings retained.",
+  "source": "https://physionet.org/content/voiced/1.0.0/",
+  "website_counts": {
+    "healthy": 58,
+    "pathological": 150
+  },
+  "count_discrepancy": "The release files contain 57 healthy and 151 pathological labels, in agreement between .hea and -info.txt. The website reports 58 and 150. File-level diagnoses are retained; no label is changed to force agreement with the summary."
+}

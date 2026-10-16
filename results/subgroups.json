@@ -1,0 +1,272 @@
+[
+  {
+    "model": "GMM",
+    "variable": "sex",
+    "group": "f",
+    "healthy": 28,
+    "pathological": 85,
+    "metrics": {
+      "balanced_accuracy": 0.6462184873949579,
+      "macro_f1": 0.5336507936507937,
+      "sensitivity": 0.43529411764705883,
+      "specificity": 0.8571428571428571,
+      "roc_auc": 0.6596638655462185,
+      "accuracy": 0.5398230088495575,
+      "n": 113,
+      "confusion_matrix": [
+        [
+          24,
+          4
+        ],
+        [
+          48,
+          37
+        ]
+      ]
+    },
+    "interpretation": "descriptive only; small subgroups, not a fairness certification"
+  },
+  {
+    "model": "GMM",
+    "variable": "sex",
+    "group": "m",
+    "healthy": 17,
+    "pathological": 36,
+    "metrics": {
+      "balanced_accuracy": 0.5506535947712419,
+      "macro_f1": 0.4496956677407805,
+      "sensitivity": 0.2777777777777778,
+      "specificity": 0.8235294117647058,
+      "roc_auc": 0.5179738562091504,
+      "accuracy": 0.4528301886792453,
+      "n": 53,
+      "confusion_matrix": [
+        [
+          14,
+          3
+        ],
+        [
+          26,
+          10
+        ]
+      ]
+    },
+    "interpretation": "descriptive only; small subgroups, not a fairness certification"
+  },
+  {
+    "model": "GMM",
+    "variable": "age_group",
+    "group": "40to59",
+    "healthy": 14,
+    "pathological": 64,
+    "metrics": {
+      "balanced_accuracy": 0.5569196428571428,
+      "macro_f1": 0.40040106951871657,
+      "sensitivity": 0.328125,
+      "specificity": 0.7857142857142857,
+      "roc_auc": 0.5412946428571429,
+      "accuracy": 0.41025641025641024,
+      "n": 78,
+      "confusion_matrix": [
+        [
+          11,
+          3
+        ],
+        [
+          43,
+          21
+        ]
+      ]
+    },
+    "interpretation": "descriptive only; small subgroups, not a fairness certification"
+  },
+  {
+    "model": "GMM",
+    "variable": "age_group",
+    "group": "60plus",
+    "healthy": 4,
+    "pathological": 22,
+    "metrics": {
+      "balanced_accuracy": 0.5681818181818181,
+      "macro_f1": 0.5112781954887218,
+      "sensitivity": 0.6363636363636364,
+      "specificity": 0.5,
+      "roc_auc": 0.5909090909090909,
+      "accuracy": 0.6153846153846154,
+      "n": 26,
+      "confusion_matrix": [
+        [
+          2,
+          2
+        ],
+        [
+          8,
+          14
+        ]
+      ]
+    },
+    "interpretation": "descriptive only; small subgroups, not a fairness certification"
+  },
+  {
+    "model": "GMM",
+    "variable": "age_group",
+    "group": "under40",
+    "healthy": 27,
+    "pathological": 35,
+    "metrics": {
+      "balanced_accuracy": 0.6343915343915344,
+      "macro_f1": 0.5782312925170068,
+      "sensitivity": 0.34285714285714286,
+      "specificity": 0.9259259259259259,
+      "roc_auc": 0.6285714285714287,
+      "accuracy": 0.5967741935483871,
+      "n": 62,
+      "confusion_matrix": [
+        [
+          25,
+          2
+        ],
+        [
+          23,
+          12
+        ]
+      ]
+    },
+    "interpretation": "descriptive only; small subgroups, not a fairness certification"
+  },
+  {
+    "model": "DNN",
+    "variable": "sex",
+    "group": "f",
+    "healthy": 28,
+    "pathological": 85,
+    "metrics": {
+      "balanced_accuracy": 0.6092436974789917,
+      "macro_f1": 0.5780583214793742,
+      "sensitivity": 0.6470588235294118,
+      "specificity": 0.5714285714285714,
+      "roc_auc": 0.6273109243697479,
+      "accuracy": 0.6283185840707964,
+      "n": 113,
+      "confusion_matrix": [
+        [
+          16,
+          12
+        ],
+        [
+          30,
+          55
+        ]
+      ]
+    },
+    "interpretation": "descriptive only; small subgroups, not a fairness certification"
+  },
+  {
+    "model": "DNN",
+    "variable": "sex",
+    "group": "m",
+    "healthy": 17,
+    "pathological": 36,
+    "metrics": {
+      "balanced_accuracy": 0.5236928104575164,
+      "macro_f1": 0.5236928104575164,
+      "sensitivity": 0.6944444444444444,
+      "specificity": 0.35294117647058826,
+      "roc_auc": 0.49836601307189543,
+      "accuracy": 0.5849056603773585,
+      "n": 53,
+      "confusion_matrix": [
+        [
+          6,
+          11
+        ],
+        [
+          11,
+          25
+        ]
+      ]
+    },
+    "interpretation": "descriptive only; small subgroups, not a fairness certification"
+  },
+  {
+    "model": "DNN",
+    "variable": "age_group",
+    "group": "40to59",
+    "healthy": 14,
+    "pathological": 64,
+    "metrics": {
+      "balanced_accuracy": 0.5424107142857143,
+      "macro_f1": 0.5112781954887218,
+      "sensitivity": 0.65625,
+      "specificity": 0.42857142857142855,
+      "roc_auc": 0.5524553571428571,
+      "accuracy": 0.6153846153846154,
+      "n": 78,
+      "confusion_matrix": [
+        [
+          6,
+          8
+        ],
+        [
+          22,
+          42
+        ]
+      ]
+    },
+    "interpretation": "descriptive only; small subgroups, not a fairness certification"
+  },
+  {
+    "model": "DNN",
+    "variable": "age_group",
+    "group": "60plus",
+    "healthy": 4,
+    "pathological": 22,
+    "metrics": {
+      "balanced_accuracy": 0.3409090909090909,
+      "macro_f1": 0.36585365853658536,
+      "sensitivity": 0.6818181818181818,
+      "specificity": 0.0,
+      "roc_auc": 0.45454545454545453,
+      "accuracy": 0.5769230769230769,
+      "n": 26,
+      "confusion_matrix": [
+        [
+          0,
+          4
+        ],
+        [
+          7,
+          15
+        ]
+      ]
+    },
+    "interpretation": "descriptive only; small subgroups, not a fairness certification"
+  },
+  {
+    "model": "DNN",
+    "variable": "age_group",
+    "group": "under40",
+    "healthy": 27,
+    "pathological": 35,
+    "metrics": {
+      "balanced_accuracy": 0.6248677248677248,
+      "macro_f1": 0.6242424242424243,
+      "sensitivity": 0.6571428571428571,
+      "specificity": 0.5925925925925926,
+      "roc_auc": 0.5820105820105821,
+      "accuracy": 0.6290322580645161,
+      "n": 62,
+      "confusion_matrix": [
+        [
+          16,
+          11
+        ],
+        [
+          12,
+          23
+        ]
+      ]
+    },
+    "interpretation": "descriptive only; small subgroups, not a fairness certification"
+  }
+]

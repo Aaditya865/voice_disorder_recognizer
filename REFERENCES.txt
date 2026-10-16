@@ -1,0 +1,14 @@
+Gupta R, Jin CT, Gunjawate DR, Nguyen DD, Stasak B, Chacon AM, Madill C. (2026).
+Voice disorders classification using machine learning: a scoping review. Frontiers in Digital Health 8:1800132.
+https://doi.org/10.3389/fdgth.2026.1800132
+
+Cesari U, De Pietro G, Marciano E, Niri C, Sannino G, Verde L. (2018).
+A new database of healthy and pathological voices. Computers & Electrical Engineering 68:310–321.
+https://doi.org/10.1016/j.compeleceng.2018.04.008
+
+VOICED Database, version 1.0.0. https://doi.org/10.13026/C25Q2N
+https://physionet.org/content/voiced/1.0.0/ — Open Data Commons Attribution License v1.0.
+License: https://opendatacommons.org/licenses/by/1-0/
+
+Pollard TJ et al. (2026). PhysioNet as a global platform for biomedical research. Nature Health.
+https://doi.org/10.1038/s44360-026-00096-z

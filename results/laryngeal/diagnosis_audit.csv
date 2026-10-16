@@ -1,0 +1,25 @@
+diagnosis,speaker_proxies,records,development,reserved_test,group
+healthy,57,57,45,12,Healthy
+hyperkinetic dysphonia,43,43,35,8,Other pathology
+hyperkinetic dysphonia  (rigid vocal fold),1,1,0,1,Other pathology
+hyperkinetic dysphonia (adduction deficit),1,1,1,0,Other pathology
+hyperkinetic dysphonia (cordite),1,1,0,1,Other pathology
+hyperkinetic dysphonia (nodule),5,5,4,1,Other pathology
+hyperkinetic dysphonia (polyps),6,6,5,1,Other pathology
+hyperkinetic dysphonia (prolapse),9,9,8,1,Other pathology
+hyperkinetic dysphonia (reinke's edema),3,3,2,1,Other pathology
+hyperkinetic dysphonia (vocal fold nodules),1,1,1,0,Other pathology
+hyperkinetic dysphonia (vocal fold paralysis),1,1,1,0,Other pathology
+hyperkinetic dysphonia (vocal fold prolapse),1,1,1,0,Other pathology
+hypokinetic dysphonia,22,22,16,6,Other pathology
+hypokinetic dysphonia (adduction deficit),1,1,1,0,Other pathology
+hypokinetic dysphonia (bilateral vocal fold),1,1,1,0,Other pathology
+hypokinetic dysphonia (conversion dysphonia),1,1,1,0,Other pathology
+hypokinetic dysphonia (dysphonia by chordal groove),1,1,1,0,Other pathology
+hypokinetic dysphonia (extraglottic air leak),1,1,0,1,Other pathology
+hypokinetic dysphonia (glottic insufficiency),7,7,6,1,Other pathology
+hypokinetic dysphonia (laryngitis),1,1,1,0,Laryngeal (laryngitis-labelled)
+hypokinetic dysphonia (presbiphonia),1,1,1,0,Other pathology
+hypokinetic dysphonia (spasmodic dysphonia),1,1,1,0,Other pathology
+hypokinetic dysphonia (vocal fold paralysis),4,4,3,1,Other pathology
+reflux laryngitis,38,38,31,7,Laryngeal (laryngitis-labelled)

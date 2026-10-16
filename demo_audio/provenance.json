@@ -1,0 +1,13 @@
+{
+  "record_id": "voice003",
+  "dataset_label": "pathological",
+  "model_context": {
+    "mode": "speaker-held-out development validation",
+    "record_id": "voice003",
+    "fold": 0,
+    "training_records": 111,
+    "notice": "This speaker was excluded from these models' fitting and early stopping. Validation still informed configuration selection; not an independent final test."
+  },
+  "selection_rule": "Lexicographically first recording in validation fold zero, excluding existing review examples",
+  "final_test_used": false
+}

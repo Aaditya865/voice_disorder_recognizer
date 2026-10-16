@@ -1,0 +1,63 @@
+{
+  "labels": [
+    "Healthy",
+    "Laryngeal (laryngitis-labelled)",
+    "Other pathology"
+  ],
+  "mapping": "Exact healthy labels; any diagnosis containing laryngitis; all other pathology.",
+  "limitations": "Laryngeal here means laryngitis-labelled only. Other pathology can also involve the larynx. Counts use record IDs as participant proxies.",
+  "development_counts": [
+    45,
+    32,
+    89
+  ],
+  "fold_counts": [
+    {
+      "fold": 0,
+      "train": [
+        30,
+        21,
+        60
+      ],
+      "validation": [
+        15,
+        11,
+        29
+      ]
+    },
+    {
+      "fold": 1,
+      "train": [
+        30,
+        18,
+        63
+      ],
+      "validation": [
+        15,
+        14,
+        26
+      ]
+    },
+    {
+      "fold": 2,
+      "train": [
+        30,
+        25,
+        55
+      ],
+      "validation": [
+        15,
+        7,
+        34
+      ]
+    }
+  ],
+  "settings": "GMM 1 diagonal component/class; CNN 16/32 conv filters, 16-unit dense, 3 logits, dropout .4. Fixed before this run; no subtype tuning.",
+  "early_stopping": "20% stratified subset inside training fold; weighted cross-entropy, patience 12; fresh full-fold refit.",
+  "seed": 2026,
+  "original_files": {
+    "models\\gmm.joblib": "586cab5ca61b7543a0fd2b81a869eee0b3fd793da7315b07b97903ab993fe684",
+    "models\\dnn.joblib": "9aac41479e31eaade6860efecab5c3a616037dcc8f049fe1bf84f64a00b222b0",
+    "data\\splits.json": "83ae4ab59f05936de469dada0096c61e1c58f19aa77f2d198c00df8ce5c15537"
+  }
+}

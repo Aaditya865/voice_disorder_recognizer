@@ -1,0 +1,21 @@
+{
+  "automated_tests": 43,
+  "status": "passed; 12 website tests rerun after playback fix",
+  "original_and_extension_integrity": {
+    "models/frozen_experiment.json": {
+      "files_verified": 22,
+      "changed": []
+    },
+    "models/laryngeal/provenance.json": {
+      "files_verified": 13,
+      "changed": []
+    }
+  },
+  "final_test_performance_measured": false,
+  "sample_latency_seconds": [
+    0.7592871999950148,
+    0.22275260000606067,
+    0.22016290000465233
+  ],
+  "browser_checks": "Healthy and laryngitis WAV uploads and actual predictions verified. Laryngitis example: GMM Healthy; DNN Pathological with laryngitis group. Playback PCM preview: readyState 4, duration 3 seconds, no media error. Waveform and disagreement warning rendered. Browser sample analysis measured 0.43 seconds. Microphone capture and public hosting not exercised."
+}
