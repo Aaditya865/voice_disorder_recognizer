@@ -23,3 +23,8 @@ uploads/
 Thumbs.db
 .idea/
 .vscode/
+
+# Local SVD data and regenerable features
+data/svd/
+artifacts_svd_local/feature_cache/
+artifacts_svd_reproduction/

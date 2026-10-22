@@ -1,0 +1,93 @@
+{
+  "balanced_accuracy": 0.35949864627094463,
+  "macro_f1": 0.3412132762049219,
+  "per_class": {
+    "Functional Dysphonia": {
+      "precision": 0.11904761904761904,
+      "recall": 0.22727272727272727,
+      "f1-score": 0.15625,
+      "support": 22.0
+    },
+    "Healthy": {
+      "precision": 0.7039473684210527,
+      "recall": 0.781021897810219,
+      "f1-score": 0.740484429065744,
+      "support": 137.0
+    },
+    "Hyperfunctional Dysphonia": {
+      "precision": 0.2727272727272727,
+      "recall": 0.14634146341463414,
+      "f1-score": 0.19047619047619047,
+      "support": 41.0
+    },
+    "Laryngitis": {
+      "precision": 0.3111111111111111,
+      "recall": 0.5,
+      "f1-score": 0.3835616438356164,
+      "support": 28.0
+    },
+    "Vocal Fold Paresis": {
+      "precision": 0.6666666666666666,
+      "recall": 0.14285714285714285,
+      "f1-score": 0.23529411764705882,
+      "support": 42.0
+    },
+    "accuracy": 0.5111111111111111,
+    "macro avg": {
+      "precision": 0.4147000075947444,
+      "recall": 0.35949864627094463,
+      "f1-score": 0.3412132762049219,
+      "support": 270.0
+    },
+    "weighted avg": {
+      "precision": 0.5442695051320783,
+      "recall": 0.5111111111111111,
+      "f1-score": 0.4937609983707572,
+      "support": 270.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      5,
+      10,
+      4,
+      2,
+      1
+    ],
+    [
+      13,
+      107,
+      6,
+      11,
+      0
+    ],
+    [
+      11,
+      18,
+      6,
+      5,
+      1
+    ],
+    [
+      3,
+      7,
+      3,
+      14,
+      1
+    ],
+    [
+      10,
+      10,
+      3,
+      13,
+      6
+    ]
+  ],
+  "balanced_accuracy_95_ci": [
+    0.2936297699047245,
+    0.4230990686042343
+  ],
+  "valid_bootstrap_replicates": 1000,
+  "unit": "speaker",
+  "note": "Conditional on this fitted model and split; metrics weight recordings."
+}

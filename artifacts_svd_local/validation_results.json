@@ -1,0 +1,44 @@
+[
+  {
+    "config": {
+      "family": "GMM",
+      "components": 1
+    },
+    "balanced_accuracy": 0.3024764128687777,
+    "macro_f1": 0.2924051276142531,
+    "warnings": []
+  },
+  {
+    "config": {
+      "family": "GMM",
+      "components": 2
+    },
+    "balanced_accuracy": 0.24380608590576774,
+    "macro_f1": 0.2475243285248355,
+    "warnings": []
+  },
+  {
+    "config": {
+      "family": "DNN",
+      "layers": [
+        64,
+        32
+      ]
+    },
+    "balanced_accuracy": 0.26058672877336714,
+    "macro_f1": 0.2635666930159855,
+    "warnings": []
+  },
+  {
+    "config": {
+      "family": "DNN",
+      "layers": [
+        128,
+        64
+      ]
+    },
+    "balanced_accuracy": 0.30272992001517984,
+    "macro_f1": 0.3070459973529468,
+    "warnings": []
+  }
+]

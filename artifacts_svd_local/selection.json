@@ -1,0 +1,27 @@
+{
+  "selected_family": "DNN",
+  "selection_criterion": "inner validation balanced accuracy",
+  "selected_configurations": {
+    "GMM": {
+      "config": {
+        "family": "GMM",
+        "components": 1
+      },
+      "balanced_accuracy": 0.3024764128687777,
+      "macro_f1": 0.2924051276142531,
+      "warnings": []
+    },
+    "DNN": {
+      "config": {
+        "family": "DNN",
+        "layers": [
+          128,
+          64
+        ]
+      },
+      "balanced_accuracy": 0.30272992001517984,
+      "macro_f1": 0.3070459973529468,
+      "warnings": []
+    }
+  }
+}

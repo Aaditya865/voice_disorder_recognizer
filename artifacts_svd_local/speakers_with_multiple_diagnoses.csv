@@ -1,0 +1,59 @@
+file,speaker_id,diagnosis
+1-a_n.wav,1,Healthy
+47-a_n.wav,47,Healthy
+64-a_n.wav,64,Healthy
+71-a_n.wav,74,Healthy
+89-a_n.wav,101,Healthy
+104-a_n.wav,120,Healthy
+127-a_n.wav,64,Hyperfunctional Dysphonia
+159-a_n.wav,1314,Hyperfunctional Dysphonia
+351-a_n.wav,1340,Functional Dysphonia
+355-a_n.wav,120,Hyperfunctional Dysphonia
+727-a_n.wav,1415,Functional Dysphonia
+810-a_n.wav,714,Healthy
+870-a_n.wav,1466,Functional Dysphonia
+889-a_n.wav,1340,Hyperfunctional Dysphonia
+890-a_n.wav,120,Hyperfunctional Dysphonia
+913-a_n.wav,1505,Functional Dysphonia
+929-a_n.wav,74,Vocal Fold Paresis
+1090-a_n.wav,1340,Hyperfunctional Dysphonia
+1196-a_n.wav,1593,Hyperfunctional Dysphonia
+1207-a_n.wav,936,Healthy
+1222-a_n.wav,1466,Hyperfunctional Dysphonia
+1244-a_n.wav,1593,Functional Dysphonia
+1254-a_n.wav,1593,Functional Dysphonia
+1280-a_n.wav,936,Hyperfunctional Dysphonia
+1310-a_n.wav,1695,Hyperfunctional Dysphonia
+1335-a_n.wav,101,Hyperfunctional Dysphonia
+1380-a_n.wav,1729,Hyperfunctional Dysphonia
+1394-a_n.wav,1415,Hyperfunctional Dysphonia
+1435-a_n.wav,1729,Functional Dysphonia
+1468-a_n.wav,1505,Hyperfunctional Dysphonia
+1471-a_n.wav,936,Hyperfunctional Dysphonia
+1532-a_n.wav,1944,Healthy
+1610-a_n.wav,1910,Laryngitis
+1642-a_n.wav,1944,Functional Dysphonia
+1645-a_n.wav,47,Functional Dysphonia
+1658-a_n.wav,1910,Vocal Fold Paresis
+1659-a_n.wav,1959,Functional Dysphonia
+1682-a_n.wav,1981,Hyperfunctional Dysphonia
+1688-a_n.wav,1987,Functional Dysphonia
+1731-a_n.wav,2146,Healthy
+1742-a_n.wav,1981,Functional Dysphonia
+1758-a_n.wav,2022,Hyperfunctional Dysphonia
+1780-a_n.wav,1314,Laryngitis
+1816-a_n.wav,1981,Hyperfunctional Dysphonia
+1841-a_n.wav,2126,Healthy
+1862-a_n.wav,1,Functional Dysphonia
+1895-a_n.wav,1987,Hyperfunctional Dysphonia
+1903-a_n.wav,2126,Hyperfunctional Dysphonia
+1935-a_n.wav,2146,Functional Dysphonia
+1993-a_n.wav,1959,Hyperfunctional Dysphonia
+2241-a_n.wav,2402,Hyperfunctional Dysphonia
+2276-a_n.wav,2420,Laryngitis
+2303-a_n.wav,2420,Functional Dysphonia
+2360-a_n.wav,714,Functional Dysphonia
+2413-a_n.wav,1314,Functional Dysphonia
+2477-a_n.wav,2022,Functional Dysphonia
+2483-a_n.wav,2402,Functional Dysphonia
+2576-a_n.wav,1695,Healthy

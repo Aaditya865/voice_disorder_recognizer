@@ -1,15 +1,21 @@
-# Optional deployment
+# Deploy the SVD website
 
-The verified demo runs locally. No hosted deployment is claimed.
+On Streamlit Community Cloud, select repository
+`Aaditya865/voice_disorder_recognizer`, branch `main`, entrypoint `app.py`,
+and Python 3.12. Install dependencies from the root `requirements.txt`.
+This active app uses scikit-learn and does not require PyTorch.
 
-Streamlit Community Cloud instructions: https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app
+Keep `svd_training.py`, `voice_review/svd_web.py`, `artifacts_svd_local/`,
+`.streamlit/config.toml`, and `app.py` available. Models and preprocessing
+are loaded once. No training or dataset download runs on website startup.
 
-1. Connect this GitHub repository to your Streamlit Community Cloud account.
-2. Choose app.py as the entrypoint and Python 3.12.
-3. Keep models/, voice_review/, data/manifest.csv, data/splits.json, results/selection.json, results/laryngeal/confusion_matrices.png, samples/, .streamlit/config.toml and requirements.txt available.
-4. For a Linux CPU-only dependency build, use a deployment branch with `--extra-index-url https://download.pytorch.org/whl/cpu` and `torch==2.14.1+cpu` in requirements.txt. Confirm dependency availability and resource limits on the selected host.
-5. Test sample uploads and errors after deployment before sharing the URL.
+If already connected to main, a pushed commit should trigger rebuilding.
+Inspect the hosting logs if it fails; reboot the app to clear a stale model
+cache after an update. A GitHub push alone is not proof of successful hosting.
 
-Cloud hosting has not been verified. On a hosted instance, uploaded audio is transmitted to that host. The app processes uploads in memory and does not write them to files; hosting policies and logging remain the host's responsibility.
+Local fallback: `python -m streamlit run app.py`, then open
+http://localhost:8501. Uploaded audio is transmitted to the server, processed
+in memory and not written to disk by the application. Host policies also apply.
 
-For the review, keep a local fallback: install the environment, run `python -m streamlit run app.py`, and open http://localhost:8501. Review.html and Architecture_and_Results.png are offline presentations of saved results if live inference cannot run.
+The old VOICED app is available as `app_voiced_legacy.py` and requires
+`requirements-legacy.txt`. Do not mix its metrics with the SVD results.

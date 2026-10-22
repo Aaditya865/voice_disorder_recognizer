@@ -1,3 +1,59 @@
+# Voice Disorder Recognizer — current SVD website
+
+The main `app.py` now runs the trained five-class SVD GMM and DNN/MLP pipelines.
+Supported labels: Healthy, Functional Dysphonia, Hyperfunctional Dysphonia,
+Laryngitis and Vocal Fold Paresis. Laryngitis is a specific laryngeal label;
+this is not comprehensive detection of all laryngeal disorders.
+
+## Run
+
+Use Python 3.12:
+
+```sh
+pip install -r requirements.txt
+python -m streamlit run app.py
+```
+
+Models are loaded once from `artifacts_svd_local/`. WAV and MP3 uploads use the
+same 16 kHz, normalized acoustic feature extraction and saved transforms as
+training. MP3 compression effects are not externally validated. The app shows
+Healthy/Pathological derived from the five-class decision, top-three scores,
+plain-language descriptions, model comparison, uncertainty warnings and audio.
+Scores are uncalibrated; a high score does not establish reliability.
+
+## Measured results
+
+1,356 supplied recordings; five short clips excluded. Development: 1,081
+recordings / 987 speakers. Reserved test: 270 recordings / 246 speakers.
+No speaker overlap. Labels come from the supplied CSV. Repeated speakers are
+kept together, including speakers with different diagnoses across sessions.
+
+| Model | Test balanced accuracy | Test macro-F1 |
+|---|---:|---:|
+| GMM | 35.9499% | 0.341213 |
+| DNN / MLP | 33.4127% | 0.332724 |
+
+MLP remains primary because validation selected it before the test evaluation;
+its validation advantage was very small. These are modest five-class results,
+not the previous binary VOICED results and not clinical diagnostic accuracy.
+Functional and hyperfunctional labels overlap conceptually and acoustically.
+External validation and confidence calibration remain outstanding.
+
+See [training and prediction instructions](SVD_TRAINING_GUIDE.md),
+[full reports](artifacts_svd_local/), and [deployment instructions](docs/DEPLOYMENT.md).
+
+SVD: https://zenodo.org/records/16874898 — Pützer and Barry; hosted by Essen
+University Hospital; CC BY 4.0. No raw SVD audio is bundled in this repository.
+The existing `samples/` files are legacy VOICED examples; their old expected
+predictions and speaker-routing descriptions do not apply to this SVD app.
+
+## Previous VOICED experiment (archived documentation below)
+
+`app_voiced_legacy.py` preserves the old demo. Install `requirements-legacy.txt`
+to reproduce that experiment. Its results describe different data and models.
+
+---
+
 # Voice Disorder Recognizer
 
 A Streamlit application comparing a **Gaussian Mixture Model (GMM)** and a compact **convolutional deep neural network (DNN)** on sustained-vowel recordings.

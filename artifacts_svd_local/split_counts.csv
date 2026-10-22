@@ -1,0 +1,11 @@
+partition,diagnosis,recordings,unique_speakers
+development,Functional Dysphonia,88,84
+development,Healthy,550,545
+development,Hyperfunctional Dysphonia,164,153
+development,Laryngitis,111,102
+development,Vocal Fold Paresis,168,124
+test,Functional Dysphonia,22,22
+test,Healthy,137,136
+test,Hyperfunctional Dysphonia,41,38
+test,Laryngitis,28,25
+test,Vocal Fold Paresis,42,30

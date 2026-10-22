@@ -7,3 +7,5 @@ Cesari U, De Pietro G, Marciano E, Niri C, Sannino G, Verde L. A new database of
 Reference review: Gupta R et al. Voice disorders classification using machine learning: a scoping review. Frontiers in Digital Health 8 (2026), 1800132. https://doi.org/10.3389/fdgth.2026.1800132
 
 Dataset licensing does not assign a software license to this repository. A separate software license has not yet been selected by the repository owner.
+
+SVD extension: Saarbruecken Voice Database, Putzer and Barry, hosted by Essen University Hospital, https://doi.org/10.5281/zenodo.16874898, CC BY 4.0. New models and reports derive from the user-supplied five-label subset. Raw SVD audio is not distributed here.

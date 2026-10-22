@@ -20,3 +20,7 @@ models/** -text
 results/** -text
 voice_review/** -text
 requirements-lock.txt -text
+
+# Preserve the evaluated SVD artifact and source bytes
+artifacts_svd_local/** -text
+svd_training.py -text
