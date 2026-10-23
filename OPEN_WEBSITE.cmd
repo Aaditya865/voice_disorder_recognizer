@@ -1,9 +1,8 @@
 @echo off
 cd /d "%~dp0"
-if not exist ".venv\Scripts\python.exe" (
-  echo Create .venv and install requirements first. See README.md.
-  pause
-  exit /b 1
+if exist ".venv\Scripts\python.exe" (
+  ".venv\Scripts\python.exe" -m streamlit run app.py --server.address 127.0.0.1 --server.port 8501
+) else (
+  "..\..\work\venv\Scripts\python.exe" -m streamlit run app.py --server.address 127.0.0.1 --server.port 8501
 )
-".venv\Scripts\python.exe" -m streamlit run app.py --server.address 127.0.0.1 --server.port 8501
 pause

@@ -1,0 +1,138 @@
+{
+  "binary": {
+    "model": "Ensemble_50_50",
+    "members": [
+      "GMM_rich_4",
+      "CNN_mel_aug"
+    ],
+    "labels": [
+      "Healthy",
+      "Pathological"
+    ],
+    "uncertainty_threshold": 0.7,
+    "selection": {
+      "task": "binary",
+      "model": "Ensemble_50_50",
+      "family": "Ensemble",
+      "balanced_accuracy_mean": 0.6922430830039525,
+      "balanced_accuracy_std": 0.004161292862788383,
+      "macro_f1_mean": 0.6928747843904441,
+      "macro_f1_std": 0.0047229586748966275,
+      "sensitivity_mean": 0.5996376811594203,
+      "sensitivity_std": 0.03851502106063281,
+      "specificity_mean": 0.7848484848484849,
+      "specificity_std": 0.030704412431455892,
+      "roc_auc_mean": 0.7705204216073782,
+      "roc_auc_std": 0.011797990729379187,
+      "log_loss_mean": 0.5678688027375132,
+      "log_loss_std": 0.028914965088049197
+    },
+    "selective_curve": [
+      {
+        "threshold": 0.5,
+        "coverage": 1.0,
+        "accepted_count": 1212,
+        "accuracy_accepted": 0.7004950495049505
+      },
+      {
+        "threshold": 0.6,
+        "coverage": 0.7252475247524752,
+        "accepted_count": 879,
+        "accuracy_accepted": 0.764505119453925
+      },
+      {
+        "threshold": 0.7,
+        "coverage": 0.4414191419141914,
+        "accepted_count": 535,
+        "accuracy_accepted": 0.8336448598130841
+      },
+      {
+        "threshold": 0.8,
+        "coverage": 0.21204620462046206,
+        "accepted_count": 257,
+        "accuracy_accepted": 0.8988326848249028
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.07013201320132013,
+        "accepted_count": 85,
+        "accuracy_accepted": 0.9764705882352941
+      },
+      {
+        "threshold": 0.95,
+        "coverage": 0.0429042904290429,
+        "accepted_count": 52,
+        "accuracy_accepted": 0.9807692307692307
+      }
+    ],
+    "subtype_scope": "Only three supported pathology labels; other causes cannot be ruled out"
+  },
+  "subtype": {
+    "model": "GMM_rich_4",
+    "members": [
+      "GMM_rich_4"
+    ],
+    "labels": [
+      "Functional dysphonia group",
+      "Laryngitis",
+      "Vocal fold paresis"
+    ],
+    "uncertainty_threshold": 1.01,
+    "selection": {
+      "task": "subtype",
+      "model": "GMM_rich_4",
+      "family": "GMM",
+      "balanced_accuracy_mean": 0.4892542185198838,
+      "balanced_accuracy_std": 0.09530320396417674,
+      "macro_f1_mean": 0.4841849723644159,
+      "macro_f1_std": 0.09159517888382189,
+      "sensitivity_mean": 0.4892542185198838,
+      "sensitivity_std": 0.09530320396417674,
+      "specificity_mean": 0.7508701225739882,
+      "specificity_std": 0.044396830034199454,
+      "roc_auc_mean": 0.6509811263686156,
+      "roc_auc_std": 0.06048385983142028,
+      "log_loss_mean": 1.0690777912845963,
+      "log_loss_std": 0.08339579738638589
+    },
+    "selective_curve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.3308270676691729,
+        "accepted_count": 132,
+        "accuracy_accepted": 0.5606060606060606
+      },
+      {
+        "threshold": 0.6,
+        "coverage": 0.13032581453634084,
+        "accepted_count": 52,
+        "accuracy_accepted": 0.6538461538461539
+      },
+      {
+        "threshold": 0.7,
+        "coverage": 0.05012531328320802,
+        "accepted_count": 20,
+        "accuracy_accepted": 0.8
+      },
+      {
+        "threshold": 0.8,
+        "coverage": 0.02756892230576441,
+        "accepted_count": 11,
+        "accuracy_accepted": 0.8181818181818182
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.017543859649122806,
+        "accepted_count": 7,
+        "accuracy_accepted": 0.8571428571428571
+      },
+      {
+        "threshold": 0.95,
+        "coverage": 0.015037593984962405,
+        "accepted_count": 6,
+        "accuracy_accepted": 0.8333333333333334
+      }
+    ],
+    "subtype_scope": "Only three supported pathology labels; other causes cannot be ruled out"
+  }
+}

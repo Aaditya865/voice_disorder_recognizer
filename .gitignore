@@ -28,3 +28,8 @@ Thumbs.db
 data/svd/
 artifacts_svd_local/feature_cache/
 artifacts_svd_reproduction/
+
+# Private training paths, raw data and rebuild caches
+data/v3/
+data/svd_v2/
+runs/

@@ -1,0 +1,400 @@
+file,speaker_id,source_diagnoses,actual,predicted,p_Functional dysphonia group,p_Laryngitis,p_Vocal fold paresis
+105-a_n.wav,1302,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.2636179568917891,0.32851128834695625,0.40787075476125473
+107-a_n.wav,1304,Laryngitis,Laryngitis,Laryngitis,0.1299214671094481,0.6913662880024789,0.17871224488807302
+108-a_n.wav,1305,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5330035372484833,0.22436341462869347,0.24263304812282327
+120-a_n.wav,1312,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.6165999930910504,0.252506315316308,0.13089369159264158
+128-a_n.wav,1313,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.29964844847845384,0.2789173662753197,0.42143418524622644
+130-a_n.wav,1316,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.31519483024178796,0.31260693992992217,0.3721982298282898
+138-a_n.wav,1315,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.08532132194861276,0.026814068853688984,0.8878646091976983
+139-a_n.wav,1318,Laryngitis,Laryngitis,Functional dysphonia group,0.430606467473669,0.32810800153866343,0.24128553098766758
+140-a_n.wav,1319,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5539477251891809,0.30891107379111216,0.1371412010197068
+141-a_n.wav,1320,Laryngitis,Laryngitis,Functional dysphonia group,0.5246270953802239,0.25493115435320896,0.22044175026656712
+142-a_n.wav,1321,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.4149081605485519,0.2614217067790142,0.323670132672434
+144-a_n.wav,1323,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4243294625126863,0.29161896634457424,0.2840515711427396
+150-a_n.wav,1329,Rekurrensparese,Vocal fold paresis,Laryngitis,0.21686959924290175,0.41026683334055053,0.3728635674165476
+152-a_n.wav,1331,Rekurrensparese,Vocal fold paresis,Laryngitis,0.262728402175725,0.43717122299101324,0.30010037483326185
+155-a_n.wav,1335,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.2629680619829857,0.3668054764118008,0.37022646160521355
+159-a_n.wav,1314,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.16090665471556928,0.492008277966624,0.34708506731780675
+160-a_n.wav,1333,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5381061039067605,0.2631132670709323,0.19878062902230717
+348-a_n.wav,1336,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.32713316988501534,0.45461734257670455,0.21824948753828022
+350-a_n.wav,1339,Funktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.25259154501041586,0.2861364810362693,0.46127197395331493
+351-a_n.wav,1340,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.36676847658362705,0.29676365945008976,0.3364678639662832
+356-a_n.wav,1342,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5106896407503688,0.31350297202014726,0.17580738722948397
+358-a_n.wav,1344,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.2741462735401688,0.3377524109193349,0.3881013155404963
+363-a_n.wav,1348,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5439078901140132,0.29828315178100645,0.1578089581049803
+365-a_n.wav,1350,Rekurrensparese,Vocal fold paresis,Laryngitis,0.25944904241933103,0.6445982158844805,0.0959527416961884
+448-a_n.wav,1357,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.31105432190889576,0.2950615775053639,0.39388410058574036
+450-a_n.wav,1359,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.4695061228655644,0.08721630114469905,0.44327757598973655
+492-a_n.wav,1364,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.09259303088084178,0.003457241987092286,0.903949727132066
+493-a_n.wav,1365,Laryngitis,Laryngitis,Functional dysphonia group,0.3629587824382386,0.34964719711142545,0.2873940204503361
+498-a_n.wav,1369,Laryngitis,Laryngitis,Functional dysphonia group,0.3998697964268028,0.29563924308931916,0.304490960483878
+499-a_n.wav,1372,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5723345480389899,0.2834221545784329,0.1442432973825772
+563-a_n.wav,1378,Laryngitis,Laryngitis,Laryngitis,0.362713890534363,0.4110974665363271,0.22618864292930985
+565-a_n.wav,1382,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.4718731551197802,0.25604585968351057,0.2720809851967092
+568-a_n.wav,1379,Laryngitis,Laryngitis,Functional dysphonia group,0.46916529137498864,0.24478824480521744,0.28604646381979393
+629-a_n.wav,1385,Rekurrensparese,Vocal fold paresis,Laryngitis,0.331219257228372,0.35794811629571527,0.3108326264759128
+631-a_n.wav,1388,Funktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.29576748672357156,0.3943143527988472,0.3099181604775813
+633-a_n.wav,1390,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.30827522676987235,0.17636224653584562,0.5153625266942821
+634-a_n.wav,1391,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.3804455101602393,0.3452614962551279,0.2742929935846328
+669-a_n.wav,1396,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.7021275518562282,0.22095576754068866,0.0769166806030832
+670-a_n.wav,1397,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.28455944347247336,0.29263862711355626,0.4228019294139703
+671-a_n.wav,1398,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5818591629617792,0.26924180755132515,0.1488990294868957
+712-a_n.wav,1404,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.46811949239690226,0.262375537958124,0.26950496964497367
+716-a_n.wav,1408,Rekurrensparese,Vocal fold paresis,Laryngitis,0.3643078482986703,0.4143061104121171,0.22138604128921247
+722-a_n.wav,1414,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.45938946913847606,0.25839914385877144,0.2822113870027526
+724-a_n.wav,1417,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.2525199351113988,0.37533115395083566,0.3721489109377655
+725-a_n.wav,1419,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5435644539448322,0.2936257297245272,0.16280981633064068
+726-a_n.wav,1420,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.1405838718231779,0.06883829618131339,0.7905778319955088
+727-a_n.wav,1415,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.47398903750394245,0.27774715969494423,0.24826380280111326
+729-a_n.wav,1421,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5440242192231418,0.3078966514912346,0.14807912928562372
+730-a_n.wav,1422,Funktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.2918708024089644,0.23530624934985686,0.4728229482411789
+824-a_n.wav,1436,Laryngitis,Laryngitis,Laryngitis,0.34949566253328423,0.35650526122885556,0.2939990762378602
+825-a_n.wav,1437,Rekurrensparese,Vocal fold paresis,Laryngitis,0.3038787469044519,0.3657474103826764,0.33037384271287185
+827-a_n.wav,1439,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.3244838053433116,0.319651297511571,0.3558648971451175
+829-a_n.wav,1441,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.3951315674808973,0.38058049141796785,0.2242879411011349
+844-a_n.wav,1443,Laryngitis,Laryngitis,Functional dysphonia group,0.653845373385177,0.16879892668348453,0.17735569993133843
+849-a_n.wav,1448,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.2989155273675272,0.2408696828976623,0.46021478973481045
+854-a_n.wav,1452,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.3635762644955403,0.3351286226639604,0.30129511284049937
+855-a_n.wav,1453,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.26719102043010917,0.3043244741789469,0.4284845053909438
+857-a_n.wav,1457,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4051792350554376,0.3196222902443959,0.27519847470016645
+864-a_n.wav,1456,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5176442891821095,0.24686046327835237,0.23549524753953807
+868-a_n.wav,1461,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.43085750017294505,0.20635277646787173,0.36278972335918325
+869-a_n.wav,1462,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.6414382069866039,0.17460385962553363,0.18395793338786237
+871-a_n.wav,1467,Laryngitis,Laryngitis,Functional dysphonia group,0.5635278799348553,0.3032374437995103,0.13323467626563448
+874-a_n.wav,1470,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.49914964652637334,0.29893366720929365,0.20191668626433293
+878-a_n.wav,1358,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5086505221604886,0.2821492460805808,0.20920023175893077
+880-a_n.wav,1473,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5120047767601349,0.1697425519879025,0.31825267125196266
+881-a_n.wav,1474,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5298876500315431,0.2849818762076582,0.18513047376079866
+883-a_n.wav,1477,Rekurrensparese,Vocal fold paresis,Laryngitis,0.22355363259546165,0.44829575571244584,0.3281506116920925
+887-a_n.wav,1386,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.0030665838428542863,1.8653456009296803e-05,0.9969147627011365
+888-a_n.wav,1482,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.3800447505724899,0.3510229642070482,0.26893228522046186
+893-a_n.wav,1488,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.4126743357887586,0.2010224358031914,0.38630322840805
+894-a_n.wav,1489,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4742235114288097,0.3137969029467032,0.2119795856244872
+897-a_n.wav,1484,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.15939812205324036,0.16139992053436478,0.6792019574123949
+898-a_n.wav,1490,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.2911579984742255,0.371846999066902,0.33699500245887254
+904-a_n.wav,1498,Laryngitis,Laryngitis,Laryngitis,0.2990026682790056,0.3580324541095611,0.34296487761143335
+909-a_n.wav,1501,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.29829468199451376,0.3162410638060747,0.38546425419941155
+913-a_n.wav,1505,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5138028908258303,0.24769305477165074,0.2385040544025189
+919-a_n.wav,1511,Laryngitis,Laryngitis,Functional dysphonia group,0.42088282223890494,0.28697785705420276,0.29213932070689225
+922-a_n.wav,1514,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4086398056417476,0.2738855990429655,0.31747459531528693
+924-a_n.wav,1516,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.4872401844459931,0.3943565653743576,0.11840325017964927
+926-a_n.wav,1518,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5664374333215206,0.2609229045151324,0.17263966216334695
+928-a_n.wav,1521,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.38720830508135945,0.2226276641595425,0.390164030759098
+931-a_n.wav,1523,Laryngitis,Laryngitis,Functional dysphonia group,0.5030806237769273,0.27500395179627185,0.22191542442680076
+934-a_n.wav,1526,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.36072358061801296,0.3267438025256132,0.3125326168563739
+1037-a_n.wav,1533,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4580245289399493,0.27028928632784893,0.2716861847322017
+1040-a_n.wav,1536,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.32931346873307843,0.26122460117776064,0.4094619300891608
+1043-a_n.wav,1539,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5345171747928279,0.3835861036080326,0.08189672159913948
+1049-a_n.wav,1545,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.3475165232158798,0.1985346755127941,0.4539488012713261
+1050-a_n.wav,1546,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.2148870088912282,0.3737192010053994,0.41139379010337246
+1054-a_n.wav,1552,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5113271277525269,0.19367294908539306,0.29499992316208007
+1083-a_n.wav,1555,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.3992528890566403,0.30057654235927467,0.300170568584085
+1088-a_n.wav,1562,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.2709990175118267,0.33193199754436015,0.39706898494381304
+1113-a_n.wav,1563,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.6977063023087705,0.16408557753464834,0.1382081201565812
+1118-a_n.wav,1569,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.43638310729292573,0.2643711698748715,0.2992457228322028
+1119-a_n.wav,1570,Laryngitis,Laryngitis,Laryngitis,0.33288966133254244,0.3405608102791354,0.32654952838832213
+1161-a_n.wav,1578,Laryngitis,Laryngitis,Functional dysphonia group,0.37734569961787545,0.37221443061466547,0.2504398697674592
+1166-a_n.wav,1581,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.13233746728998363,0.08789828741295241,0.7797642452970638
+1189-a_n.wav,1588,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5704529329161319,0.24737639122182445,0.18217067586204375
+1200-a_n.wav,1596,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5055790894782375,0.41458534584451145,0.07983556467725111
+1204-a_n.wav,1601,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4855771140423139,0.24506453304945378,0.26935835290823235
+1223-a_n.wav,1611,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5922000575059903,0.29768631643223026,0.11011362606177941
+1228-a_n.wav,1616,Laryngitis,Laryngitis,Functional dysphonia group,0.4987536528276784,0.07311006439320272,0.42813628277911875
+1233-a_n.wav,1619,Laryngitis,Laryngitis,Functional dysphonia group,0.5651654326357385,0.2334767549636254,0.20135781240063602
+1235-a_n.wav,1621,Laryngitis,Laryngitis,Functional dysphonia group,0.3932370808661829,0.24059500733394631,0.36616791179987074
+1237-a_n.wav,1623,Laryngitis,Laryngitis,Laryngitis,0.3997904271245998,0.48621579543540044,0.11399377743999971
+1240-a_n.wav,1627,Funktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.3755547727030269,0.19004312368657741,0.4344021036103958
+1249-a_n.wav,1635,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.2274125891372817,0.3536346203372197,0.41895279052549855
+1256-a_n.wav,1642,Rekurrensparese,Vocal fold paresis,Laryngitis,0.3375403995961407,0.37827690981512696,0.2841826905887324
+1257-a_n.wav,1643,Laryngitis,Laryngitis,Functional dysphonia group,0.5869448651903526,0.31704189109660347,0.09601324371304387
+1259-a_n.wav,1645,Laryngitis,Laryngitis,Laryngitis,0.21721448125165232,0.5854812829830169,0.19730423576533068
+1260-a_n.wav,1649,Laryngitis,Laryngitis,Functional dysphonia group,0.5814690519336435,0.28902742467352416,0.12950352339283222
+1262-a_n.wav,1614,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.3165276057811859,0.21684682128231406,0.46662557293650003
+1264-a_n.wav,1646,Laryngitis,Laryngitis,Vocal fold paresis,0.053189709043515866,0.10185486565953551,0.8449554252969487
+1265-a_n.wav,1652,Laryngitis,Laryngitis,Functional dysphonia group,0.4386491410714108,0.2925115642433935,0.2688392946851959
+1269-a_n.wav,1311,Laryngitis,Laryngitis,Laryngitis,0.33676890834985423,0.5513407563947276,0.11189033525541812
+1270-a_n.wav,1641,Rekurrensparese,Vocal fold paresis,Laryngitis,0.3514301013182901,0.3818548515226731,0.2667150471590369
+1272-a_n.wav,1658,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.4255650660134833,0.295561306035267,0.27887362795124965
+1281-a_n.wav,1663,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4682095205852844,0.23666122700690292,0.2951292524078126
+1282-a_n.wav,1668,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5247818115431375,0.33141066808168895,0.14380752037517353
+1283-a_n.wav,1669,Laryngitis,Laryngitis,Laryngitis,0.27955471314764585,0.44715440743963686,0.27329087941271724
+1284-a_n.wav,1671,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.44394366795183404,0.27551977631453833,0.28053655573362773
+1293-a_n.wav,1678,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.3029293111595465,0.2625784867732836,0.43449220206716993
+1295-a_n.wav,1680,Laryngitis,Laryngitis,Functional dysphonia group,0.4306110698880772,0.20908933190850873,0.36029959820341406
+1299-a_n.wav,1684,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.687244756295007,0.14650886258467494,0.16624638112031798
+1300-a_n.wav,1685,Laryngitis,Laryngitis,Laryngitis,0.35046005765722305,0.35356199737643607,0.29597794496634083
+1301-a_n.wav,1686,Laryngitis,Laryngitis,Laryngitis,0.25585158237111655,0.4301034772674551,0.3140449403614285
+1304-a_n.wav,1689,Rekurrensparese,Vocal fold paresis,Laryngitis,0.15763631776686046,0.44450561685870754,0.3978580653744319
+1307-a_n.wav,1692,Laryngitis,Laryngitis,Functional dysphonia group,0.47193814502782244,0.20225548074999725,0.3258063742221803
+1311-a_n.wav,1697,Laryngitis,Laryngitis,Laryngitis,0.22505060985774913,0.41758975722194697,0.35735963292030387
+1315-a_n.wav,1693,Laryngitis,Laryngitis,Vocal fold paresis,0.32047177899715334,0.28897686750467144,0.39055135349817516
+1318-a_n.wav,1702,Funktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.3769485339152228,0.39445851607670934,0.2285929500080679
+1324-a_n.wav,1708,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4155056900218125,0.3311338620320009,0.25336044794618673
+1326-a_n.wav,1710,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.536261323772823,0.21757679567691518,0.24616188055026178
+1327-a_n.wav,1712,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5758159340280647,0.2800760998239824,0.14410796614795296
+1328-a_n.wav,1713,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.38667250918911406,0.3526580128317339,0.2606694779791519
+1330-a_n.wav,1716,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.2269526009385379,0.10100686398342439,0.6720405350780377
+1331-a_n.wav,1401,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5544188613769405,0.24404110828112172,0.2015400303419378
+1379-a_n.wav,1727,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4533854912793031,0.3923804680660931,0.15423404065460372
+1380-a_n.wav,1729,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4376734264790457,0.34893023130082734,0.21339634222012696
+1388-a_n.wav,1739,Laryngitis,Laryngitis,Laryngitis,0.3681293921833005,0.3961627085453728,0.23570789927132674
+1397-a_n.wav,1747,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.14879878302510416,0.05417643774483504,0.7970247792300608
+1399-a_n.wav,1751,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.37559215166107773,0.24967335258371912,0.3747344957552031
+1404-a_n.wav,1755,Laryngitis,Laryngitis,Laryngitis,0.21569406856320955,0.5257239008532925,0.2585820305834981
+1406-a_n.wav,1757,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5570007977771949,0.2871673723079887,0.15583182991481642
+1407-a_n.wav,1758,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,1.0233290863862663e-21,5.899197671996644e-38,1.0
+1414-a_n.wav,1765,Laryngitis,Laryngitis,Laryngitis,0.3776937285715245,0.5503204332428613,0.07198583818561423
+1415-a_n.wav,1766,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.49351366626925947,0.28205263338031955,0.22443370035042087
+1424-a_n.wav,1772,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.3076637932387112,0.2863070724581727,0.40602913430311616
+1426-a_n.wav,1776,Laryngitis,Laryngitis,Functional dysphonia group,0.39424285966216727,0.33642885326982463,0.2693282870680081
+1431-a_n.wav,1779,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.3825377306271011,0.4075867055161028,0.209875563856796
+1437-a_n.wav,1786,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5295436757827394,0.20323978472101942,0.2672165394962412
+1441-a_n.wav,1782,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4769973617411487,0.30926966642407994,0.21373297183477136
+1442-a_n.wav,1789,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.47240364864663276,0.24913168017158877,0.2784646711817783
+1444-a_n.wav,1794,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5006156428791286,0.3016646070643304,0.19771975005654102
+1456-a_n.wav,1804,Laryngitis,Laryngitis,Functional dysphonia group,0.45459525663884454,0.4081840948589102,0.13722064850224522
+1463-a_n.wav,1811,Laryngitis,Laryngitis,Functional dysphonia group,0.5879782859650008,0.06477739496710042,0.34724431906789865
+1470-a_n.wav,1818,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.29075553537622856,0.3233667445876331,0.3858777200361384
+1476-a_n.wav,1824,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.3761439653770652,0.5025766521352919,0.12127938248764283
+1484-a_n.wav,1832,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.4302301418944437,0.3152862489460752,0.25448360915948104
+1489-a_n.wav,1835,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.3631518360316813,0.2497390928808727,0.387109071087446
+1492-a_n.wav,1838,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.41946400612963136,0.4013927121490476,0.17914328172132107
+1547-a_n.wav,1854,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.3485473164858989,0.29089034440086675,0.3605623391132344
+1549-a_n.wav,1856,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.1834212168136227,0.3089977973920043,0.507580985794373
+1552-a_n.wav,1861,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4784327350442549,0.313948836143414,0.20761842881233109
+1553-a_n.wav,1863,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5344777116332838,0.2497275091151945,0.21579477925152166
+1555-a_n.wav,1865,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.030593494566432938,0.11029338784066682,0.8591131175929002
+1562-a_n.wav,1869,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.31331186703107294,0.2754606662995491,0.411227466669378
+1567-a_n.wav,1844,Laryngitis,Laryngitis,Functional dysphonia group,0.36483348835712137,0.3147991051614259,0.3203674064814528
+1569-a_n.wav,1876,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.3488255597045123,0.31148703059143074,0.33968740970405703
+1570-a_n.wav,1877,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.2868237008441388,0.3116590724032275,0.4015172267526337
+1571-a_n.wav,1878,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.48071849144009404,0.23361265951293952,0.28566884904696643
+1578-a_n.wav,1884,Laryngitis,Laryngitis,Functional dysphonia group,0.34981001428472447,0.30744901378851863,0.3427409719267569
+1589-a_n.wav,1889,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.6034430711455119,0.24885425040888592,0.1477026784456022
+1594-a_n.wav,1894,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.25728399624928444,0.2011986638519252,0.5415173398987904
+1601-a_n.wav,1902,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.4751430549082248,0.34240213984783535,0.18245480524393984
+1602-a_n.wav,1907,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.3384229195000952,0.320674125235444,0.3409029552644609
+1609-a_n.wav,1909,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5640094167548165,0.27046276880364584,0.16552781444153766
+1611-a_n.wav,1911,Funktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.29625263746292985,0.4177525497133763,0.285994812823694
+1620-a_n.wav,1921,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.4926491716337701,0.3276275000161377,0.1797233283500921
+1624-a_n.wav,1923,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.355879496731642,0.3037377395746069,0.3403827636937512
+1627-a_n.wav,1926,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5900593969254054,0.23566957955098905,0.1742710235236054
+1630-a_n.wav,1929,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.32877620674902924,0.2964131031078695,0.37481069014310125
+1631-a_n.wav,1930,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.166514212563589,0.10750557076786124,0.7259802166685497
+1637-a_n.wav,1937,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.37904782386097946,0.2654505289969894,0.3555016471420312
+1638-a_n.wav,1932,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.03603071145274631,0.005115426010919317,0.9588538625363344
+1641-a_n.wav,1942,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.2705469923719103,0.313961839993558,0.4154911676345317
+1644-a_n.wav,1819,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.3893579923505239,0.2563433179013979,0.3542986897480782
+1648-a_n.wav,1947,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.613281068370357,0.26041147001914317,0.1263074616104998
+1653-a_n.wav,1953,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.40549915266023695,0.3390132652110996,0.2554875821286634
+1660-a_n.wav,1960,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.36635041865697693,0.3191160979337566,0.31453348340926646
+1671-a_n.wav,1970,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.4666136486310348,0.2672028935954531,0.266183457773512
+1680-a_n.wav,1979,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4746743683620401,0.2523603276810192,0.2729653039569407
+1682-a_n.wav,1981,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.524087207754411,0.2565667225249845,0.21934606972060453
+1685-a_n.wav,1984,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4803573195684348,0.26162875010183295,0.25801393032973235
+1686-a_n.wav,1985,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5814632723383757,0.30696176599342967,0.11157496166819453
+1691-a_n.wav,1990,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5295898679445921,0.30888136970527,0.1615287623501379
+1743-a_n.wav,2007,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.518633897842715,0.3010989557821113,0.18026714637517366
+1753-a_n.wav,2018,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4791228657580162,0.2727602083131451,0.2481169259288386
+1754-a_n.wav,2019,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.6086249208379597,0.28285927616871154,0.10851580299332879
+1755-a_n.wav,1559,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.3454098843114701,0.26772929962604425,0.38686081606248574
+1758-a_n.wav,2022,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.28124023523398683,0.36681470765495094,0.3519450571110624
+1760-a_n.wav,2024,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5204234619736325,0.15629386250267588,0.32328267552369166
+1776-a_n.wav,2040,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.1725384569806474,0.14253021535240168,0.6849313276669509
+1777-a_n.wav,2041,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4346618579376209,0.2843463981033311,0.28099174395904786
+1786-a_n.wav,2050,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5715043018178964,0.3243352107570131,0.10416048742509053
+1788-a_n.wav,2053,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.7121120348261123,0.038546788164542316,0.24934117700934533
+1789-a_n.wav,2054,Rekurrensparese,Vocal fold paresis,Laryngitis,0.30928883248865,0.5051355740595925,0.1855755934517575
+1792-a_n.wav,2056,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.6406088708668862,0.28865960267143975,0.070731526461674
+1794-a_n.wav,2060,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.49707867389549365,0.22417493628526294,0.2787463898192435
+1795-a_n.wav,2059,Laryngitis,Laryngitis,Functional dysphonia group,0.3705789870158896,0.3418133920091712,0.28760762097493914
+1796-a_n.wav,2061,Laryngitis,Laryngitis,Vocal fold paresis,0.27159455147127876,0.1902435366556798,0.5381619118730414
+1798-a_n.wav,2032,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.3440879843399873,0.3152473136472059,0.34066470201280685
+1801-a_n.wav,2066,Funktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.32534766083867434,0.36428369721221115,0.3103686419491145
+1803-a_n.wav,2069,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.37146504358876803,0.21473879288753392,0.4137961635236981
+1806-a_n.wav,2072,Laryngitis,Laryngitis,Functional dysphonia group,0.40410286242792154,0.31039504876066143,0.2855020888114171
+1809-a_n.wav,2074,Laryngitis,Laryngitis,Laryngitis,0.3221144405448236,0.34766719186080514,0.3302183675943714
+1812-a_n.wav,2079,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.26919994678008813,0.3682126012004074,0.3625874520195045
+1818-a_n.wav,2083,Rekurrensparese,Vocal fold paresis,Laryngitis,0.31909574788030803,0.389418617750725,0.29148563436896696
+1820-a_n.wav,2085,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5205781055013023,0.3244941063230608,0.15492778817563674
+1822-a_n.wav,2086,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5528305554399631,0.3077976037985622,0.13937184076147477
+1823-a_n.wav,2088,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.47308836765190415,0.1833430425056297,0.3435685898424662
+1824-a_n.wav,2089,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4783575252282292,0.309060208193499,0.21258226657827167
+1825-a_n.wav,2090,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.6182499265821839,0.2230507253346406,0.1586993480831756
+1826-a_n.wav,2091,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.19140210248035838,0.10282116367330686,0.7057767338463347
+1827-a_n.wav,2093,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.422460675243882,0.3499268216894722,0.22761250306664588
+1829-a_n.wav,2095,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.37320924027108177,0.24780727667498412,0.37898348305393414
+1830-a_n.wav,2097,Rekurrensparese,Vocal fold paresis,Laryngitis,0.3193902807909584,0.3591260449411832,0.32148367426785834
+1832-a_n.wav,2100,Rekurrensparese,Vocal fold paresis,Laryngitis,0.1977657162229409,0.6113945272457564,0.19083975653130278
+1836-a_n.wav,2103,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.007172167908293071,0.040698986908741866,0.9521288451829649
+1861-a_n.wav,2104,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.38854047189985624,0.29962975644005835,0.3118297716600855
+1867-a_n.wav,2108,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.6026302339901545,0.2142168008791565,0.1831529651306891
+1888-a_n.wav,2112,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.39708493596959854,0.2866057471416965,0.3163093168887049
+1895-a_n.wav,1987,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.19746427071307537,0.17958880352879164,0.6229469257581329
+1898-a_n.wav,2121,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5635878722596014,0.29395309132391434,0.14245903641648425
+1899-a_n.wav,2123,Funktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.3410206567245947,0.20117564835989077,0.45780369491551454
+1934-a_n.wav,2145,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.48474658907746804,0.24329286933504904,0.271960541587483
+1936-a_n.wav,2147,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.47526522797154075,0.29034085429040757,0.23439391773805157
+1939-a_n.wav,2150,Rekurrensparese,Vocal fold paresis,Laryngitis,0.3185257520420004,0.3700463563284409,0.3114278916295586
+1952-a_n.wav,2161,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.46221523679712073,0.3692606160012812,0.16852414720159797
+1953-a_n.wav,2163,Laryngitis,Laryngitis,Functional dysphonia group,0.3859347402025045,0.324191349904862,0.28987390989263345
+1965-a_n.wav,2175,Laryngitis,Laryngitis,Functional dysphonia group,0.4812301384102828,0.272033289586046,0.24673657200367136
+1966-a_n.wav,2176,Funktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.26680755787913274,0.39314758723832804,0.34004485488253927
+1973-a_n.wav,2183,Laryngitis,Laryngitis,Vocal fold paresis,0.31695941219856544,0.19631595462505322,0.48672463317638137
+1976-a_n.wav,2187,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.20864295539344876,0.2193000221021874,0.5720570225043639
+1977-a_n.wav,2188,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4039373892181173,0.32637905730111794,0.2696835534807648
+1982-a_n.wav,2192,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5081079187460544,0.2811571954186366,0.21073488583530894
+1983-a_n.wav,2193,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.42628830007549245,0.2366504943762362,0.3370612055482713
+1990-a_n.wav,2201,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.3733198270655883,0.10039767879939956,0.5262824941350122
+2002-a_n.wav,2211,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5231492838284273,0.3060305515061808,0.17082016466539188
+2006-a_n.wav,2215,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.41760596400883326,0.3710339033462671,0.2113601326448997
+2007-a_n.wav,2216,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.3024102645780752,0.26314997853117966,0.43443975689074527
+2009-a_n.wav,2219,Rekurrensparese,Vocal fold paresis,Laryngitis,0.27826232044204674,0.5910218881289377,0.1307157914290155
+2014-a_n.wav,2222,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.4180932619624767,0.35840983725795794,0.22349690077956524
+2021-a_n.wav,2228,Laryngitis,Laryngitis,Functional dysphonia group,0.7146164091714096,0.13783205570400817,0.14755153512458233
+2024-a_n.wav,2233,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.2616585857844479,0.3013107221997049,0.43703069201584727
+2033-a_n.wav,2242,Rekurrensparese,Vocal fold paresis,Laryngitis,0.3771644682323367,0.39980520281477494,0.22303032895288835
+2058-a_n.wav,2247,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.15480408955114683,0.16945621712170283,0.6757396933271504
+2062-a_n.wav,2251,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.447508407292316,0.2707556881186396,0.2817359045890444
+2067-a_n.wav,2256,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.3942619555424559,0.32282979852314403,0.2829082459344
+2071-a_n.wav,2263,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4364347514252436,0.2771347050399822,0.28643054353477404
+2072-a_n.wav,2264,Rekurrensparese,Vocal fold paresis,Laryngitis,0.3338127261727384,0.3965534093082401,0.26963386451902155
+2073-a_n.wav,2265,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.4193914859809409,0.3274368640198308,0.25317164999922837
+2077-a_n.wav,1961,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.47662695806587013,0.2658774231916343,0.25749561874249566
+2080-a_n.wav,2269,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.6456761814408019,0.2152850226830573,0.1390387958761408
+2081-a_n.wav,2268,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.434550394209741,0.35678780299101104,0.20866180279924787
+2086-a_n.wav,2275,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.6577088807303081,0.23481396032452675,0.10747715894516524
+2100-a_n.wav,2289,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.35569527256724465,0.27364292705177884,0.37066180038097646
+2105-a_n.wav,2294,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.11584473424476172,0.27870274964923997,0.6054525161059983
+2115-a_n.wav,2305,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.3954803284776862,0.3277246832961347,0.27679498822617915
+2122-a_n.wav,2311,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5404415238390058,0.29719182521163406,0.1623666509493602
+2128-a_n.wav,2317,Laryngitis,Laryngitis,Functional dysphonia group,0.5079959168822351,0.1228035982248622,0.3692004848929025
+2138-a_n.wav,2327,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4275132428791956,0.30438417809481794,0.2681025790259864
+2139-a_n.wav,2328,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.3690567533259051,0.30672298832355094,0.32422025835054397
+2148-a_n.wav,2345,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.29423699291325506,0.3105397631731089,0.395223243913636
+2153-a_n.wav,2350,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.3716146323198765,0.3028469804161586,0.32553838726396495
+2156-a_n.wav,2353,Laryngitis,Laryngitis,Laryngitis,0.2228217294087311,0.43372458039355566,0.3434536901977132
+2160-a_n.wav,2357,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.3679000122548331,0.30030305818908615,0.33179692955608076
+2182-a_n.wav,2359,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.21869715466206005,0.08972804124522098,0.691574804092719
+2185-a_n.wav,2362,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.15239914038937272,0.6438332138925634,0.20376764571806386
+2186-a_n.wav,2120,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4968916737640124,0.318888325317537,0.1842200009184505
+2191-a_n.wav,2368,Laryngitis,Laryngitis,Laryngitis,0.3296200624936736,0.4686166090525451,0.2017633284537814
+2192-a_n.wav,2369,Rekurrensparese,Vocal fold paresis,Laryngitis,0.2895095159400399,0.40780416989558893,0.3026863141643712
+2215-a_n.wav,2376,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.28078300898634406,0.3264527542614734,0.3927642367521826
+2216-a_n.wav,2377,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.3235415714853895,0.273531257793737,0.40292717072087353
+2218-a_n.wav,2379,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5353065762385689,0.301053450867872,0.16363997289355905
+2221-a_n.wav,2383,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.6171829775437162,0.2563113114561685,0.12650571100011546
+2224-a_n.wav,2385,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4771813616382366,0.29788715946230937,0.22493147889945414
+2225-a_n.wav,2386,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.6280336042840213,0.26675723315070243,0.10520916256527628
+2228-a_n.wav,2390,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.48435384425801215,0.248685787558489,0.26696036818349866
+2229-a_n.wav,2391,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5028062228148081,0.3537322871537127,0.14346149003147923
+2230-a_n.wav,2392,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.40060214055640764,0.2693967329935521,0.33000112645004026
+2232-a_n.wav,2389,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.39014530598352054,0.41276043083301067,0.19709426318346882
+2233-a_n.wav,2395,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.30799237149157477,0.344963366403601,0.3470442621048243
+2235-a_n.wav,2396,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,9.576308022454665e-22,1.0529394683422915e-38,1.0
+2237-a_n.wav,2397,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.13063130095953723,0.1116231099526552,0.7577455890878075
+2239-a_n.wav,2400,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.41724964082399435,0.3329420433744462,0.24980831580155943
+2240-a_n.wav,2401,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5464527825042853,0.3304223813293436,0.12312483616637103
+2241-a_n.wav,2402,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.3203245325792658,0.44448911647985806,0.23518635094087612
+2245-a_n.wav,2406,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.2301734969374775,0.4423165631756299,0.32750993988689253
+2247-a_n.wav,2408,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.43374004135708055,0.26794372969008173,0.29831622895283766
+2267-a_n.wav,2411,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4132828524095333,0.20456729891510939,0.38214984867535734
+2270-a_n.wav,2414,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.20499625485394038,0.44632223784627645,0.34868150729978314
+2272-a_n.wav,2416,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.44035846836304227,0.2828058877788161,0.2768356438581417
+2274-a_n.wav,2418,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.30845890436358286,0.3005506344365404,0.3909904611998766
+2276-a_n.wav,2420,Laryngitis,Laryngitis,Functional dysphonia group,0.4085508315066071,0.2520723865998009,0.3393767818935921
+2288-a_n.wav,2422,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.38693782040821795,0.22406836653164297,0.38899381306013914
+2292-a_n.wav,2426,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.6783086826656597,0.23370445207779006,0.08798686525655008
+2297-a_n.wav,2431,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4464477679855318,0.3015595358272445,0.2519926961872236
+2298-a_n.wav,2432,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.14266732253499134,0.31049764514465206,0.5468350323203567
+2301-a_n.wav,2435,Laryngitis,Laryngitis,Laryngitis,0.27256595773103226,0.41687024166014974,0.31056380060881805
+2314-a_n.wav,2447,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.3666117515755711,0.2887075249181482,0.34468072350628065
+2315-a_n.wav,2449,Laryngitis,Laryngitis,Vocal fold paresis,0.4117308961538898,0.1477462280001769,0.4405228758459333
+2318-a_n.wav,2452,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4475435695383177,0.33571872110429146,0.21673770935739078
+2321-a_n.wav,2455,Laryngitis,Laryngitis,Functional dysphonia group,0.3887436648507245,0.36363304867529256,0.24762328647398282
+2328-a_n.wav,2462,Laryngitis,Laryngitis,Laryngitis,0.3153867818862252,0.38317264482399743,0.3014405732897774
+2331-a_n.wav,2465,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.41259123590828867,0.260371753246923,0.3270370108447885
+2338-a_n.wav,2472,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.35168484043994824,0.37711826286879446,0.2711968966912573
+2341-a_n.wav,2246,Rekurrensparese,Vocal fold paresis,Laryngitis,0.24670975436979273,0.39215699758771155,0.36113324804249575
+2342-a_n.wav,2476,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.4162142568540122,0.19140915731907196,0.39237658582691576
+2346-a_n.wav,2480,Rekurrensparese,Vocal fold paresis,Laryngitis,0.35785911119606817,0.3993308144662686,0.24281007433766313
+2357-a_n.wav,2491,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5383362504018964,0.34298461982776957,0.11867912977033405
+2359-a_n.wav,2493,Funktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.31887049896899755,0.3447708314963608,0.3363586695346417
+2365-a_n.wav,2500,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5492181304051373,0.33048551758061817,0.12029635201424453
+2367-a_n.wav,2497,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4061282493015844,0.2535168476199753,0.3403549030784403
+2374-a_n.wav,2508,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.3045320772546122,0.38571251016367025,0.30975541258171757
+2382-a_n.wav,2258,Funktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.20135145433888194,0.18811796311923562,0.6105305825418824
+2393-a_n.wav,2527,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.353392629883038,0.31377630707811477,0.3328310630388472
+2394-a_n.wav,2528,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.21436565866410823,0.19622587316632314,0.5894084681695687
+2399-a_n.wav,2533,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4377629679954331,0.2556730593982486,0.30656397260631824
+2404-a_n.wav,2538,Laryngitis,Laryngitis,Laryngitis,0.06413182658323656,0.8421762765896235,0.09369189682713995
+2408-a_n.wav,2542,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.3023225836955191,0.3079305031836144,0.38974691312086657
+2410-a_n.wav,2484,Funktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.3023123497432996,0.3513578456384982,0.3463298046182022
+2414-a_n.wav,2548,Rekurrensparese,Vocal fold paresis,Laryngitis,0.3189355850896555,0.45124904236902447,0.22981537254132
+2416-a_n.wav,2550,Funktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.3591462509945714,0.2715729373985794,0.3692808116068491
+2418-a_n.wav,2552,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.2657640786046324,0.34869765187221236,0.38553826952315523
+2424-a_n.wav,2558,Laryngitis,Laryngitis,Vocal fold paresis,0.3041018556228927,0.32922315650953204,0.3666749878675752
+2425-a_n.wav,2559,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.42339976660664064,0.3356874209511924,0.2409128124421669
+2427-a_n.wav,2561,Funktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.24342517244828102,0.16654679347311369,0.5900280340786054
+2429-a_n.wav,2563,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4439100615030936,0.3516622756764483,0.20442766282045804
+2432-a_n.wav,2525,Funktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,3.952530767087346e-08,7.756974390664656e-08,0.9999998829049485
+2435-a_n.wav,2569,Laryngitis,Laryngitis,Vocal fold paresis,0.29578723873383894,0.344760861974823,0.3594518992913381
+2438-a_n.wav,2483,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.2489641746458963,0.444110717773774,0.30692510758032987
+2442-a_n.wav,2521,Funktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.3089278797924216,0.5732169296623252,0.11785519054525322
+2444-a_n.wav,2578,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.49871360951113414,0.23101531901080086,0.27027107147806506
+2445-a_n.wav,2579,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.6111141749586848,0.29216493400956756,0.09672089103174754
+2446-a_n.wav,2580,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.46305710409396483,0.11679954416756802,0.42014335173846706
+2447-a_n.wav,2581,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.2660607072000449,0.40995241932557447,0.32398687347438065
+2448-a_n.wav,2582,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.534303874234158,0.21918480792769685,0.24651131783814517
+2450-a_n.wav,2584,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.3697835444596326,0.31273131875627364,0.31748513678409374
+2454-a_n.wav,2588,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.25070637294925735,0.4519580370170316,0.297335590033711
+2457-a_n.wav,2591,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4771501524287285,0.12938535957076028,0.39346448800051126
+2459-a_n.wav,2593,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.44369340035004334,0.31137103701816204,0.24493556263179453
+2460-a_n.wav,2594,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.2866410943436898,0.2642688195486504,0.4490900861076598
+2463-a_n.wav,2597,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.30015858182027205,0.3315156362904991,0.36832578188922893
+2464-a_n.wav,2598,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.27607147761268064,0.31884166056173097,0.40508686182558845
+2465-a_n.wav,2599,Rekurrensparese,Vocal fold paresis,Laryngitis,0.2837474845566599,0.5402794328581897,0.17597308258515043
+2471-a_n.wav,2605,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.47083810675518434,0.26502267390266204,0.2641392193421535
+2476-a_n.wav,2610,Rekurrensparese,Vocal fold paresis,Laryngitis,0.3583969235134456,0.3750190132528874,0.26658406323366707
+2479-a_n.wav,2613,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5778818308214188,0.2306840557984643,0.1914341133801169
+2480-a_n.wav,2614,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.49855611333181393,0.2876912965163348,0.21375259015185127
+2481-a_n.wav,2615,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.4524299960038753,0.26875187157796704,0.2788181324181578
+2493-a_n.wav,2627,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.5358792702209952,0.2944201302395528,0.16970059953945205
+2497-a_n.wav,2631,Funktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.23191257191767523,0.46767563679010987,0.300411791292215
+2499-a_n.wav,2633,Funktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.45524737866733866,0.2616527896470724,0.28309983168558883
+2501-a_n.wav,2635,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.42676908413476744,0.33130579565073065,0.24192512021450205
+2502-a_n.wav,2636,Funktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.36239164117369294,0.19736209216938785,0.4402462666569191
+2504-a_n.wav,2467,Funktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.14050072735504918,0.2248832851387536,0.6346159875061972
+2507-a_n.wav,2641,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.2971893913095261,0.2918877103086354,0.4109228983818386
+2508-a_n.wav,2642,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.46954899843299797,0.3749968241147836,0.1554541774522185
+2510-a_n.wav,2644,Laryngitis,Laryngitis,Vocal fold paresis,0.1825844187462127,0.3562824781194224,0.46113310313436506
+2511-a_n.wav,2645,Laryngitis,Laryngitis,Functional dysphonia group,0.49900089252640895,0.3442380344287384,0.15676107304485257
+2516-a_n.wav,2650,Laryngitis,Laryngitis,Functional dysphonia group,0.38652068725336064,0.31968746522761043,0.29379184751902904
+2523-a_n.wav,2657,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.2921672277397941,0.30611877360933015,0.40171399865087576
+2527-a_n.wav,2661,Rekurrensparese,Vocal fold paresis,Laryngitis,0.33389149219394765,0.36161501095706955,0.30449349684898286
+2538-a_n.wav,2672,Rekurrensparese,Vocal fold paresis,Laryngitis,0.25242831629947754,0.3747231359856451,0.37284854771487735
+2539-a_n.wav,2673,Rekurrensparese,Vocal fold paresis,Laryngitis,0.3313809402543481,0.47505489699284614,0.19356416275280577
+2540-a_n.wav,2674,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.5379639612111867,0.2658050196016842,0.19623101918712904
+2541-a_n.wav,2675,Laryngitis,Laryngitis,Vocal fold paresis,0.34591646689223926,0.07983272529386896,0.5742508078138918
+2542-a_n.wav,2676,Laryngitis,Laryngitis,Laryngitis,0.3098362697947232,0.43860848041757594,0.2515552497877009
+2545-a_n.wav,2679,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.3540236847091621,0.2627985435880859,0.38317777170275197
+2546-a_n.wav,2680,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.448829241096598,0.3540300795635063,0.19714067933989565
+2553-a_n.wav,2687,Hyperfunktionelle Dysphonie,Functional dysphonia group,Vocal fold paresis,0.39562972518673983,0.12887216706705446,0.4754981077462057
+2562-a_n.wav,2696,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.474579654464574,0.13161825764496637,0.3938020878904597
+2563-a_n.wav,2697,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.26508488817045617,0.3070165391309681,0.4278985726985756
+2565-a_n.wav,2699,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.40753806950112376,0.2694168545970033,0.32304507590187287
+2567-a_n.wav,2701,Laryngitis,Laryngitis,Laryngitis,0.30861893051288325,0.40735885997108523,0.2840222095160315
+2570-a_n.wav,2704,Rekurrensparese,Vocal fold paresis,Vocal fold paresis,0.20876868945758223,0.227340817831807,0.5638904927106108
+2574-a_n.wav,2708,Laryngitis,Laryngitis,Laryngitis,0.26842082851353366,0.43531537293566686,0.29626379855079943
+2578-a_n.wav,2712,Laryngitis,Laryngitis,Functional dysphonia group,0.5932488753497386,0.25522096096894553,0.15153016368131592
+2581-a_n.wav,2715,Rekurrensparese,Vocal fold paresis,Functional dysphonia group,0.4516404752669453,0.2556486672164859,0.29271085751656883
+2582-a_n.wav,2716,Laryngitis,Laryngitis,Vocal fold paresis,0.18719616758185517,0.37564573190125283,0.4371581005168921
+2585-a_n.wav,2719,Laryngitis,Laryngitis,Functional dysphonia group,0.6528548395613154,0.24696420498558802,0.10018095545309658
+2589-a_n.wav,2723,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.6153839577548551,0.25905104377948013,0.12556499846566477
+2590-a_n.wav,2724,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.2940933902032889,0.4016425331058917,0.3042640766908195
+2600-a_n.wav,2726,Laryngitis,Laryngitis,Laryngitis,0.2665447487870047,0.43504061944034533,0.29841463177264993
+2602-a_n.wav,2728,Laryngitis,Laryngitis,Laryngitis,0.35618116066060035,0.4302661654699339,0.21355267386946572
+2603-a_n.wav,2729,Hyperfunktionelle Dysphonie,Functional dysphonia group,Laryngitis,0.3229675508194091,0.447527944883794,0.22950450429679684
+2604-a_n.wav,2730,Hyperfunktionelle Dysphonie,Functional dysphonia group,Functional dysphonia group,0.3749589745986162,0.3267748946482723,0.2982661307531115
+2605-a_n.wav,2731,Laryngitis,Laryngitis,Vocal fold paresis,0.3188735483497321,0.272405520916934,0.40872093073333393
+2610-a_n.wav,2736,Laryngitis,Laryngitis,Functional dysphonia group,0.37156914570781635,0.26009271107614496,0.3683381432160386

@@ -24,3 +24,9 @@ requirements-lock.txt -text
 # Preserve the evaluated SVD artifact and source bytes
 artifacts_svd_local/** -text
 svd_training.py -text
+
+# Exact-byte provenance for frozen v2/v3 scientific artifacts
+artifacts_svd_v2/** -text
+artifacts_v3/** -text
+svd_v3.py -text
+svd_advanced.py -text

@@ -1,0 +1,16 @@
+{
+  "seed": 20261022,
+  "feature_version": "svd-v2-97features-mel40x128-20261022",
+  "outer_folds": 4,
+  "model_selection": "mean four-fold grouped CV balanced accuracy; fixed candidates and 50/50 best-family ensemble",
+  "calibration": "temperature fit on speaker-disjoint inner calibration subset, never outer validation",
+  "subtype_task": "Three pathology-only labels; exclude comorbid diagnoses; merge functional/hyperfunctional as a broad functional group",
+  "prior_test_policy": "ALL previously evaluated SVD speakers are development; one earliest usable recording per speaker",
+  "test_policy": "Original reserved VOICED 42 recordings (12 healthy, 30 pathological), never used to fit/tune these SVD models. Separate Italian cohort; identities based on release participant proxies.",
+  "subtype_final_test": "No independent subtype test with all three classes is available. Report grouped CV only.",
+  "unavailable_svd_controls": "173 unused healthy speaker IDs exist in metadata, but their normal-pitch /a/ is absent from data.zip and healthy.zip; do not fabricate a new SVD holdout.",
+  "source_metadata_sha256": "1f53ea50e3217d318294940158eba09090ecb0ae560c4d705d4a7144c968aee4",
+  "development_sha256": "3da1d303073e38178e6de2dc30fb065ec3e065886b890d86a1757a9b8b856b79",
+  "external_test_sha256": "2aa6b14bb044d50c62ad716f0a33516e1a10602e2df38d62081a99fa0a198ce6",
+  "previously_used_speakers": 1236
+}

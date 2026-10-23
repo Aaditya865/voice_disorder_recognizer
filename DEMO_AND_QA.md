@@ -1,29 +1,29 @@
-# Two-minute review demo and reviewer questions
+# Current release: two-minute demonstration
 
-## Before the review
-Launch the app once, keep samples/ open, and use the saved WAVs. Keep the architecture slide and Review.html ready offline. Predictions are actual model outputs and may be wrong; do not describe a high model score as validated confidence.
+Launch OPEN_WEBSITE.cmd before the review. Keep demo_v3/ and the presentation open. These examples were used in development; their predictions are not new accuracy measurements. The app intentionally returns Uncertain for every binary prediction because no threshold qualified on both sources.
 
-## Two-minute script
-| Time | Click / action | Say |
+| Time | Action | Explanation |
 |---|---|---|
-| 0:00–0:20 | Show title and upload box | “This academic prototype compares GMM and a small convolutional DNN on sustained vowel recordings. It is not a medical diagnosis.” |
-| 0:20–0:45 | Upload healthy_voice002.wav; Analyze Voice | “We use the same central three seconds, MFCCs, voice-quality features and saved transforms as training. Both models predict healthy for this example.” |
-| 0:45–1:05 | Play the analyzed segment; point to comparison and score | “The models are cached, so inference is fast. These are uncalibrated model scores. The sample is recognized and routed to a validation model that excluded its speaker from fitting.” |
-| 1:05–1:30 | Replace with pathological_voice003.wav; Analyze Voice | “Both binary models predict pathological. The dataset diagnosis is a nodule; the laryngitis suggestion here is wrong. This shows why the subtype output is experimental.” |
-| 1:30–1:50 | Replace with laryngeal_voice008.wav; Analyze Voice | “The dataset labels this reflux laryngitis. DNN predicts pathological with the laryngitis group; GMM misses it. We show disagreements and failures rather than hiding them.” |
-| 1:50–2:00 | Show architecture/results slide | “Binary development balanced accuracy is 61.6% for GMM and 57.5% for DNN. Subtype results are weaker. The 42-record final test remains reserved.” |
+| 0:00–0:20 | Show title and disclaimer | We compare GMM and DNN for healthy versus pathological sustained vowels. This is an academic research demonstration. |
+| 0:20–0:45 | Upload demo_v3/SVD_healthy_2.wav; Analyze Voice | The saved feature extraction, transforms and calibration match training. This is a development demonstration. |
+| 0:45–1:05 | Point to Uncertain and model scores | The leading label is a research prediction. No threshold met our requirements in both datasets, so the software does not assert a reliable classification. |
+| 1:05–1:25 | Play audio; show waveform and GMM/DNN comparison | Model loading is cached. Median warm inference across ten fixed examples was 0.36 seconds on this laptop. Models can disagree or both be wrong. |
+| 1:25–1:45 | Replace with demo_v3/SVD_pathological_105.wav; Analyze Voice | Replacement clears the old output. Subtype rankings are exploratory; the specific cause remains unresolved. |
+| 1:45–2:00 | Show results slide | Nested development balanced accuracy was 0.6895 on SVD and 0.6270 on VOICED. We preserve the earlier external failure and do not claim new external validation. |
 
-## Likely reviewer questions
-1. **Why GMM and DNN?** GMM is a compact generative baseline for a small dataset. The convolutional DNN learns temporal MFCC patterns. Both satisfy the assignment's permitted model families.
-2. **What dataset did you actually train on?** VOICED 1.0.0: 208 recordings. The supplied diagnosis metadata gives 57 healthy and 151 pathological, differing by one from the website summary. Development uses 166; 42 are reserved for final evaluation.
-3. **What does speaker independence mean here?** All recordings with a speaker ID belong to one partition; duplicates are checked. Record IDs are participant proxies in this release, not independently verified identities. Demo samples use fold models that excluded those IDs.
-4. **What features are used?** Thirteen MFCCs and CPPS, HNR, local jitter, local shimmer, median pitch and pitch IQR. GMM uses MFCC means/standard deviations; DNN uses MFCC sequences. Each uses saved training-fitted transforms and missing-value handling.
-5. **Is the displayed percentage confidence?** No. It is an uncalibrated score derived from the binary decision output. GMM and DNN scores are not directly comparable medical probabilities and can be high when wrong.
-6. **Does it reliably detect laryngeal disease?** No. The exploratory group contains 39 laryngitis-labelled records, only 32 in development. Other pathology can also involve the larynx. Three-class laryngitis precision is 32.4% for GMM and 27.3% for DNN.
-7. **How did you avoid leakage?** Fixed speaker-proxy partitions, train-only transforms and class weights, internal stopping subsets, separate fold models and an untouched final test. Development folds selected the binary settings, so the reported estimates have selection bias.
-8. **Why balanced accuracy?** Healthy/pathological counts are imbalanced. Balanced accuracy averages class recall. We also retain per-class precision, recall, F1 and confusion counts, including the website's binary-plus-subtype decision rule.
-9. **How does the reference paper support this?** Gupta et al. (2026), DOI 10.3389/fdgth.2026.1800132, is a scoping review of multiclass studies. It motivates transparent labels, speaker separation and evaluation. It does not establish that our model pair is best, and its study accuracies are not our results.
-10. **What are the limitations and next steps?** Small single-source data, identity proxies, weak subtype precision, unstable DNN results, uncalibrated scores and no external or phone-audio validation. Next: complete the frozen final evaluation, larger/external data, reliable identity metadata and calibration on independent development data.
+## Ten likely questions
 
-## One-slide summary
-Architecture_and_Results.pptx is editable. Architecture_and_Results.png is the offline image version. The table shows pooled development validation, not test accuracy. LARYNGEAL_REPORT.md contains every source diagnosis count, per-class metrics and updated confusion matrices.
+1. **Why GMM and DNN?** GMM models class-conditional feature distributions; neural networks learn nonlinear boundaries. Both satisfy the assignment. We compared MLP and CNN variants rather than assuming complexity wins.
+2. **Which model won?** The 8 kHz MLP with hidden layers (64,32), selected by equal-source development balanced accuracy and the predeclared simplicity rule. GMM remains available for comparison.
+3. **How much data?** 1,212 SVD speakers and 208 VOICED participant proxies: 717 healthy and 703 pathological records. VOICED identity relies on published record correspondence, not independent identity verification.
+4. **How did you prevent leakage?** Participant-disjoint outer/inner folds and separate calibration/stopping participants; learned transforms and balancing use fitting data only. Audit checks covered 190 cached fits.
+5. **What do the numbers measure?** Outer-fold predictions evaluate the selection procedure on development data. They do not test the final refitted model on a new population.
+6. **Why not 99%?** Acoustically overlapping conditions, confounded populations and source differences limit generalization. We report measurements, not a promised target.
+7. **Why does everything say Uncertain?** None of 0.60/0.70/0.80/0.90 achieved the required accepted accuracy, coverage and sample count in both sources during final selection. We retained the agreed rejection policy.
+8. **Can it diagnose laryngitis or paralysis?** No. The unchanged subtype model ranks three supported groups conditionally and remains uncertain; many possible causes are outside its labels.
+9. **What happened on external data?** Historical v2 detected only 4 of 30 pathological test voices, with balanced accuracy 0.525. Those records are now development data, so revised results are not a fresh external test.
+10. **What improves reliability next?** Representative new speakers, label/identity verification, age/sex/source controls, and a genuinely untouched external evaluation. More tuning alone does not establish reliability.
+
+## Fallback
+
+Use the installed local app without internet. Keep the slides and V3_REPORT.md ready if hardware fails. app_svd_v2.py preserves the historical app, but its outputs and metrics must be labeled as historical. Never describe selected successful examples as unseen tests.

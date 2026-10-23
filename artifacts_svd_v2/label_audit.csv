@@ -1,0 +1,64 @@
+supplied_diagnosis,source_diagnoses,recordings,unique_speakers
+Functional Dysphonia,"Dysodie, Funktionelle Dysphonie",1,1
+Functional Dysphonia,Funktionelle Dysphonie,60,60
+Functional Dysphonia,"Funktionelle Dysphonie, Dysodie",10,10
+Functional Dysphonia,"Funktionelle Dysphonie, Kontaktpachydermie",6,6
+Functional Dysphonia,"Funktionelle Dysphonie, N. laryngeus superior Neuralgie",1,1
+Functional Dysphonia,"Funktionelle Dysphonie, Phonasthenie",1,1
+Functional Dysphonia,"Funktionelle Dysphonie, Phonationsknötchen",1,1
+Functional Dysphonia,"Funktionelle Dysphonie, Psychogene Dysphonie",9,9
+Functional Dysphonia,"Funktionelle Dysphonie, Psychogene Dysphonie, Reinke Ödem, Phonationsknötchen, Phonationsknötchen",1,1
+Functional Dysphonia,"Funktionelle Dysphonie, Vox senilis",2,2
+Functional Dysphonia,"Psychogene Dysphonie, Funktionelle Dysphonie",2,2
+Healthy,,660,660
+Hyperfunctional Dysphonia,"Aryluxation, Hyperfunktionelle Dysphonie",2,2
+Hyperfunctional Dysphonia,"Dysodie, Hyperfunktionelle Dysphonie",1,1
+Hyperfunctional Dysphonia,"Fibrom, Hyperfunktionelle Dysphonie",1,1
+Hyperfunctional Dysphonia,Hyperfunktionelle Dysphonie,125,125
+Hyperfunctional Dysphonia,"Hyperfunktionelle Dysphonie, Diplophonie",2,2
+Hyperfunctional Dysphonia,"Hyperfunktionelle Dysphonie, Dysodie",7,7
+Hyperfunctional Dysphonia,"Hyperfunktionelle Dysphonie, Kontaktpachydermie",3,3
+Hyperfunctional Dysphonia,"Hyperfunktionelle Dysphonie, Phonationsknötchen",5,5
+Hyperfunctional Dysphonia,"Hyperfunktionelle Dysphonie, Psychogene Dysphonie",9,9
+Hyperfunctional Dysphonia,"Hyperfunktionelle Dysphonie, Reinke Ödem",2,2
+Hyperfunctional Dysphonia,"Hyperfunktionelle Dysphonie, Rhinophonie clausa",1,1
+Hyperfunctional Dysphonia,"Hyperfunktionelle Dysphonie, Sigmatismus",1,1
+Hyperfunctional Dysphonia,"Hyperfunktionelle Dysphonie, Stimmlippenpolyp",1,1
+Hyperfunctional Dysphonia,"Kontaktpachydermie, Hyperfunktionelle Dysphonie",2,2
+Hyperfunctional Dysphonia,"Phonationsknötchen, Hyperfunktionelle Dysphonie",3,3
+Hyperfunctional Dysphonia,"Psychogene Dysphonie, Hyperfunktionelle Dysphonie",7,7
+Hyperfunctional Dysphonia,"Reinke Ödem, Hyperfunktionelle Dysphonie",3,3
+Hyperfunctional Dysphonia,"Spasmodische Dysphonie, Hyperfunktionelle Dysphonie",1,1
+Hyperfunctional Dysphonia,"Stimmlippenpolyp, Hyperfunktionelle Dysphonie",2,2
+Hyperfunctional Dysphonia,"Vox senilis, Hyperfunktionelle Dysphonie",2,2
+Laryngitis,"Balbuties, Laryngitis",1,1
+Laryngitis,"Dysphonie, Laryngitis",2,2
+Laryngitis,"Dysphonie, Laryngitis, Vox senilis",1,1
+Laryngitis,"Hyperfunktionelle Dysphonie, Laryngitis",3,3
+Laryngitis,"Kontaktpachydermie, Laryngitis",1,1
+Laryngitis,Laryngitis,73,73
+Laryngitis,"Laryngitis, Carcinoma in situ",1,1
+Laryngitis,"Laryngitis, Dysphonie",3,3
+Laryngitis,"Laryngitis, Epiglottiskarzinom",1,1
+Laryngitis,"Laryngitis, Hyperfunktionelle Dysphonie",3,3
+Laryngitis,"Laryngitis, Kontaktpachydermie",1,1
+Laryngitis,"Laryngitis, Leukoplakie",17,17
+Laryngitis,"Laryngitis, Leukoplakie, Hyperfunktionelle Dysphonie",1,1
+Laryngitis,"Laryngitis, Monochorditis",1,1
+Laryngitis,"Laryngitis, Reinke Ödem",5,5
+Laryngitis,"Laryngitis, Reinke Ödem, Vox senilis",1,1
+Laryngitis,"Laryngitis, Stimmlippenpolyp",1,1
+Laryngitis,"Laryngitis, Vox senilis",2,2
+Laryngitis,"Leukoplakie, Laryngitis",3,3
+Laryngitis,"Reinke Ödem, Laryngitis",3,3
+Laryngitis,"Rekurrensparese, Laryngitis",1,1
+Laryngitis,"Stimmlippenpolyp, Laryngitis",1,1
+Vocal Fold Paresis,"Reinke Ödem, Rekurrensparese",1,1
+Vocal Fold Paresis,Rekurrensparese,141,141
+Vocal Fold Paresis,"Rekurrensparese, Dysphonie",1,1
+Vocal Fold Paresis,"Rekurrensparese, Hyperfunktionelle Dysphonie",1,1
+Vocal Fold Paresis,"Rekurrensparese, Kontaktpachydermie",2,2
+Vocal Fold Paresis,"Rekurrensparese, Reinke Ödem",3,3
+Vocal Fold Paresis,"Rekurrensparese, Stimmlippenpolyp",1,1
+Vocal Fold Paresis,"Rekurrensparese, Vox senilis",1,1
+Vocal Fold Paresis,"Rekurrensparese, Zentral-laryngale Bewegungsstörung",1,1

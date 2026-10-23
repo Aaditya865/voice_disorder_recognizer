@@ -1,0 +1,29 @@
+{
+  "balanced_accuracy": 0.525,
+  "macro_f1": 0.33877551020408164,
+  "sensitivity": 0.13333333333333333,
+  "specificity": 0.9166666666666666,
+  "roc_auc": 0.6499999999999999,
+  "log_loss": 1.0680412145233757,
+  "balanced_accuracy_95_ci": [
+    0.4083333333333333,
+    0.6166666666666667
+  ],
+  "test_speakers": 42,
+  "test_healthy": 12,
+  "test_pathological": 30,
+  "confusion_matrix": [
+    [
+      11,
+      1
+    ],
+    [
+      26,
+      4
+    ]
+  ],
+  "brier_score": 0.40105527855219625,
+  "accepted_coverage": 0.7380952380952381,
+  "accepted_accuracy": 0.3870967741935484,
+  "scope": "External VOICED reserved recordings: 12 healthy, 30 pathological; 8 kHz acquisition resampled to 16 kHz. Small cross-database research evaluation, not clinical validation."
+}

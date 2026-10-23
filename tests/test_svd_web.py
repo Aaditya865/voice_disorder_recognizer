@@ -41,7 +41,7 @@ def test_mp3_and_long_audio(service):
     assert len(service.analyze(encoded(20),'x.wav')['audio']) == 5*16000
 
 def test_app_start_and_result_render(service):
-    app = AppTest.from_file(str(ROOT/'app.py'),default_timeout=60).run()
+    app = AppTest.from_file(str(ROOT/'app_svd_v1.py'),default_timeout=60).run()
     assert not app.exception
     assert app.button[0].disabled
     result = service.analyze(encoded(),'x.wav')

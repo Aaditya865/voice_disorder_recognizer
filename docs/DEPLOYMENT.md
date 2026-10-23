@@ -1,21 +1,8 @@
-# Deploy the SVD website
+# Deploy the current release
 
-On Streamlit Community Cloud, select repository
-`Aaditya865/voice_disorder_recognizer`, branch `main`, entrypoint `app.py`,
-and Python 3.12. Install dependencies from the root `requirements.txt`.
-This active app uses scikit-learn and does not require PyTorch.
-
-Keep `svd_training.py`, `voice_review/svd_web.py`, `artifacts_svd_local/`,
-`.streamlit/config.toml`, and `app.py` available. Models and preprocessing
-are loaded once. No training or dataset download runs on website startup.
-
-If already connected to main, a pushed commit should trigger rebuilding.
-Inspect the hosting logs if it fails; reboot the app to clear a stale model
-cache after an update. A GitHub push alone is not proof of successful hosting.
-
-Local fallback: `python -m streamlit run app.py`, then open
-http://localhost:8501. Uploaded audio is transmitted to the server, processed
-in memory and not written to disk by the application. Host policies also apply.
-
-The old VOICED app is available as `app_voiced_legacy.py` and requires
-`requirements-legacy.txt`. Do not mix its metrics with the SVD results.
+Streamlit Community Cloud: repository Aaditya865/voice_disorder_recognizer, branch main, entrypoint app.py, Python 3.12.
+Install root requirements.txt, including CPU PyTorch. Keep artifacts_v3/, artifacts_svd_v2/, artifacts_svd_local/partition_manifest.csv,
+svd_v3.py, svd_training.py, svd_advanced.py and voice_review/ in the deployment.
+No training or download runs on startup. A successful GitHub push does not verify cloud deployment.
+Check hosting logs and test a real upload after rebuilding. The local fallback is documented in RUN_WEBSITE.md.
+Uploads are sent to the server and processed in memory; hosting-provider policies also apply.

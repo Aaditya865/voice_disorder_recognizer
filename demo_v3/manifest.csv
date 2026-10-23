@@ -1,0 +1,5 @@
+file,record_id,diagnosis,role
+SVD_healthy_2.wav,SVD:2,,development demonstration
+SVD_pathological_105.wav,SVD:105,Rekurrensparese,development demonstration
+VOICED_healthy_voice002.wav,VOICED:voice002,healthy,development demonstration
+VOICED_pathological_voice001.wav,VOICED:voice001,hyperkinetic dysphonia,development demonstration
