@@ -1,0 +1,6 @@
+{
+  "inner_fit_partitions_audited": 210,
+  "speaker_overlap": 0,
+  "training_inference_feature_parity": "passed (acoustics and WavLM, one fixed development recording)",
+  "scope": "Partition and numerical checks; does not establish clinical validity."
+}

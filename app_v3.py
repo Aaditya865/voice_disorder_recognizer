@@ -80,6 +80,8 @@ if result is not None:
     st.caption(f'Analyzed {result["metadata"]["analyzed_seconds"]:.2f} seconds; waveform at {result["sample_rate"]} Hz. Inference took {result["elapsed_seconds"]:.2f} seconds. Uploads remain in memory and are not saved to disk by this app.')
 
 with st.expander('Measured results, scope and limitations'):
+    st.info('Latest experiment: 198 additional development speakers and acoustic, CNN, WavLM and ensemble candidates did not improve the predefined validation comparison. The previous v3 model remains active; uncertainty rules were not weakened.')
+    st.caption('On the same participants, v4 minus v3 balanced accuracy was -0.005204 on SVD and -0.057105 on VOICED. These are development comparisons, not independent external-test results.')
     st.write('Development: 1,212 SVD participants and 208 VOICED participant proxies. All previously evaluated recordings are development data for this revision.')
     st.write('Four outer participant-disjoint folds assess a model-selection procedure using three inner folds. No new untouched external evaluation is available.')
     st.dataframe(service.metrics[['role','source','n','balanced_accuracy_mean','balanced_accuracy_std',

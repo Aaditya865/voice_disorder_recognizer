@@ -27,3 +27,6 @@ Launch OPEN_WEBSITE.cmd before the review. Keep demo_v3/ and the presentation op
 ## Fallback
 
 Use the installed local app without internet. Keep the slides and V3_REPORT.md ready if hardware fails. app_svd_v2.py preserves the historical app, but its outputs and metrics must be labeled as historical. Never describe selected successful examples as unseen tests.
+# Latest experiment note for the review
+
+We completed a separate experiment with 198 additional SVD development speakers, 14 model configurations and a GMM/DNN ensemble. The larger experiment did not improve the predefined paired validation comparison, especially on VOICED. We retained the working v3 model and its uncertainty rules. WavLM and CNN complexity did not establish better generalization. See V4_REPORT.md for actual results and the separately reserved pathological-only challenge. This is an honest negative finding, not a successful accuracy upgrade.

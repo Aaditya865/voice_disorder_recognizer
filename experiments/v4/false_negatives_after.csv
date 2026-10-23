@@ -1,0 +1,146 @@
+source,diagnosis,n,false_negatives
+SVD,Aryluxation,1,0
+SVD,"Aryluxation, Hyperfunktionelle Dysphonie",2,0
+SVD,Balbuties,11,8
+SVD,"Balbuties, Laryngitis",1,1
+SVD,Bulbärparalyse,2,0
+SVD,Chordektomie,6,2
+SVD,"Chordektomie, Stimmlippenpolyp",1,0
+SVD,"Chordektomie, Synechie",1,0
+SVD,"Chordektomie, Taschenfaltenstimme",3,1
+SVD,Cyste,2,1
+SVD,"Diplophonie, Kontaktpachydermie",1,0
+SVD,Dysarthrophonie,6,2
+SVD,"Dysarthrophonie, Amyotrophe Lateralsklerose",1,0
+SVD,Dysodie,11,9
+SVD,"Dysodie, Funktionelle Dysphonie",1,0
+SVD,"Dysodie, Hyperfunktionelle Dysphonie",1,1
+SVD,"Dysodie, Kontaktpachydermie",1,1
+SVD,Dysphonie,24,16
+SVD,"Dysphonie, Dysodie",1,0
+SVD,"Dysphonie, Kontaktpachydermie",1,0
+SVD,"Dysphonie, Laryngitis",2,0
+SVD,"Dysphonie, Laryngitis, Vox senilis",1,0
+SVD,"Dysphonie, Phonasthenie",1,0
+SVD,"Dysphonie, Reinke Ödem",1,0
+SVD,"Dysphonie, Stimmlippenkarzinom",1,0
+SVD,Dysplastischer Kehlkopf,1,0
+SVD,"Fibrom, Hyperfunktionelle Dysphonie",1,0
+SVD,Frontolaterale Teilresektion,4,0
+SVD,Funktionelle Dysphonie,60,26
+SVD,"Funktionelle Dysphonie, Dysodie",10,6
+SVD,"Funktionelle Dysphonie, Kontaktpachydermie",6,3
+SVD,"Funktionelle Dysphonie, N. laryngeus superior Neuralgie",1,1
+SVD,"Funktionelle Dysphonie, Phonasthenie",1,1
+SVD,"Funktionelle Dysphonie, Phonationsknötchen",1,1
+SVD,"Funktionelle Dysphonie, Psychogene Dysphonie",9,5
+SVD,"Funktionelle Dysphonie, Psychogene Dysphonie, Reinke Ödem, Phonationsknötchen, Phonationsknötchen",1,1
+SVD,"Funktionelle Dysphonie, Vox senilis",2,1
+SVD,"GERD, Kontaktpachydermie",1,1
+SVD,Gesangsstimme,8,6
+SVD,Granulom,1,0
+SVD,Hyperfunktionelle Dysphonie,125,76
+SVD,"Hyperfunktionelle Dysphonie, Diplophonie",2,1
+SVD,"Hyperfunktionelle Dysphonie, Dysodie",7,6
+SVD,"Hyperfunktionelle Dysphonie, Kontaktpachydermie",3,2
+SVD,"Hyperfunktionelle Dysphonie, Laryngitis",3,1
+SVD,"Hyperfunktionelle Dysphonie, Phonationsknötchen",5,5
+SVD,"Hyperfunktionelle Dysphonie, Psychogene Dysphonie",9,5
+SVD,"Hyperfunktionelle Dysphonie, Reinke Ödem",2,1
+SVD,"Hyperfunktionelle Dysphonie, Rhinophonie clausa",1,0
+SVD,"Hyperfunktionelle Dysphonie, Sigmatismus",1,1
+SVD,"Hyperfunktionelle Dysphonie, Stimmlippenpolyp",1,1
+SVD,Hypofunktionelle Dysphonie,3,1
+SVD,Hypopharynxtumor,2,0
+SVD,Hypotone Dysphonie,1,0
+SVD,Intubationsgranulom,3,0
+SVD,Kehlkopftumor,1,0
+SVD,Kontaktpachydermie,9,5
+SVD,"Kontaktpachydermie, Hyperfunktionelle Dysphonie",2,0
+SVD,"Kontaktpachydermie, Laryngitis",1,1
+SVD,"Kontaktpachydermie, Monochorditis",2,1
+SVD,"Kontaktpachydermie, Psychogene Dysphonie",1,1
+SVD,"Kontaktpachydermie, Rhinophonie aperta",1,1
+SVD,Laryngitis,73,36
+SVD,"Laryngitis, Carcinoma in situ",1,0
+SVD,"Laryngitis, Dysphonie",3,3
+SVD,"Laryngitis, Epiglottiskarzinom",1,1
+SVD,"Laryngitis, Hyperfunktionelle Dysphonie",3,1
+SVD,"Laryngitis, Kontaktpachydermie",1,1
+SVD,"Laryngitis, Leukoplakie",17,5
+SVD,"Laryngitis, Leukoplakie, Hyperfunktionelle Dysphonie",1,0
+SVD,"Laryngitis, Monochorditis",1,0
+SVD,"Laryngitis, Reinke Ödem",5,0
+SVD,"Laryngitis, Reinke Ödem, Vox senilis",1,0
+SVD,"Laryngitis, Stimmlippenpolyp",1,1
+SVD,"Laryngitis, Vox senilis",2,1
+SVD,Laryngozele,1,1
+SVD,Leukoplakie,3,1
+SVD,"Leukoplakie, Laryngitis",3,2
+SVD,Mutationsfistelstimme,2,2
+SVD,"Mutationsfistelstimme, Kontaktpachydermie",1,1
+SVD,"Mutationsfistelstimme, Rhinophonie aperta",1,1
+SVD,N. laryngeus superior Läsion,3,3
+SVD,Non-fluency-Syndrom,1,1
+SVD,Orofaciale Dyspraxie,1,0
+SVD,Papillom,1,0
+SVD,Phonasthenie,3,0
+SVD,Phonationsknötchen,1,0
+SVD,"Phonationsknötchen, Hyperfunktionelle Dysphonie",3,2
+SVD,"Phonationsknötchen, Stimmlippenpolyp",1,1
+SVD,Poltersyndrom,1,1
+SVD,Psychogene Aphonie,1,1
+SVD,Psychogene Dysphonie,15,6
+SVD,"Psychogene Dysphonie, Funktionelle Dysphonie",2,2
+SVD,"Psychogene Dysphonie, Hyperfunktionelle Dysphonie",7,0
+SVD,Reinke Ödem,9,3
+SVD,"Reinke Ödem, Hyperfunktionelle Dysphonie",3,2
+SVD,"Reinke Ödem, Laryngitis",3,1
+SVD,"Reinke Ödem, Rekurrensparese",1,0
+SVD,"Reinke Ödem, Stimmlippenpolyp",1,0
+SVD,Rekurrensparese,141,37
+SVD,"Rekurrensparese, Dysphonie",1,1
+SVD,"Rekurrensparese, Hyperfunktionelle Dysphonie",1,0
+SVD,"Rekurrensparese, Kontaktpachydermie",2,2
+SVD,"Rekurrensparese, Laryngitis",1,0
+SVD,"Rekurrensparese, Reinke Ödem",3,1
+SVD,"Rekurrensparese, Stimmlippenpolyp",1,0
+SVD,"Rekurrensparese, Vox senilis",1,0
+SVD,"Rekurrensparese, Zentral-laryngale Bewegungsstörung",1,1
+SVD,Rhinophonie aperta,3,2
+SVD,"Rhinophonie aperta, Velopharyngoplastik",1,1
+SVD,Rhinophonie mixta,1,1
+SVD,Spasmodische Dysphonie,2,1
+SVD,"Spasmodische Dysphonie, Hyperfunktionelle Dysphonie",1,1
+SVD,Stimmlippenkarzinom,6,1
+SVD,Stimmlippenpolyp,6,3
+SVD,"Stimmlippenpolyp, Hyperfunktionelle Dysphonie",2,0
+SVD,"Stimmlippenpolyp, Laryngitis",1,1
+SVD,Valleculacyste,1,0
+SVD,Velopharyngoplastik,1,1
+SVD,Vox senilis,14,3
+SVD,"Vox senilis, Hyperfunktionelle Dysphonie",2,0
+SVD,Zentral-laryngale Bewegungsstörung,3,0
+VOICED,hyperkinetic dysphonia,43,24
+VOICED,hyperkinetic dysphonia  (rigid vocal fold),1,0
+VOICED,hyperkinetic dysphonia (adduction deficit),1,0
+VOICED,hyperkinetic dysphonia (cordite),1,0
+VOICED,hyperkinetic dysphonia (nodule),5,3
+VOICED,hyperkinetic dysphonia (polyps),6,3
+VOICED,hyperkinetic dysphonia (prolapse),9,2
+VOICED,hyperkinetic dysphonia (reinke's edema),3,1
+VOICED,hyperkinetic dysphonia (vocal fold nodules),1,0
+VOICED,hyperkinetic dysphonia (vocal fold paralysis),1,0
+VOICED,hyperkinetic dysphonia (vocal fold prolapse),1,0
+VOICED,hypokinetic dysphonia,22,5
+VOICED,hypokinetic dysphonia (adduction deficit),1,1
+VOICED,hypokinetic dysphonia (bilateral vocal fold),1,0
+VOICED,hypokinetic dysphonia (conversion dysphonia),1,0
+VOICED,hypokinetic dysphonia (dysphonia by chordal groove),1,1
+VOICED,hypokinetic dysphonia (extraglottic air leak),1,0
+VOICED,hypokinetic dysphonia (glottic insufficiency),7,0
+VOICED,hypokinetic dysphonia (laryngitis),1,0
+VOICED,hypokinetic dysphonia (presbiphonia),1,0
+VOICED,hypokinetic dysphonia (spasmodic dysphonia),1,0
+VOICED,hypokinetic dysphonia (vocal fold paralysis),4,0
+VOICED,reflux laryngitis,38,21

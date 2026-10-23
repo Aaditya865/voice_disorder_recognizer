@@ -1,0 +1,6 @@
+{
+  "model": "microsoft/wavlm-base-plus",
+  "revision": "4c66d4806a428f2e922ccfa1a962776e232d487b",
+  "pooling": "mean and standard deviation of layer 6",
+  "input": "16kHz; waveform zero mean/unit variance; central maximum 5s"
+}

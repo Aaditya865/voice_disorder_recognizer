@@ -33,3 +33,13 @@ artifacts_svd_reproduction/
 data/v3/
 data/svd_v2/
 runs/
+
+experiments/v4/new_audio/
+experiments/v4/wavlm/
+experiments/v4/fit_cache/
+experiments/v4/*embedding_cache/
+experiments/v4/features.npz
+experiments/v4/embeddings.npz
+experiments/v4/development_private.csv
+experiments/v4/download_audit.csv
+experiments/v4/new_svd_candidates.csv

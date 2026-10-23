@@ -1,0 +1,446 @@
+record_id,speaker_id,role,label,source,diagnosis,raw_hash,error
+SVD:101,SVD:1301,development,1.0,SVD,Bulbärparalyse,1907f953f6246d18963c50a9252cdc6a7a1d93d804a36600a016dd38cd0b44a7,
+SVD:109,SVD:1306,development,1.0,SVD,Stimmlippenpolyp,b8e4184c903e97dfe620f24d7d54ae72c91f189f624fb7b776a9bca39d221b57,
+SVD:111,SVD:1308,development,1.0,SVD,Velopharyngoplastik,904e7256e5400e693d15a51c2b4918cf393cd49ee2ee4614fa7a4d9481ee9ea0,
+SVD:118,SVD:1309,sealed_pathological_challenge,1.0,SVD,Sängerstimme,6dbb8b290c933fcb8505aed32437eafa8763382c575e440086bc96fd8d06b60f,
+SVD:131,SVD:1317,development,1.0,SVD,"Phonationsknötchen, Stimmlippenpolyp",d578be5a5108192cb55438d2f1fbc3356bd74112ddd5781fe56d334ac2777d6c,
+SVD:143,SVD:1322,sealed_pathological_challenge,1.0,SVD,Spasmodische Dysphonie,81454a287b0a984ef382e25b76e936022879878d2a3b1c71c9fbf7ffcd25dba7,
+SVD:146,SVD:1324,development,1.0,SVD,Leukoplakie,f5020ed051cf8a3f5960d9ceec670e21698d3f04424eeeafa336c5278abee212,
+SVD:147,SVD:1325,development,1.0,SVD,"Mutationsfistelstimme, Rhinophonie aperta",9a409b98d414aa1c1aeaf7dafcedf734304c52427abb7087d54bff9b88b27ecd,
+SVD:149,SVD:1327,sealed_pathological_challenge,1.0,SVD,Non-fluency-Syndrom,c03ef00a9370ba2c8078a1ae036cd5d6c8badf8d9a0e33dae3c0bb522e61f0f0,
+SVD:154,SVD:1334,sealed_pathological_challenge,1.0,SVD,Gesangsstimme,d9e1989d2334965a7a9441191356578cad5663790c3c96f43c02b5c055ac8345,
+SVD:349,SVD:1337,development,1.0,SVD,Mutationsfistelstimme,d7cdce1878e3869b013648c9fded67001d34431cb0852ec653631fedd0feb34e,
+SVD:357,SVD:1343,development,1.0,SVD,N. laryngeus superior Läsion,2eadcafc90042e40bbe67ff2460111a494b98180445f416d003e90d35f434448,
+SVD:359,SVD:1345,sealed_pathological_challenge,1.0,SVD,Zentral-laryngale Bewegungsstörung,cd1bc75892555748162b2e00953f8a4480e1c4cea955b4cd375d25b96435aa47,
+SVD:360,SVD:1347,development,1.0,SVD,Vox senilis,45aa7a55d8028eb0e41ba23a3ba3267c8c02b289b0dd5a08df6e1b5c9318fa98,
+SVD:366,SVD:1351,development,1.0,SVD,Psychogene Dysphonie,fd61f9b28a54ff395149cf549d5ce1f3b0d6d340e6d5fff18c57d89b0f66c101,
+SVD:367,SVD:1352,development,1.0,SVD,Dysodie,abdb317d1c0b932c3b4f400bb6659db38146945deefb7c0729d150a833fdf833,
+SVD:368,SVD:1353,development,1.0,SVD,Dysphonie,b3d92961590a142d6f4dd0d3037452c47675047178f5a06df145e7bf97a7aaef,
+SVD:445,SVD:1354,sealed_pathological_challenge,1.0,SVD,Dysphonie,454bbd4d141cbf3bf7e00df54d0b9046d8914be25ad90c8fd3f30f28e1ba5352,
+SVD:446,SVD:1355,development,1.0,SVD,"Dysphonie, Kontaktpachydermie",6f134edeed3a2e0070ef311330109f78ad4e7d3929458b1a95767f77acb4d120,
+SVD:447,SVD:1356,sealed_pathological_challenge,1.0,SVD,Rhinophonie aperta,9eadd11cd7c9fb501499f9639afe63000e8c6d05154d0e49326f544794bd5834,
+SVD:451,SVD:1360,development,1.0,SVD,Dysphonie,ed0241dfab0d4bd6bb26c07d9ed7115a85b8522da5e0b446489a07574daa0289,
+SVD:491,SVD:1363,development,1.0,SVD,"Chordektomie, Stimmlippenpolyp",bef04756728b4512eed73e5c655da1f2cb2f9b6be62774b150acf0e319558588,
+SVD:494,SVD:1366,development,1.0,SVD,Dysphonie,4ce5e6dad6f27dd75606eedc3c835cee2363d7fb55bf2c4cbf1d76ff1f1e6c5b,
+SVD:496,SVD:1367,development,1.0,SVD,Phonasthenie,e959b7e7c61492720f326b4362bd8561ed560c8c55f817097dd6241315ef6039,
+SVD:500,SVD:1373,development,1.0,SVD,Stimmlippenkarzinom,8270c4c9962f5829293c69ec5e43a22358e90b96e93fe793cf022f2b282b0471,
+SVD:501,SVD:1374,development,1.0,SVD,Stimmlippenpolyp,40b69cfbe4527b5d10869874fb4a530b30de19739a55226f7d135a132e25580d,
+SVD:502,SVD:1375,development,1.0,SVD,Phonasthenie,3eabff540ab74193a58e7e121261dd175409e6ab4b67fee46aa4d438a4049300,
+SVD:561,SVD:1376,sealed_pathological_challenge,1.0,SVD,Dysphonie,fa9a6aa20c094ffa72ff84c4dfd1f111ac78a906b818a5f0cb90323cdbba438c,
+SVD:562,SVD:1377,development,1.0,SVD,Stimmlippenpolyp,5e0f255d8920d1741e53d6cc0a41b20cde72c9c25779cb0da399af19cc6575b0,
+SVD:564,SVD:1381,development,1.0,SVD,Reinke Ödem,04245b0d26244ea78cf926b88e1247e26f538d33e7b1c16af5c11dd0a53b314b,
+SVD:612,SVD:1387,development,1.0,SVD,Vox senilis,2eef6f09a6c017da3883e809e4288ffd693c1613bff836fec438353cd9102b8c,
+SVD:628,SVD:1384,sealed_pathological_challenge,1.0,SVD,Chordektomie,4e3d90fd8925282da8bc0042b86ce2c841b2ac58cb65aa9e9e9b7d6cdb4c7a90,
+SVD:666,SVD:1393,development,1.0,SVD,Gesangsstimme,79c6534e32a197f325e3d9e3057f61439ac4144a2d76800f7f93ae73d44fb79e,
+SVD:667,SVD:1394,sealed_pathological_challenge,1.0,SVD,Juvenile Dysphonie,ebbbbe97429db7a4f2a526c2cd92a5cac36e1175ddcbdfcb1379b503045b6219,
+SVD:668,SVD:1395,development,1.0,SVD,Balbuties,babb5141e714cbf96199c94d78dd5de20451bf8bfeb708c133329e74399b73a5,
+SVD:672,SVD:1399,development,1.0,SVD,Balbuties,c5fabe22d7a59bb40b6127af5aaf97568447bc84cbbb2c924fae658f96a8cf72,
+SVD:673,SVD:1400,development,1.0,SVD,Dysodie,3592bcdabf691ecc5a52e18370f199262dec4ce31d3ad9a02c6c7c1b4a313c1a,
+SVD:693,SVD:1403,development,1.0,SVD,Rhinophonie aperta,d97610af87cca48217272995712f1d7ed61015ed26afc17c71ccdf0da9537fc5,
+SVD:714,SVD:1406,sealed_pathological_challenge,1.0,SVD,Dish-Syndrom,6b627e1228cd5721e7c2259b9fabecc2ffe7ff65a5fe7915717e4c4e3004cb8b,
+SVD:719,SVD:1411,development,1.0,SVD,"Chordektomie, Taschenfaltenstimme",963290a18e778265ea34b7788442705474179b097552ef7013070221a814eca8,
+SVD:720,SVD:1412,development,1.0,SVD,"Reinke Ödem, Stimmlippenpolyp",8912117bb8f4f4f429122aa710a0955c69b14411a7c6c523939423422a56364b,
+SVD:721,SVD:1413,development,1.0,SVD,Kontaktpachydermie,4488363fddcc7cced22209c9e060af2275433606840dc30c68dbc7fcd2f5d0f2,
+SVD:731,SVD:1423,development,1.0,SVD,Hypopharynxtumor,c3b30d1bbf6b7d218d8ea72240b65df80a66cbe7ddfe8556c080e20039837309,
+SVD:742,SVD:1425,development,1.0,SVD,"Dysphonie, Stimmlippenkarzinom",ca6ad1cd5344680e9320fbc4cfc0dfdd5605ca42300b1206e5e64259dc8b129b,
+SVD:814,SVD:1426,development,1.0,SVD,"Mutationsfistelstimme, Kontaktpachydermie",66c8059f14f16f57ad797c492c0949b9364b56e9cc52690f096839c6735b2f6c,
+SVD:815,SVD:1427,development,1.0,SVD,Frontolaterale Teilresektion,9bd7d1cb731ba0473eb160c142cf452822baaf67e20568d9175903af479683fe,
+SVD:816,SVD:1428,development,1.0,SVD,Vox senilis,e8bb9575d4b32cd9fa2450f3a9fb622be3fbd85bb83afac2eb8e9a4dd1c0f1a7,
+SVD:817,SVD:1429,development,1.0,SVD,Gesangsstimme,cd445e2e81d49d5ebd31f4d3ff87881f29285ad4a44222e06f91663fd15fafc4,
+SVD:820,SVD:1432,development,1.0,SVD,Dysplastischer Kehlkopf,06eedfee1b82f4b902c3abc5eb0a2ba1069f2e5a4f1cc7e075b140a56bd10a2d,
+SVD:821,SVD:1433,sealed_pathological_challenge,1.0,SVD,Reinke Ödem,b80191120cde7c3623ff4c82315e1faba3bbcbbf704bb07086be51bde8f728af,
+SVD:823,SVD:1435,sealed_pathological_challenge,1.0,SVD,Psychogene Dysphonie,4dbd753e2ff8a29b33630baa13a413e4ff163cc2d79f4d727e6ebca315fa056e,
+SVD:826,SVD:1438,development,1.0,SVD,Vox senilis,b0d0d6c1167afb92904b1b6d2734c6e0f5316b6fe60720c3cdf8b16f6555947c,
+SVD:830,SVD:1442,development,1.0,SVD,Dysodie,74abf411749526cad248771db866c7d60589528cf32f7c5f426195cd4cf3cc42,
+SVD:845,SVD:1444,development,1.0,SVD,Chordektomie,01e5502091348174f3f2b00b2603dd95c3af6dd85a8715aacd8a98a5e31c1583,
+SVD:846,SVD:1445,development,1.0,SVD,Vox senilis,5a1987d4977e4a65693cf6b863b14cd4e5c158baf2e6ac228f9f5f9648a6b897,
+SVD:847,SVD:1446,development,1.0,SVD,Chordektomie,57a159a603b07d5f04a1da74920730b91f800ed1eb9854596695afb4eb0dcf9f,
+SVD:848,SVD:1447,development,1.0,SVD,Psychogene Dysphonie,43be2321e8779fbbfa05cf45b0012f99ee5c29ffc8d8b3951157e18ff56e6e26,
+SVD:853,SVD:1451,development,1.0,SVD,Rhinophonie mixta,28f5830a58f82eb4b44b4e84fe3831735b565840df398bb4d3d8fd03fb1eaeb9,
+SVD:863,SVD:1455,sealed_pathological_challenge,1.0,SVD,Leukoplakie,1a301bf5e003fd0556cc2193c0fa72203c9f45f9515e2e7b55919a7743c99326,
+SVD:872,SVD:1468,development,1.0,SVD,"Dysphonie, Phonasthenie",a1dd9991128cc29bf6dcd0c0f765bac503f948ce6540d8c2c1ec3e2357d45b5b,
+SVD:873,SVD:1469,development,1.0,SVD,Chordektomie,186c7e3008b964eced50060b3f72436a7621f76338689cf48eaf0656edcc6138,
+SVD:876,SVD:1472,development,1.0,SVD,"Diplophonie, Kontaktpachydermie",80e6f8127f4f145e862c4be2b3dcd307a0c03a7fc3185275fa99f2ebc06b0b30,
+SVD:885,SVD:1479,sealed_pathological_challenge,1.0,SVD,Psychogene Dysphonie,c32b3b7b02fad43fdf8eb62227f345f3dacac421fcce804b2bdad7a77251bc92,
+SVD:891,SVD:1485,development,1.0,SVD,Frontolaterale Teilresektion,e6ba4a36ef7735930b94534ab27906ba376dbd6c95fa1102098daa8b2915a943,
+SVD:892,SVD:1486,sealed_pathological_challenge,1.0,SVD,Balbuties,9d760c5e8593163fc7d4c28686790e7a71e6a384bc26d4bed7ad22278803efd5,
+SVD:895,SVD:1454,sealed_pathological_challenge,1.0,SVD,"Stimmlippenpolyp, Kontaktpachydermie",6cec976d64e08486b732c82e01631ddc87009c3804c0c5f6a2dbfe7305120428,
+SVD:899,SVD:1491,development,1.0,SVD,Vox senilis,69039fb87eeeff1f646a86dd324c65b25d03bf3e6aaac8106e5aadf6d99ada32,
+SVD:900,SVD:1492,development,1.0,SVD,Phonationsknötchen,a133a0e60d84fa5f92b32da81af3c39e9a86a1bc02c8b13bf995df997e3eb909,
+SVD:901,SVD:1494,sealed_pathological_challenge,1.0,SVD,"Spasmodische Dysphonie, Reinke Ödem",9b73dfd964bb0c353cd234e153cf86f52a0c9f10ed74197a6be1ff566864e686,
+SVD:903,SVD:1497,development,1.0,SVD,Chordektomie,1c1d99e95a632480edd80eb8a323180fd6c249befbefb599701c455c7e27478a,
+SVD:911,SVD:1503,development,1.0,SVD,Psychogene Dysphonie,7ea32ef9a0ac062f89594c3b5aa6d193e2c55f42e07e8183c2809aec6f0f1639,
+SVD:915,SVD:1508,development,1.0,SVD,Chordektomie,257ce70fadeb79da2e10a24f65166476f09a8171b7ed90dba4c2471bbabd7ad6,
+SVD:916,SVD:1509,development,1.0,SVD,Dysphonie,3b67de488bca4870f00c74db2a222c37fa26b71a3017cf1dd8f4881adef2c8e0,
+SVD:917,SVD:1510,development,1.0,SVD,Psychogene Dysphonie,867c4ef8df5a124b88d7806f1493eefece2e5327c17eb5fc716a6e7c17bf6a73,
+SVD:921,SVD:1513,sealed_pathological_challenge,1.0,SVD,Dysarthrophonie,da2a3244f47062b5494834fd587030ecd380db3df2e8f1293a14f4e3f86d468c,
+SVD:923,SVD:1515,sealed_pathological_challenge,1.0,SVD,Kontaktpachydermie,6451fa83fca4bdf44ea1605a4ef1567e85c0de55a7604b8b2419f97cd4fe2a1b,
+SVD:925,SVD:1517,sealed_pathological_challenge,1.0,SVD,Dysphonie,5a28e8b59039847f35e18420ec84d1b73e8f5e6f0f88cb806536d02444411b4d,
+SVD:927,SVD:1519,sealed_pathological_challenge,1.0,SVD,Rhinophonie aperta,ac4c9347cd6d2057803d09c246db7478acabb99886a8d6152fd63de1f686fbfc,
+SVD:933,SVD:1525,development,1.0,SVD,Vox senilis,12230fcc6bbc66be07f03ad217474b4535bfd6cc183260f7839baf08f264f57d,
+SVD:937,SVD:1529,development,1.0,SVD,Psychogene Aphonie,14b0aade0c5651991373add39fc451c574ad02d5d208f939a61cbe5444e49ec2,
+SVD:938,SVD:1530,development,1.0,SVD,Rhinophonie aperta,42f2beabb89675864c556c82e6f017f6aced376af321469c6ec1f9744591c991,
+SVD:939,SVD:1531,development,1.0,SVD,Gesangsstimme,4a257fd8e2664b033b7245e976edf24029eedc07bca5402f2282abaf006fbda8,
+SVD:940,SVD:1532,development,1.0,SVD,Kehlkopftumor,42791a8c03792e2e7edffe2a679f1df9f706fb182c402b1179b92237d2b749e1,
+SVD:1038,SVD:1534,development,1.0,SVD,Gesangsstimme,bb327ab9d2ce98e157baa3cb4ddfd4c8cf0532c8507ec8314680f7ecdfe020b8,
+SVD:1039,SVD:1535,sealed_pathological_challenge,1.0,SVD,Vox senilis,8d98ef1f7060f6ccafb248b545ffa123d0c3c78fe22c2564395e6069a20d0cc6,
+SVD:1041,SVD:1537,development,1.0,SVD,Gesangsstimme,a6026b4d15ac81b29380f15da96cc401ca4c4aa4ffcc4cb099da57e7300c9331,
+SVD:1042,SVD:1538,sealed_pathological_challenge,1.0,SVD,Psychogene Dysphonie,2a3e6a770dac9fb31bcb2476a278ea32289bc817b718e6f67468a061c7540857,
+SVD:1045,SVD:1541,development,1.0,SVD,Reinke Ödem,6f0fe324417dd2221efb2090eb50b5b8171f85fce1e424516cc79fa936731fe4,
+SVD:1048,SVD:1544,development,1.0,SVD,Stimmlippenkarzinom,e644bb4b591b173434d78e10cc7c6f676741eca2b1604ed7d8437245f8bb0484,
+SVD:1053,SVD:1551,development,1.0,SVD,Psychogene Dysphonie,2638ad402f1b201487edef508e2c9456bebca3826b3f527eff1b3ef48375ae1f,
+SVD:1055,SVD:1554,development,1.0,SVD,Orofaciale Dyspraxie,b4dd7b41e4df2f677d5406fa0c27f972042b570af496834aa04924b98466c38c,
+SVD:1115,SVD:1565,development,1.0,SVD,"Rhinophonie aperta, Velopharyngoplastik",20684312f22a74e2ecb596da5f6b729f9a30b4edb24d28b26386e71b65beda1e,
+SVD:1116,SVD:1566,development,1.0,SVD,N. laryngeus superior Läsion,d25bab48506f1e426987820e6a23c239a8525f1c321966e072922f2bc55f1153,
+SVD:1117,SVD:1567,sealed_pathological_challenge,1.0,SVD,"Hypofunktionelle Dysphonie, GERD",95a1d660823435ebed4e9518de0aee6645e35ee60712d210ac9197733b825de1,
+SVD:1156,SVD:1573,development,1.0,SVD,Hypofunktionelle Dysphonie,283c61300d01c9b686e7cca16cf135da17e9047c60e81cb8c4c4ed12f298052e,
+SVD:1157,SVD:1574,sealed_pathological_challenge,1.0,SVD,Stimmlippenpolyp,fd87d2978f12b72eac4cad4580893597c5ce02e1c90873b6d1c961ca65fdfd91,
+SVD:1158,SVD:1575,development,1.0,SVD,Intubationsgranulom,da43771846c81aade46eaf4def3887cea47a1d2f3706cd64887954d07d10cecf,
+SVD:1160,SVD:1577,development,1.0,SVD,Gesangsstimme,ed4faf444942968af56ca6539c22ca312b1e9cbfe59f1aabc22d9dbf7159d7f7,
+SVD:1162,SVD:1579,sealed_pathological_challenge,1.0,SVD,"Frontolaterale Teilresektion, Synechie",49dcbd683778f1c6148474741b809fe08150dce4b56d15f38dacf80761e5383a,
+SVD:1186,SVD:1583,sealed_pathological_challenge,1.0,SVD,Leukoplakie,9b59fd544d7fba74598fe4d351d57a088266848b8e6e130ff36bd8f59a5b4f32,
+SVD:1187,SVD:1585,development,1.0,SVD,Dysphonie,c7ec926c9ee3549fcbb132dafe325b79245038a0dd14ff66503f6de318c3cdfb,
+SVD:1194,SVD:1590,sealed_pathological_challenge,1.0,SVD,Dysphonie,909c00707b236b4067f6e6315b3457bd722b9843d1ecb37c59f092a0c53729f8,
+SVD:1195,SVD:1591,development,1.0,SVD,Kontaktpachydermie,6dafd8dc94832c78ffcd5efe28de73cd9b02f44d5deda114393358fca3179f8c,
+SVD:1197,SVD:1594,development,1.0,SVD,Vox senilis,f4ea12c9b36559080ce0f2800455bd3b9ced3221060a6ffa0b3c43af67b442a0,
+SVD:1201,SVD:1597,development,1.0,SVD,Aryluxation,635fb37f4bca7ad8b617a8e0e5a784265f6b45b57d4cf7f99a2c252ac30f505b,
+SVD:1202,SVD:1598,development,1.0,SVD,Non-fluency-Syndrom,7045c353293ef0c0d97ce238c9e6fe7e95fe50631fa71e735ea10c78c3c7714c,
+SVD:1203,SVD:1600,sealed_pathological_challenge,1.0,SVD,"Dysodie, Vox senilis",10a299a3711af2e4a2c7fbc955e9914f724a058992af9cedcc1dde2804838abb,
+SVD:1205,SVD:1602,development,1.0,SVD,Laryngozele,059d8f159ce45649bfb5c2af175b42b91aedf558bbc6226262408cdab983ee4a,
+SVD:1217,SVD:1603,development,1.0,SVD,Chordektomie,cddd4ded70f62fc0e1416a614f70d4a9064e2fa003e633464fcba28dd3763d1b,
+SVD:1218,SVD:1604,development,1.0,SVD,"GERD, Kontaktpachydermie",5b50d2c8160fed561a0901c138d78c443cbee08618723b691efcffaca345e644,
+SVD:1219,SVD:1606,sealed_pathological_challenge,1.0,SVD,Dysphonie,968ff720cffc4683fbda513a03ecb78902ffdcb95b151e53b225c87f14ef00db,
+SVD:1220,SVD:1608,development,1.0,SVD,Vox senilis,2c71244299cafddf5beef6783b47c01ef57cd9a89a7fda5fb2eb9aa3c8d6feb8,
+SVD:1224,SVD:1612,development,1.0,SVD,Gesangsstimme,85725d65e22610fa73003384a0a0febe9e3fbb3e9ac621d153363ad7a5c56e50,
+SVD:1225,SVD:1613,development,1.0,SVD,Psychogene Dysphonie,3369f5b3a9c190c495f95a31a4c470c8e11a6a40d46382d570c32e9e8cf51449,
+SVD:1227,SVD:1615,development,1.0,SVD,Bulbärparalyse,3ee63ceca32df971af1b0e949f445302728cc103b7c019cd359370be2868f3ec,
+SVD:1234,SVD:1620,development,1.0,SVD,Frontolaterale Teilresektion,fdc0b28f97c43fbd1fbcbdeba069fd363076ea6eca2d851f36f80fdbdb384214,
+SVD:1239,SVD:1625,development,1.0,SVD,Stimmlippenkarzinom,8c62030c02490f2a00a1948fb0d701292d6c752ee75cca41179d5cd98c4a11cc,
+SVD:1242,SVD:1630,development,1.0,SVD,"Dysarthrophonie, Amyotrophe Lateralsklerose",c4010c317a62eba177204c5f40ab2470899e33aadd679a4905fdd1110b8650bb,
+SVD:1247,SVD:1633,sealed_pathological_challenge,1.0,SVD,"Dysphonie, Stimmlippenkarzinom",c084b429758f9be3631b43d93bc1324c8fa79c0148a6caa0f9e0887a5e2ecd5a,
+SVD:1251,SVD:1637,development,1.0,SVD,"Kontaktpachydermie, Rhinophonie aperta",5775fd3877dcba4d0d53d941c56cb1efa04337c32e91b10f46cfd0d5019b1ae5,
+SVD:1252,SVD:1638,development,1.0,SVD,Leukoplakie,962f0f091f0a25786833b5a4def67f948d2fd500890f23a99d595e2a7469986d,
+SVD:1253,SVD:1639,development,1.0,SVD,Reinke Ödem,4d98fa35b7322dc4ca830cc526268b936817b44080ef25d70da020c25dff082d,
+SVD:1268,SVD:1656,development,1.0,SVD,Vox senilis,02690366b7afb8406c36828a9ba3ae030b1c411f6b509e72dc76e69f125f14f5,
+SVD:1273,SVD:1659,development,1.0,SVD,Stimmlippenkarzinom,234bf78ae470ecfc27cfc30ac012a9dd45acfb7b8f265ec170855cd1e408479d,
+SVD:1275,SVD:1662,sealed_pathological_challenge,1.0,SVD,Gesangsstimme,0014a3c42aff70ea64b5e415e7574049f232813c4e0b87bffdd09dff4f676c53,
+SVD:1286,SVD:1674,development,1.0,SVD,Gesangsstimme,8eaa91ffbea330efdb880ed29da9bff01e6902132d269add0bc8cc4b11cdaf42,
+SVD:1291,SVD:1676,development,1.0,SVD,Hypofunktionelle Dysphonie,ebae75c7c521bb0b4abac56dea1e92f2757ed55640bcb50b02b7870410bb37eb,
+SVD:1296,SVD:1681,development,1.0,SVD,Balbuties,40295e8eba2b9cf58d6a9232a47b17446ca72872fe54832b726b3d1136d3587a,
+SVD:1297,SVD:1682,development,1.0,SVD,Balbuties,e1f740d71fcd75d05684e62e0484e7079554c4ff04ad8e6b8e0e38d5bb72c81f,
+SVD:1298,SVD:1683,development,1.0,SVD,Mutationsfistelstimme,c33df5ff2b8d885f6f70c13c4137c372463351e91838f2090ba9bad74f7d3ad5,
+SVD:1302,SVD:1564,development,1.0,SVD,Valleculacyste,1ce16d74209b19767bb46c110826855f906b1880bb7f9f154d3e387747691e7f,
+SVD:1305,SVD:1690,development,1.0,SVD,Kontaktpachydermie,737a0e73e58462d072fff26eb8351944dd1dcb49e58f2643fd7a166b3ac41ece,
+SVD:1306,SVD:1691,development,1.0,SVD,Psychogene Dysphonie,ff81fc90f4402e530be9d26adf9128996db8805727dce87139c9f8d9d24238cb,
+SVD:1316,SVD:1700,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1317,SVD:1701,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1319,SVD:1705,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1323,SVD:1703,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1334,SVD:1717,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1337,SVD:1722,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1338,SVD:1720,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1378,SVD:1726,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1381,SVD:1730,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1386,SVD:1734,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1387,SVD:1736,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1389,SVD:1741,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1395,SVD:1743,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1396,SVD:1744,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1398,SVD:1749,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1408,SVD:1759,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1416,SVD:1768,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1417,SVD:1769,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1425,SVD:1773,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1430,SVD:1778,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1438,SVD:1787,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1439,SVD:1788,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1445,SVD:1795,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1452,SVD:1799,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1453,SVD:1801,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1454,SVD:1802,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1455,SVD:1803,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1457,SVD:1805,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1458,SVD:1806,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1469,SVD:1817,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1477,SVD:1825,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1479,SVD:1827,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1482,SVD:1828,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1483,SVD:1829,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1485,SVD:1833,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1488,SVD:1834,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1501,SVD:1848,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1502,SVD:1849,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1525,SVD:1850,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1545,SVD:1851,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1546,SVD:1852,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1550,SVD:1857,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1551,SVD:1859,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1560,SVD:1867,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1561,SVD:1868,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1565,SVD:1872,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1568,SVD:1875,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1572,SVD:1879,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1574,SVD:1880,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1576,SVD:1882,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1580,SVD:1887,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1588,SVD:1888,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1593,SVD:1893,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1595,SVD:1895,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1596,SVD:1896,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1597,SVD:1897,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1600,SVD:1901,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1603,SVD:1908,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1615,SVD:1915,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1616,SVD:1916,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1621,SVD:1922,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1625,SVD:1924,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1628,SVD:1927,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1633,SVD:1933,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1636,SVD:1936,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1639,SVD:1938,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1647,SVD:1941,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1650,SVD:1949,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1651,SVD:1951,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1654,SVD:1954,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1656,SVD:1955,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1663,SVD:1965,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1668,SVD:1967,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1670,SVD:1969,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1673,SVD:1973,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1674,SVD:1974,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1675,SVD:1976,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1678,SVD:1977,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1679,SVD:1978,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1684,SVD:1983,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1687,SVD:1986,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1692,SVD:1991,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1693,SVD:1992,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1714,SVD:1995,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1715,SVD:1919,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1716,SVD:2000,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1718,SVD:2002,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1719,SVD:2004,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1720,SVD:1998,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1721,SVD:1475,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1744,SVD:2008,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1746,SVD:2010,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1747,SVD:2012,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1750,SVD:2014,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1751,SVD:2015,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1757,SVD:2027,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1759,SVD:2023,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1764,SVD:2028,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1766,SVD:2030,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1768,SVD:2033,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1772,SVD:2036,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1773,SVD:2037,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1779,SVD:2044,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1781,SVD:2045,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1787,SVD:2052,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1791,SVD:2055,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1793,SVD:2057,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1799,SVD:2062,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1810,SVD:2077,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1811,SVD:2078,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1814,SVD:2081,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1819,SVD:2084,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1833,SVD:2102,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1868,SVD:2109,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1889,SVD:2114,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1890,SVD:2115,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1896,SVD:2119,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1904,SVD:2127,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1905,SVD:2128,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1907,SVD:2130,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1911,SVD:2134,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1912,SVD:2135,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1928,SVD:2142,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1933,SVD:2143,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1937,SVD:2148,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1941,SVD:2153,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1948,SVD:2159,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1957,SVD:2167,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1959,SVD:2169,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1962,SVD:2171,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1963,SVD:2172,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1967,SVD:2179,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1968,SVD:2178,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1971,SVD:2180,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1980,SVD:2190,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1981,SVD:2191,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1984,SVD:2194,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:1999,SVD:2208,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2000,SVD:2209,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2001,SVD:2210,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2005,SVD:2213,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2008,SVD:2217,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2013,SVD:2221,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2015,SVD:2223,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2016,SVD:2224,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2019,SVD:2226,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2020,SVD:2227,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2025,SVD:2234,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2027,SVD:2237,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2032,SVD:2240,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2055,SVD:2244,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2056,SVD:2245,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2063,SVD:2254,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2066,SVD:2255,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2068,SVD:2257,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2070,SVD:2261,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2074,SVD:2266,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2085,SVD:2276,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2089,SVD:2278,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2092,SVD:2282,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2093,SVD:2284,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2094,SVD:2285,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2095,SVD:2286,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2096,SVD:2287,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2098,SVD:2281,sealed_pathological_challenge,1.0,SVD,Reinke Ödem,668d6168c0c256cb2423221ba0b695fbb41c938c85bf7f63b8e21cdb53c44f12,
+SVD:2099,SVD:2288,development,1.0,SVD,Stimmlippenpolyp,aada1b95d0796e97b9a8cc6a54b3f30930101d95ce7f344ad7976b14282cde58,
+SVD:2103,SVD:2292,sealed_pathological_challenge,1.0,SVD,"Dysodie, Kontaktpachydermie",b6ceda224f076a395792b4e2c25fced143ca37d416945a70f8e5d405c86f348c,
+SVD:2106,SVD:2295,development,1.0,SVD,Dysphonie,da327d2c5c539dd0aa22489a8d906058782fc60e40e195cfaff2e7e354b09081,
+SVD:2113,SVD:2302,development,1.0,SVD,Dysarthrophonie,bcc9dd1ed741f835d887603f58620098ad433569d524b5cea228ccdf0bf5232d,
+SVD:2116,SVD:2306,sealed_pathological_challenge,1.0,SVD,"Hypofunktionelle Dysphonie, Kontaktpachydermie",2fe518d62318657d2b4cbf5042e4846897ba8944fab704bf2b4b0384688d2400,
+SVD:2117,SVD:2307,sealed_pathological_challenge,1.0,SVD,Dysphonie,e638825a8d7bd0de865ea1648cdbb158ac86e96d95c290ffe26a15ec65d9f712,
+SVD:2118,SVD:2303,development,1.0,SVD,"Dysphonie, Reinke Ödem",2f7a4a5407f650c26d6747609d1fd62afabd81d7a73b19f11736aca32d0a8aed,
+SVD:2125,SVD:2314,development,1.0,SVD,Dysphonie,cae33e7c4d889048f40239960e1ef896ee9ee9d9c7cb3b090962cee2b0dc0b23,
+SVD:2127,SVD:2316,development,1.0,SVD,Dysphonie,17922892a5dc8f5b9d7e01f17ab5ac03314322a05546ac71bc9f40c1953d3427,
+SVD:2129,SVD:2318,development,1.0,SVD,Balbuties,6d82f82ee98ac1866a39bdc68a0f83a0724bea7fa80e558e4dd968fcf859f8ad,
+SVD:2130,SVD:2319,development,1.0,SVD,Dysarthrophonie,c1ab2adc3a56ecfe6fd705d0600cb7b37f870b2f9d35fcd00f7fe7935f2c9062,
+SVD:2133,SVD:2322,development,1.0,SVD,Hypotone Dysphonie,b6104bdbf6f4610caddfacad4b034b56395abe86bac5dc111ad9b18e04c94282,
+SVD:2134,SVD:2323,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2137,SVD:2326,development,1.0,SVD,Cyste,a77dccd0f70244b71cc76423be0d6369447c96d023bfdd783bf1c838feb0d79d,
+SVD:2140,SVD:2329,development,1.0,SVD,Rhinophonie aperta,38387454ec961a57941b4ef591a1eee49cd6d277eac4bf4f1584582b6b143200,
+SVD:2143,SVD:2340,development,1.0,SVD,Dysodie,a10de3f1381fc958ae69180b5fc307d1e4c39e1e3765bbdab9d8fdea7e01c326,
+SVD:2145,SVD:2342,development,1.0,SVD,Balbuties,c775fc6a475ebe840f46e0805a4eb1014d0421cacac5f3263ae1c768d4823bc2,
+SVD:2146,SVD:2343,development,1.0,SVD,Kontaktpachydermie,481dce5adac05030ef82950107e303d38315739a05ac71da209a14786b06e1c9,
+SVD:2147,SVD:2344,sealed_pathological_challenge,1.0,SVD,Dysphonie,8696bb4143a12ec8e6805ab3de0d31f032a743543e947b60f19125ec769a92f4,
+SVD:2149,SVD:2346,development,1.0,SVD,Balbuties,7c77ec02d3caf0fcad5a3908fb1002bdca8a90fe078c9bf951047c5392cf04e6,
+SVD:2154,SVD:2351,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2157,SVD:2354,sealed_pathological_challenge,1.0,SVD,Stimmlippenpolyp,a32717f9b7da6dcb55b6ecf506365c5efdaffe0a1f67ff7e823059c0ccad77c2,
+SVD:2161,SVD:2358,development,1.0,SVD,Reinke Ödem,3020f368d1f50d0eedd26e912cd6beef8915ada13723c1ba9c9676c59db3a5d1,
+SVD:2183,SVD:2360,development,1.0,SVD,"Chordektomie, Synechie",2be8873c39d17ab47f54a0d0f565e6b0463c7953121904203cd7ffa4660de5db,
+SVD:2187,SVD:2365,development,1.0,SVD,Dysodie,c82d01e7a783f712a0e648fdd22a3fb92b3716093b35abfa8eb4f16dc0ec2944,
+SVD:2193,SVD:2371,sealed_pathological_challenge,1.0,SVD,Reinke Ödem,7468ee3f3177d5f9825fb70e280c82471e0f88dfe524f5f352e9933a66911a55,
+SVD:2212,SVD:2373,development,1.0,SVD,Hypofunktionelle Dysphonie,c4b74f426b885d3df7c0d7c6e63fcaa827d04a194db6109ec4f8cc1c861f5ae2,
+SVD:2214,SVD:2375,development,1.0,SVD,Zentral-laryngale Bewegungsstörung,ea2f9a1ba32e57b5a8d1bb1ff2f7dbf9164b18f7d9bcc03e7a15d6171234699c,
+SVD:2217,SVD:2378,development,1.0,SVD,Dysphonie,3453ad5844fc3868acd38ce7475cdb841c323cdcb2e3c3951eb3f3c9ad9e71fe,
+SVD:2220,SVD:2381,development,1.0,SVD,"Kontaktpachydermie, Monochorditis",64be32c059f5733083fbac1e7db3b99818b7656e38a4fc9a05cddab6bdd6996b,
+SVD:2222,SVD:2382,sealed_pathological_challenge,1.0,SVD,Dysodie,80b6f52b48b04c25ac09e62253f5479b8f353086c76a7ab735823d4eaa6c62ca,
+SVD:2223,SVD:2384,sealed_pathological_challenge,1.0,SVD,Dysarthrophonie,659612cc6ca6469da4c9c9e262e35641cffc65028dee0f2b617abea1f76a9aad,
+SVD:2226,SVD:2387,sealed_pathological_challenge,1.0,SVD,"Dysphonie, Chordektomie",786a068028b091878ef2c92e6e447ab0ed29b08e953299c935537e31e4ea61d7,
+SVD:2236,SVD:2398,development,1.0,SVD,Balbuties,4de5ffe781f3d44f16ae409409b8aba980ca5609b74bac832435f387ea570d9a,
+SVD:2238,SVD:2399,sealed_pathological_challenge,1.0,SVD,Dysphonie,5603e58aeb63921cc09cfd944b826a38ae116198fd00a01f72e46f36a93b2181,
+SVD:2266,SVD:2410,development,1.0,SVD,Dysphonie,ab4cc66ba6f6fb22191fb9ee910b5e8e70f95f945660d4d770bff7a933987c1c,
+SVD:2269,SVD:2413,development,1.0,SVD,Balbuties,f4144e987bb3f9999513dab53f46571da03ad77a360de3766ab14e200af312f3,
+SVD:2273,SVD:2417,development,1.0,SVD,Spasmodische Dysphonie,7f91636fe34c3bbab2b62ea4e85a68b319d638bdf20045e609ee1be218a2e31d,
+SVD:2275,SVD:2419,sealed_pathological_challenge,1.0,SVD,Psychogene Dysphonie,32a5c78970df5165a6fe35830c79bf1dfba761a9590b4b24347c939239c44192,
+SVD:2289,SVD:2423,development,1.0,SVD,Balbuties,fab7e13d79fcd6051dc2d5a3b24a6268b91fb0127a9cb4dbdeeac2576b931bb2,
+SVD:2294,SVD:2428,sealed_pathological_challenge,1.0,SVD,Rhinophonie aperta,e6c9fce704b87300e88fdf51b2c4902bfc2712ce50e1e5207a032b8aa0a39db9,
+SVD:2295,SVD:2429,development,1.0,SVD,Dysarthrophonie,9cb41558f1b0ef19f8a039fcf806d3e784ae83c5a0934ad6f4cbd944eb4e10f3,
+SVD:2299,SVD:2433,development,1.0,SVD,N. laryngeus superior Läsion,560626e7917306264996130815d7afd38d30a88d6747e7bc8e8202e330ac9951,
+SVD:2300,SVD:2434,development,1.0,SVD,Stimmlippenpolyp,a90a504c5a147611796d9f7c2faa95c44451d133e8b83a072a307eaa13ce2ed9,
+SVD:2306,SVD:2440,development,1.0,SVD,Poltersyndrom,fce18435036809b71082135518d2254405a469e6a626361f0464c9f693e96fa8,
+SVD:2309,SVD:2443,development,1.0,SVD,"Dysphonie, Dysodie",c9db34dcbf64adf11e95ca91df090ab586c6937e73cf22bb2ccd422436c14760,
+SVD:2316,SVD:2450,development,1.0,SVD,Psychogene Dysphonie,980ae601d4745827fccbb9214974c754f7648d6097bd4ea49b247753081708b1,
+SVD:2319,SVD:2453,development,1.0,SVD,Vox senilis,3b22155a7a253aceb2026a105ad49f73be88b55187c77fc4aafe25141ff92cfc,
+SVD:2322,SVD:2456,development,1.0,SVD,Dysodie,fc455936b642e2595f698467b63035234e45bc9940c3b916b1d80b0c1cbbd527,
+SVD:2323,SVD:2457,development,1.0,SVD,Dysphonie,36d0af9baa9c6c562934ba1881881340f61fafaef0be810e5b09a7827719c1b5,
+SVD:2325,SVD:2459,sealed_pathological_challenge,1.0,SVD,Dysphonie,5412a393f0bfcad5327b9e46a6f5652df79057a9cba943a4b5dc7c648a2e15b3,
+SVD:2329,SVD:2463,development,1.0,SVD,Dysarthrophonie,c18a6663a618b6b1df61c339cb02b896b9c606782fa553f3c28c12d566eca5db,
+SVD:2332,SVD:2466,development,1.0,SVD,Dysarthrophonie,46f306e887eddb92767ff8384791c28de159640bf6531920a023e3895bd3ba06,
+SVD:2335,SVD:2469,development,1.0,SVD,Dysodie,c9063977a6e9010da7bebdd39743af47645d2ea1617b7413d4f9c1a82c3568c8,
+SVD:2337,SVD:2471,development,1.0,SVD,Psychogene Dysphonie,0fb2bda513e4b948fb8cf4f06d55488dfc7fc73b5289a3d5316a094819bdcb30,
+SVD:2339,SVD:2473,development,,,,,500 Server Error: INTERNAL SERVER ERROR for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2343,SVD:2477,development,1.0,SVD,Stimmlippenkarzinom,fe478aa7ce9611a0975f19b02b9ce1ddb1f2cfbf1e865c60db9e94010cb538a9,
+SVD:2344,SVD:2478,development,1.0,SVD,Reinke Ödem,189db30afb90dad49192c3915a5b34d900e5c0ab3b219c6f7ee01d47905ddbc4,
+SVD:2345,SVD:2479,development,1.0,SVD,Reinke Ödem,f4f81ee1d161ea56714751e8c4909c20556fc0ef821e70b5fda5d6b0e26b6601,
+SVD:2347,SVD:2481,development,1.0,SVD,Dysphonie,0263ed935fb6d96f7fc64be908b1fa3cc9221cae0e4a6bc2d2fd7fe685e03187,
+SVD:2348,SVD:2482,sealed_pathological_challenge,1.0,SVD,Dysphonie,fbbdb4b449e7fcf22fc5b2476dd2e7ece0532a2e353ac7b5ab2db2a86c057977,
+SVD:2353,SVD:2487,sealed_pathological_challenge,1.0,SVD,Rhinophonie aperta,f3e6da9f885fe85961ad73516bdcba9733f1fc9385d57b8114dd23a0a9f83b11,
+SVD:2354,SVD:2488,development,1.0,SVD,Dysodie,0c2ac1db96e5084617a57d344e46734296905d0c187d44f0dce8e7107b36f9d1,
+SVD:2356,SVD:2490,development,1.0,SVD,Dysphonie,900ab6d07523de365177dfc2889c7974022ef464cf7d039872cc43cc22971367,
+SVD:2364,SVD:2499,sealed_pathological_challenge,1.0,SVD,Dysodie,09560f74b8167817ec63bcade499223d6bdc949345c5df59d1a6de632ea954b2,
+SVD:2368,SVD:2502,sealed_pathological_challenge,1.0,SVD,Rhinophonie aperta,f1f5896831c3b04dd95c1f89879c3c58dd00312f26dfeb90bce826754ff10a56,
+SVD:2369,SVD:2503,development,1.0,SVD,Dysphonie,03ae371f639f6042608cb796fc5157553836581fed7220831f205759bd9623a2,
+SVD:2372,SVD:2506,development,1.0,SVD,Psychogene Dysphonie,8f4f80e3e039d601056e62fb2d0618e531fc9ae694ff1671bceeb24ca53f3b81,
+SVD:2375,SVD:2509,sealed_pathological_challenge,1.0,SVD,Reinke Ödem,3a6ee96ef5fb9bcd2e0827c651452d511ba585d528016efd20e40754e1d64c6e,
+SVD:2376,SVD:2510,development,1.0,SVD,Zentral-laryngale Bewegungsstörung,2b8edf7afa84c7798ad98b14b8bd2adcbd45ede91a0da551fbf51ce23ff7eea6,
+SVD:2377,SVD:2511,development,1.0,SVD,Vox senilis,bbc6477cba4f2b1c8275b0d7efa06f46eebbfac4014f96930ee280c044b491b6,
+SVD:2380,SVD:2514,development,1.0,SVD,"Chordektomie, Taschenfaltenstimme",af68185f6af976e8003ee498215290bf92ff2524f5d7378b6ae202d98129670b,
+SVD:2381,SVD:2515,development,1.0,SVD,Reinke Ödem,a7b050cd44677a2ad4005b6f59fc136c8c1e98a67da069e7a807de5df0a1827c,
+SVD:2386,SVD:2520,development,1.0,SVD,Frontolaterale Teilresektion,d7fcaf9611a93bfe94cbd2f7e95254b2ee6997026937af2f5f6a54198c4c919e,
+SVD:2388,SVD:2522,development,1.0,SVD,Dysphonie,59b60a33e35309cfadf617ec8020699b313fcc5b17bf0c9ddc09119fb78e9ae8,
+SVD:2389,SVD:2523,development,1.0,SVD,Dysphonie,6a07188e7b7cad33268ba39069650d9383b99293dbe9ced09181d5e8b509ecf1,
+SVD:2390,SVD:2524,development,1.0,SVD,Dysarthrophonie,1e0dc07c08f2311f32b8c3dce5e7bb0f5d254fb650c7d410392d7494e23124a8,
+SVD:2392,SVD:2526,development,1.0,SVD,Dysphonie,1fb7f8cfd374263b2dee94c62b7a43310166983f72739b57dd32c72adc843d95,
+SVD:2400,SVD:2534,development,1.0,SVD,"Chordektomie, Taschenfaltenstimme",77096376bf06b32b070bbfe289af3f3170d1cb106ad0854e6a89978991ddf464,
+SVD:2401,SVD:2535,sealed_pathological_challenge,1.0,SVD,"Dysphonie, Kontaktpachydermie",3ba0a0f9a772821e6ec73f4c52b66c11745c4a10f32082e876c9f11fc4a56c62,
+SVD:2402,SVD:2536,development,1.0,SVD,Hypopharynxtumor,3c8b43d1bf8f23e507d32b5abb026b7036c2cdfab31ac9b3792a1e36306867f8,
+SVD:2403,SVD:2537,development,1.0,SVD,"Kontaktpachydermie, Monochorditis",ebd885ed170cf6f92cb5a5f4a94aa8afb770a952ccd89024b2d7c985fc51048a,
+SVD:2405,SVD:2539,development,,,,,500 Server Error: INTERNAL SERVER ERROR for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2406,SVD:2540,sealed_pathological_challenge,1.0,SVD,Kontaktpachydermie,7b8e0e24410a1141b4952de3b3970af301d27c6565be28a131b2f08366006597,
+SVD:2411,SVD:2545,development,1.0,SVD,Reinke Ödem,69741e5f963a0de694bece6da428c3093cc4b6481eba03f33cb3d6fc85b40dc6,
+SVD:2415,SVD:2549,sealed_pathological_challenge,1.0,SVD,Vox senilis,0869e283a9554e4c55263f886c520dbc537b6b258ff09a40da3fdee52859aff1,
+SVD:2421,SVD:2555,development,1.0,SVD,Vox senilis,c954bc2bb266ddff8aa328af9953d45514fd6733785a7d64c890134a81f1308e,
+SVD:2423,SVD:2557,sealed_pathological_challenge,1.0,SVD,N. laryngeus superior Neuralgie,833977181b25a3a8ed32bdcf2ab7ce609f685f353127adb964abdaee2f9d9580,
+SVD:2426,SVD:2560,development,1.0,SVD,Reinke Ödem,08fb5af27e4feef9e1767fa74cce4422f5ae9e1e18a9361ea4b3a64b57343878,
+SVD:2428,SVD:2562,development,1.0,SVD,Dysphonie,e2b12ec6b8c99e820efdd4870e231ee6ec0237b380a30324f2b079eb7a554c95,
+SVD:2434,SVD:2513,development,1.0,SVD,Intubationsgranulom,4944a23016fa18c465d3bd031f1f14b240bffc66b95befbd566a94cad37bff77,
+SVD:2436,SVD:2570,development,1.0,SVD,Dysphonie,8a61388d086e031141e89b6ee5d1738b281ea7dd25aa92dbe3e6768649e08094,
+SVD:2441,SVD:2575,development,1.0,SVD,Psychogene Dysphonie,e4c45242677ed8e2a03060d6869194a4dba209a81f87057fb11cc100f7a04961,
+SVD:2451,SVD:2585,development,1.0,SVD,Zentral-laryngale Bewegungsstörung,46d05ea12b64df769689b825c4c4ab9642fc1f1d2a4bad94d774fed9b001bc4f,
+SVD:2452,SVD:2586,development,1.0,SVD,Psychogene Dysphonie,486f35a2b8455bedb2b1afd7b96f8a8d751c7b4a73b9ad2e5c9836039185c147,
+SVD:2461,SVD:2595,development,1.0,SVD,Dysphonie,3fe63f9ac248cad2b7e21f7c53a10511a466b4aa03a4990868effc1754b204bb,
+SVD:2467,SVD:2601,development,1.0,SVD,Stimmlippenkarzinom,0e9a5800c404eaff17d0e44a56298876be90f99f49015d5913d0f98804e2dcee,
+SVD:2468,SVD:2602,sealed_pathological_challenge,1.0,SVD,Mutationsfistelstimme,3eeaeeab3589e435070a2e52b8de276d25888b037c3d2add6a0a3df0f2c883f7,
+SVD:2470,SVD:2604,sealed_pathological_challenge,1.0,SVD,Balbuties,543cf9e0e88c7a8bc85fc07de9d4d9f259fcac358e042eaadb6e0c6b0e59f46f,
+SVD:2474,SVD:2608,development,1.0,SVD,"Dysodie, Kontaktpachydermie",9c7e6efabb0ff446b0828a6a0a63222a86427a3fd74dfdfa07674cf62787cf9f,
+SVD:2475,SVD:2609,development,1.0,SVD,Dysodie,783badf557b9193589e970e03a0452723e91ac32118638e386c3d2cbc3c11eb2,
+SVD:2486,SVD:2620,development,1.0,SVD,Dysodie,251cd06202fbd68d9bbe1a9465acd158d3647194ee0dd3c72e0463e765ac219f,
+SVD:2488,SVD:2622,development,1.0,SVD,Dysphonie,05137e8ab30906eaa781531c37e2605d280dfaf73e10b83f329749692ddbcb7c,
+SVD:2489,SVD:2623,development,1.0,SVD,"Kontaktpachydermie, Psychogene Dysphonie",bbaaca784cbd2e6211691db192303c88216efdae74476df90324a726c2901738,
+SVD:2496,SVD:2630,development,,,,,Too short
+SVD:2498,SVD:2632,development,1.0,SVD,Kontaktpachydermie,ede961a826023bb3e04f5b13fd59c5e100e2439504893121bce55907aeb1c84e,
+SVD:2500,SVD:2634,development,1.0,SVD,Cyste,0ff0cb6d992d4321249121e4073afc0dccd1ae2f93f0863722c1a07ab6300a7a,
+SVD:2505,SVD:2639,sealed_pathological_challenge,,,,,Too short
+SVD:2509,SVD:2643,development,1.0,SVD,Vox senilis,93ddcaa5ed5d3d4888f27ac596bfe48ace70c1ad093634138f51f1be5cd6ba9a,
+SVD:2513,SVD:2647,sealed_pathological_challenge,1.0,SVD,Rhinophonie aperta,7a06d962c1275531b1b1ccaf08afea4633d4b62b904f593e01c7a6abdf582604,
+SVD:2514,SVD:2648,development,,,,,Too short
+SVD:2515,SVD:2649,sealed_pathological_challenge,1.0,SVD,Vox senilis,79cc861951d0f2f66d9dc2b5cb46c2cbf970123bc8edbb9c69c7dd0c3fd1b4d4,
+SVD:2519,SVD:2653,development,1.0,SVD,Kontaktpachydermie,28e262900648fb516faa7f9964601fa55f48188d6ab6d4903bbd4f2ef096cc2b,
+SVD:2520,SVD:2654,development,1.0,SVD,Psychogene Dysphonie,ad16bb260550545b6a0e866e2633cd860b0d5e3bb60ac83f9c42367732142b3f,
+SVD:2522,SVD:2656,sealed_pathological_challenge,1.0,SVD,Vox senilis,d1bca6de6a8cf56a3932ba9e58975cfa1117ee9f49d664ca1af5d9861fc88f8c,
+SVD:2529,SVD:2663,development,1.0,SVD,Papillom,b288b6c132b8c39d972cd7d60e10a76b904ce289fc526aa0d81d872e6f4690ed,
+SVD:2530,SVD:2664,development,1.0,SVD,Dysphonie,c7270ae91274d117e1eb6a3b4f5a92b2316d4cd723187f398f86033f7d1ac9ce,
+SVD:2531,SVD:2665,development,1.0,SVD,Kontaktpachydermie,383d2dc9ee09268a1eebea33bb51f722fafe13529147f759142e85d61fca21b2,
+SVD:2533,SVD:2336,sealed_pathological_challenge,1.0,SVD,Psychogene Dysphonie,87b5a3a341e14d4db39b46ed7714716323a06991efb84e5142593549fe9be844,
+SVD:2534,SVD:2668,development,1.0,SVD,Psychogene Dysphonie,f14d7975abe3b577c06ff0fbeb781668e2508f6dbad7214d6562a2c1031a07f0,
+SVD:2535,SVD:2669,development,1.0,SVD,Psychogene Dysphonie,ac92a560e6ee160ce69eee6686223dabe2c93c4b4342e05aecd7edd6486c1b33,
+SVD:2544,SVD:2678,development,1.0,SVD,Dysphonie,481ea508410fc338290965a7ea5c0b29cdbd1fa01d149bb740dd2f0d1b00a4dd,
+SVD:2547,SVD:2681,development,1.0,SVD,Kontaktpachydermie,9ec1db7b6f17c67d2682c119edac2f5032c08862174e465f907d6ef538fb6b0e,
+SVD:2549,SVD:2683,development,1.0,SVD,Leukoplakie,0899f5a1df38b69a95660a089d5b2e452ac174ef67e116de1bdfdf989a1ed444,
+SVD:2550,SVD:2684,development,1.0,SVD,Phonasthenie,64d212873e4a13162fefdfe596690449d9ca604eb66c0bf8636f834e1aa1c991,
+SVD:2552,SVD:2686,development,1.0,SVD,Dysodie,a6675d32488ac50297c80e6bd23c17fdf61a2fb7213266821b6b85893ea2d2dc,
+SVD:2554,SVD:2688,development,1.0,SVD,Balbuties,c999de107691d254aac95f8397a9f734442b9deb9883e64c803d5402af5bd4c3,
+SVD:2557,SVD:2690,development,1.0,SVD,Stimmlippenpolyp,81ab8d9a45e3885ceaad87d6c7a80d86c0860131d11ab4cccb0c6b4c3ee7afdf,
+SVD:2559,SVD:2693,development,1.0,SVD,Dysphonie,c46f4ff556ca199be1c16156f6415cfccb801e79fd8ff4191544b076ae92e174,
+SVD:2560,SVD:2694,development,1.0,SVD,Spasmodische Dysphonie,94c634e060071b737cdf79dd59075ffd1c764587016e68eb45a70bcbf0450618,
+SVD:2566,SVD:2700,development,1.0,SVD,Granulom,fa9b4468b914a701d158e21c6a0d5e4f032c80713a06e04ae66dc7fe15aa1045,
+SVD:2568,SVD:2702,development,1.0,SVD,Kontaktpachydermie,03ddf583728096223a787239d08a7227c6b5360aa78faf37ee82de1bd06f85f7,
+SVD:2569,SVD:2703,sealed_pathological_challenge,1.0,SVD,Vox senilis,aa8eab1cf50d76d04a87c93b61374e56e1c25baacdf60858f4137d8fff2919f7,
+SVD:2571,SVD:2705,development,1.0,SVD,Intubationsgranulom,fd4f20e5b89c6426f782b1ee01d151c88bb8035c6508e2022dd9f02c2ecd7e25,
+SVD:2573,SVD:2707,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2579,SVD:2713,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2580,SVD:2714,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2583,SVD:2717,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2584,SVD:2718,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2587,SVD:2721,sealed_pathological_challenge,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2592,SVD:2332,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2594,SVD:2333,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2595,SVD:2335,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2606,SVD:2732,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2607,SVD:2733,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2608,SVD:2734,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content
+SVD:2609,SVD:2735,development,,,,,429 Client Error: TOO MANY REQUESTS for url: https://zenodo.org/api/records/16874898/files/data.zip/content

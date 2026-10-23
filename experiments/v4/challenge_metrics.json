@@ -1,0 +1,15 @@
+{
+  "n_pathological": 63,
+  "n_healthy": 0,
+  "old_sensitivity": 0.6825396825396826,
+  "new_sensitivity": 0.6984126984126984,
+  "new_sensitivity_wilson95": [
+    0.5763962768644076,
+    0.7976230883781127
+  ],
+  "accepted_count": 24,
+  "balanced_accuracy": null,
+  "specificity": null,
+  "roc_auc": null,
+  "limitations": "Same-source positive-only challenge, with download/quality exclusions; not a representative external binary test."
+}

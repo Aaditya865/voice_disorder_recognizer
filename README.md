@@ -6,6 +6,12 @@ The current app compares GMM and DNN binary voice classifiers. The selected conf
 It accepts a sustained aa vowel, returns a research label or **Uncertain**, and offers three exploratory pathology-group scores.
 The subtype model cannot reliably identify a specific disorder and always remains uncertain.
 
+## Latest experiment: v4 was not promoted
+
+A completed nested development experiment added 198 SVD speakers and compared 14 configurations plus an ensemble, including CNNs and frozen WavLM embeddings. Its equal-source balanced accuracy on the original participants fell by 0.03115444915458554. It failed the predefined promotion criteria, so **the website retains v3 and all its uncertainty safeguards**.
+
+See [measured before/after results and limitations](V4_REPORT.md) and [complete experiment reproduction instructions](V4_RUN.md). The new-speaker challenge contains pathological recordings only; it is not an external binary accuracy test. Neither more data nor a larger model automatically improved this project.
+
 ## Run the prepared laptop
 
 Double-click **OPEN_WEBSITE.cmd**, or run the commands in [RUN_WEBSITE.md](RUN_WEBSITE.md).

@@ -1,0 +1,208 @@
+{
+  "seed": 20261024,
+  "candidates": [
+    {
+      "features": "rich",
+      "sr": 8000,
+      "id": "GMM_rich4",
+      "family": "GMM",
+      "subset": "rich",
+      "components": 4,
+      "covariance": "diag",
+      "pca": 20,
+      "order": 0
+    },
+    {
+      "features": "rich",
+      "sr": 8000,
+      "id": "GMM_mfcc2",
+      "family": "GMM",
+      "subset": "mfcc",
+      "components": 2,
+      "covariance": "diag",
+      "pca": 12,
+      "order": 1
+    },
+    {
+      "features": "rich",
+      "sr": 8000,
+      "id": "MLP_base",
+      "family": "MLP",
+      "subset": "base",
+      "layers": [
+        64,
+        32
+      ],
+      "alpha": 0.1,
+      "select": 0,
+      "order": 2
+    },
+    {
+      "features": "rich",
+      "sr": 8000,
+      "id": "MLP_mfcc",
+      "family": "MLP",
+      "subset": "mfcc",
+      "layers": [
+        32,
+        16
+      ],
+      "alpha": 1.0,
+      "select": 0,
+      "order": 3
+    },
+    {
+      "features": "rich",
+      "sr": 8000,
+      "id": "MLP_no_pitch",
+      "family": "MLP",
+      "subset": "no_pitch",
+      "layers": [
+        32,
+        16
+      ],
+      "alpha": 1.0,
+      "select": 0,
+      "order": 4
+    },
+    {
+      "features": "rich",
+      "sr": 8000,
+      "id": "MLP_rich",
+      "family": "MLP",
+      "subset": "rich",
+      "layers": [
+        32,
+        16
+      ],
+      "alpha": 1.0,
+      "select": 40,
+      "order": 5
+    },
+    {
+      "features": "rich",
+      "sr": 8000,
+      "id": "MLP_noise",
+      "family": "MLP",
+      "subset": "base",
+      "layers": [
+        64,
+        32
+      ],
+      "alpha": 1.0,
+      "select": 0,
+      "feature_noise": true,
+      "order": 6
+    },
+    {
+      "features": "rich",
+      "sr": 8000,
+      "id": "MLP_svd_only",
+      "family": "MLP",
+      "subset": "base",
+      "layers": [
+        64,
+        32
+      ],
+      "alpha": 0.1,
+      "select": 0,
+      "svd_only": true,
+      "order": 7
+    },
+    {
+      "features": "rich",
+      "sr": 8000,
+      "id": "SVM_mfcc_C1",
+      "family": "SVM",
+      "subset": "mfcc",
+      "C": 1.0,
+      "pca": 0,
+      "order": 8
+    },
+    {
+      "features": "rich",
+      "sr": 8000,
+      "id": "SVM_rich_C10",
+      "family": "SVM",
+      "subset": "rich",
+      "C": 10.0,
+      "pca": 0,
+      "order": 9
+    },
+    {
+      "features": "rich",
+      "sr": 8000,
+      "id": "CNN_aug",
+      "family": "CNN",
+      "subset": "rich",
+      "width": 16,
+      "dropout": 0.5,
+      "augment": true,
+      "order": 10
+    },
+    {
+      "features": "rich",
+      "sr": 8000,
+      "id": "MLP_wavlm",
+      "family": "MLP",
+      "subset": "embedding",
+      "layers": [
+        32,
+        16
+      ],
+      "alpha": 1.0,
+      "select": 0,
+      "pca": 32,
+      "order": 11
+    },
+    {
+      "features": "rich",
+      "sr": 8000,
+      "id": "MLP_fusion",
+      "family": "MLP",
+      "subset": "fusion",
+      "layers": [
+        64,
+        32
+      ],
+      "alpha": 1.0,
+      "select": 0,
+      "pca": 48,
+      "order": 12
+    },
+    {
+      "features": "rich",
+      "sr": 8000,
+      "id": "SVM_wavlm",
+      "family": "SVM",
+      "subset": "embedding",
+      "C": 1.0,
+      "pca": 48,
+      "order": 13
+    }
+  ],
+  "source_hashes": {
+    "svd_v3.py": "1c2851652f564b6719563042a6ee0b120dafa857945770ce944d2e4dfa8cd90b",
+    "svd_training.py": "3fd0d314cb3b5b52a2bfe54931944ebca8c07d0d6d9bb807c52d29f494f830e6",
+    "svd_advanced.py": "616ed581c679414280ebf34287e2d19eb3b19a0224a6d84ec354086121a74b54",
+    "svd_v4.py": "74b3409f25f79982cdabe2e14ae616fd8b27028183540978cdd12b3f69f1ccee"
+  },
+  "features_hash": "62f0b3ebdd55ff3b9763f5291521b561c819e040c79dd801a0fa09b997f8177c",
+  "manifest_hash": "eb7463123b27dcb342909bd72c73efeed592c2569d693096562c912356f33ad9",
+  "duplicate_exclusions": [],
+  "selection": "Equal-source balanced accuracy; cutoff selected inside inner validation; within .01 prefer GMM, MLP, SVM, CNN, ensemble",
+  "promotion": "Paired bootstrap lower95 delta>0; mean-source BA gain>=.02; neither source decreases by>.01 on original cohort. Otherwise retain v3.",
+  "challenge": "Downloaded usable subset of 100 preselected new pathological speakers; sensitivity only; never select models using it.",
+  "uncertainty": "Original .6,.7,.8,.9 requirements unchanged: each source accuracy>=.8, coverage>=.2, accepted>=20",
+  "development_only": true,
+  "max_training_hours": 6,
+  "embedding_hash": "0aa2018a4c3c746deb657a2f9b626e4e581ae872f9b27e4c387f3c49fe0b66b5",
+  "embedding_provenance": {
+    "model": "microsoft/wavlm-base-plus",
+    "revision": "4c66d4806a428f2e922ccfa1a962776e232d487b",
+    "pooling": "mean and standard deviation of layer 6",
+    "input": "16kHz; waveform zero mean/unit variance; central maximum 5s"
+  },
+  "prior_release_hash": "d758770fc223947199792a826d485b61d74d702cd9917b892771732a1ae54a25",
+  "old_outer_predictions_hash": "71301d1f206d9b6afb0e52ca086b58e5436d230bbc55e54fbb7f78276893fe01"
+}

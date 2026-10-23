@@ -30,3 +30,7 @@ artifacts_svd_v2/** -text
 artifacts_v3/** -text
 svd_v3.py -text
 svd_advanced.py -text
+
+# Preserve v4 protocol and fitted source hashes
+svd_v4.py -text
+experiments/v4/** -text

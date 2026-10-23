@@ -1,0 +1,4 @@
+-r requirements-training.txt
+transformers==4.57.1
+openpyxl==3.1.5
+pypdf==6.21.2

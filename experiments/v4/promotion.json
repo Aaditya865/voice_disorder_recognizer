@@ -1,0 +1,21 @@
+{
+  "development_promotion_eligible": false,
+  "equal_source_ba_gain": -0.03115444915458554,
+  "paired_bootstrap_95_delta": [
+    -0.06589836027447553,
+    0.003563055105321428
+  ],
+  "source_changes": {
+    "SVD": -0.005204216073781298,
+    "VOICED": -0.05710468223538967
+  },
+  "scope": "Adaptive development experiment; CI conditions on fixed predictions, not all tuning uncertainty",
+  "selected": {
+    "id": "MLP_noise",
+    "family": "MLP",
+    "order": 6,
+    "score": 0.6827908731793361,
+    "cutoff": 0.44999999999999996
+  },
+  "threshold": 0.8
+}

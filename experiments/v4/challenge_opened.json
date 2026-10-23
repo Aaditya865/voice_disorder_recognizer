@@ -1,0 +1,12 @@
+{
+  "time": 1792746738.1624348,
+  "model_hash": "79c4a3410aa0d99454f4c82f009fe34789ab5b1d300b8d0f871854051a69632a",
+  "selection": {
+    "id": "MLP_noise",
+    "family": "MLP",
+    "order": 6,
+    "score": 0.6827908731793361,
+    "cutoff": 0.44999999999999996
+  },
+  "scope": "New SVD speakers; pathological-only sensitivity challenge. Not external-dataset validation."
+}

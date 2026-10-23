@@ -1,0 +1,22 @@
+{
+  "new_svd_available": {
+    "p": 445
+  },
+  "incorrect_source_binary_or_speaker_mappings": 0,
+  "features": {
+    "shape": [
+      1420,
+      97
+    ],
+    "missing": 14,
+    "infinite": 0,
+    "constant_columns": []
+  },
+  "packages": {
+    "transformers": false,
+    "huggingface_hub": false,
+    "safetensors": false,
+    "requests": true
+  },
+  "note": "Published VOICED identity remains a record-level participant proxy. No label changed based on a model error."
+}
